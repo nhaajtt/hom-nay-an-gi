@@ -1,0 +1,562 @@
+{
+ "tacos-al-pastor": {
+  "history": "Ra đời ở Mexico City giữa thế kỷ 20, khi người Lebanon nhập cư mang kỹ thuật nướng thịt xiên quay (shawarma) vào Mexico và người dân đổi sang thịt heo ướp ớt, ăn kèm dứa.",
+  "joke": "Dứa trên taco: món duy nhất khiến cả team cãi nhau hăng hơn họp sprint."
+ },
+ "birria-tacos": {
+  "history": "Birria có gốc từ bang Jalisco, Mexico, vốn là món dê hầm. Taco birria nhúng nước hầm rồi áp chảo nổi tiếng ở Tijuana và bùng nổ ở Mỹ nhờ mạng xã hội khoảng cuối thập niên 2010.",
+  "joke": "Nhúng taco vào nước dùng xong, ví tôi cũng chìm theo."
+ },
+ "burrito": {
+  "history": "Tên nghĩa là con lừa nhỏ, xuất hiện ở miền bắc Mexico vào đầu thế kỷ 20. Kiểu burrito khổng lồ nhồi cơm, đậu là biến thể phổ biến ở Mỹ, nổi tiếng ở khu Mission, San Francisco.",
+  "joke": "Burrito là cái chăn ấm của dạ dày, cuộn xong là muốn ngủ trưa luôn."
+ },
+ "enchiladas": {
+  "history": "Tên xuất phát từ động từ enchilar nghĩa là phết ớt. Món có từ thời Mexico cổ đại, khi người dân cuộn bánh ngô với nhân rồi phủ sốt ớt.",
+  "joke": "Phủ sốt ngập mặt thế này, enchiladas cũng cần khẩu trang."
+ },
+ "tamales": {
+  "history": "Món hấp từ bột ngô gói trong lá ngô hoặc lá chuối, có từ thời Maya và Aztec cách đây hàng nghìn năm. Ở Mỹ, tamales là món truyền thống dịp Giáng sinh của người gốc Mexico.",
+  "joke": "Bóc lá tamales giống bóc quà sinh nhật, nhưng quà này ăn được."
+ },
+ "pozole": {
+  "history": "Súp ngô hominy có từ thời Aztec, theo một số ghi chép từng gắn với nghi lễ. Sau thời thuộc địa, thịt heo thay cho thịt dùng trong lễ, và món trở thành món ăn mừng ở Mexico.",
+  "joke": "Pozole nấu cả buổi, còn tôi húp một phát hết sạch deadline."
+ },
+ "quesadilla": {
+  "history": "Quesadilla ban đầu là bánh ngô gập nhân phô mai ở miền trung Mexico. Phiên bản bánh bột mì với phô mai cheddar hoặc Monterey Jack được phổ biến ở các nhà hàng Tex-Mex tại Mỹ.",
+  "joke": "Phô mai kéo sợi dài hơn cả danh sách việc cần làm của tôi."
+ },
+ "elote": {
+  "history": "Elote là bắp nướng quết mayonnaise, phô mai cotija, ớt bột và chanh, bán rộng rãi bởi xe đẩy đường phố Mexico. Tên xuất phát từ từ elotl trong tiếng Nahuatl nghĩa là bắp.",
+  "joke": "Ăn elote xong, răng tôi kẹt đầy râu bắp và tâm sự."
+ },
+ "chilaquiles": {
+  "history": "Món sáng truyền thống của Mexico từ bánh ngô chiên cắt miếng, nấu với sốt đỏ hoặc xanh. Tên có nguồn gốc Nahuatl, thường được giải thích là ớt trong nước.",
+  "joke": "Chilaquiles: tận dụng bánh chip thừa mà vẫn ra bữa sáng sang chảnh."
+ },
+ "carnitas": {
+  "history": "Món thịt heo om chậm trong mỡ có gốc từ bang Michoacán, Mexico. Tên nghĩa là thịt nhỏ, thịt mềm bên trong và hơi giòn bên ngoài.",
+  "joke": "Carnitas mềm đến mức thịt còn dễ tính hơn sếp của tôi."
+ },
+ "mole-poblano": {
+  "history": "Sốt mole poblano gắn với bang Puebla, Mexico, pha ớt, hạt và chocolate. Có truyền thuyết kể các nữ tu tạo ra nó, nhưng nguồn gốc chính xác vẫn còn tranh cãi.",
+  "joke": "Mole có hơn 20 nguyên liệu, còn tôi chỉ có 1 nguyên liệu: đói."
+ },
+ "nachos": {
+  "history": "Nachos được cho là do Ignacio Nacho Anaya sáng tạo ở Piedras Negras, Mexico khoảng năm 1943 khi vợ các quân nhân Mỹ ghé nhà hàng lúc muộn. Món sau đó lan rộng ở sân vận động Mỹ.",
+  "joke": "Nachos chia sẻ là một lời nói dối, tôi tự ăn hết rồi."
+ },
+ "guacamole-chips": {
+  "history": "Guacamole có từ thời Aztec, tên từ tiếng Nahuatl ahuacamolli nghĩa là sốt bơ. Ở Mỹ, món chấm này gắn liền với bóng đá, tiệc tùng và bánh tortilla chip.",
+  "joke": "Nhà hàng tính thêm tiền guacamole, ví tôi bảo đừng nhưng miệng thì cứ gật."
+ },
+ "fish-tacos": {
+  "history": "Taco cá chiên giòn gắn với vùng Baja California, Mexico. Nó lan đến Nam California từ thập niên 1980 và trở thành món đặc trưng của các tiệm ven biển như San Diego.",
+  "joke": "Ăn taco cá xong tôi tưởng mình đang đi biển, thực ra đang ngồi cạnh máy photocopy."
+ },
+ "carne-asada": {
+  "history": "Nghĩa là thịt nướng, món bò nướng ướp chanh và gia vị là trung tâm của các buổi tụ họp ngoài trời ở miền bắc Mexico. Ở Mỹ nó phổ biến trong cộng đồng gốc Mexico qua các bữa nướng cuối tuần.",
+  "joke": "Nghe tiếng nướng thịt là cả văn phòng bỗng sáng mắt ra."
+ },
+ "tortas": {
+  "history": "Torta là bánh mì kẹp kiểu Mexico, phát triển sau khi bánh bolillo, theo kiểu bánh mì Pháp, xuất hiện ở Mexico vào thế kỷ 19. Có nhiều loại nhân như thịt, trứng, bơ và phô mai.",
+  "joke": "Torta dày thế này, mở miệng ra cũng cần tập thể dục."
+ },
+ "horchata": {
+  "history": "Tên xuất phát từ orxata ở Tây Ban Nha, vốn làm từ củ chufa. Ở Mexico, horchata chuyển sang dùng gạo, quế và đường, thành đồ uống giải nhiệt phổ biến ở các tiệm taco Mỹ.",
+  "joke": "Horchata ngọt ngào, uống xong tôi quên luôn chuyện KPI."
+ },
+ "churros": {
+  "history": "Churros là bột chiên dài, phổ biến ở Tây Ban Nha và Bồ Đào Nha, rồi theo người Tây Ban Nha sang châu Mỹ. Nguồn gốc ban đầu còn tranh cãi, và ở Mỹ thường được lăn đường quế.",
+  "joke": "Churros chấm sô cô la: cách hợp pháp để ăn dầu mỡ và gọi đó là tráng miệng."
+ },
+ "menudo": {
+  "history": "Món súp lòng bò nấu với ớt, phổ biến ở miền bắc Mexico và hay được ăn vào sáng cuối tuần. Người dân tin nó giúp giải rượu, nên có biệt danh là món chữa say.",
+  "joke": "Menudo, món thuốc giải rượu mà ai uống hôm trước đều biết giá trị."
+ },
+ "huevos-rancheros": {
+  "history": "Nghĩa là trứng kiểu chủ trại, món sáng của các nông trại Mexico gồm trứng ốp la trên bánh tortilla với sốt cà chua cay. Nó lan sang Mỹ và trở thành món sáng của nhiều nhà hàng Tex-Mex.",
+  "joke": "Trứng ốp la trên sốt cay, đánh thức tôi tốt hơn ba cái báo thức."
+ },
+ "orange-chicken": {
+  "history": "Gà cam là món Trung Hoa kiểu Mỹ, thường được cho là do đầu bếp Andy Kao của Panda Express sáng tạo năm 1987 ở Hawaii. Nó dựa trên các món gà chua ngọt kiểu Hồ Nam.",
+  "joke": "Gà cam ngọt đến mức tôi tưởng ai đó đang tán tỉnh dạ dày mình."
+ },
+ "general-tsos-chicken": {
+  "history": "Gà tướng Tả là món Trung-Mỹ, ra đời ở New York thập niên 1970 nhờ đầu bếp Peng Chang-kuei và các đầu bếp khác. Món không phổ biến ở Trung Quốc đại lục, và tên nhắc đến tướng Tả Tông Đường.",
+  "joke": "General Tso có thể thắng trận, nhưng không thắng nổi cơn thèm của tôi."
+ },
+ "kung-pao-chicken": {
+  "history": "Gà Kung Pao là món Tứ Xuyên, thường được gắn với Đinh Bảo Trinh, quan thời nhà Thanh. Phiên bản ngọt hơn ở Mỹ khác khá nhiều so với món Tứ Xuyên gốc, vốn cay tê.",
+  "joke": "Ớt tê lưỡi của Kung Pao khiến tôi không nói nổi lời xin lỗi sếp."
+ },
+ "xiaolongbao": {
+  "history": "Bánh bao nhỏ có nước súp bên trong, nổi tiếng ở vùng Thượng Hải và Giang Nam, thường được cho là xuất hiện vào cuối thế kỷ 19. Quán Din Tai Fung từ Đài Loan đã giúp món này phổ biến toàn cầu.",
+  "joke": "Cắn vội xiaolongbao: lưỡi tôi bỏng, linh hồn tôi cũng đồng ý."
+ },
+ "mapo-tofu": {
+  "history": "Đậu phụ Ma Bà là món Tứ Xuyên, thường được kể là do bà chủ quán mặt rỗ ở Thành Đô sáng tạo vào cuối thời Thanh. Ở Mỹ, món này được đón nhận qua các nhà hàng Tứ Xuyên.",
+  "joke": "Mapo tofu cay đến mức tôi khóc, nhưng vẫn xin thêm cơm."
+ },
+ "chow-mein": {
+  "history": "Mì xào Trung Hoa, tên theo tiếng Quảng Đông nghĩa là mì chiên. Món đến Mỹ cùng làn sóng nhập cư Hoa vào thế kỷ 19 và trở thành món chủ lực của các quán Trung-Mỹ.",
+  "joke": "Mì xào chow mein, công thức mì gói của người trưởng thành."
+ },
+ "peking-duck": {
+  "history": "Vịt quay Bắc Kinh có lịch sử nhiều thế kỷ, được ghi nhận từ thời nhà Minh. Các tiệm như Quanjude, mở năm 1864, giúp món trở thành biểu tượng ẩm thực Trung Hoa.",
+  "joke": "Da vịt giòn thế này, tôi sẵn sàng ký hợp đồng cả đời."
+ },
+ "hot-pot": {
+  "history": "Lẩu Trung Hoa có lịch sử hàng nghìn năm, với nhiều kiểu vùng miền. Lẩu Trùng Khánh cay tê nổi tiếng, và những năm gần đây lẩu rất phổ biến ở Mỹ nhờ các chuỗi từ Trung Quốc và Đài Loan.",
+  "joke": "Lẩu là bữa ăn mà ai cũng nhúng, ai cũng chờ, ai cũng đói."
+ },
+ "beef-noodle-soup": {
+  "history": "Món mì bò hầm cay gắn với Đài Loan, phát triển từ thập niên 1940 và 1950 bởi những người từ Trung Quốc đại lục di cư sang, đặc biệt là quân nhân. Nó thường được xem là món quốc dân của Đài Loan.",
+  "joke": "Một tô mì bò đủ để tôi tha thứ cho cả tuần thứ hai."
+ },
+ "har-gow": {
+  "history": "Há cảo tôm là món dim sum Quảng Đông, có vỏ bột trong và nhân tôm. Món nổi lên ở các trà lâu Quảng Châu vào khoảng đầu thế kỷ 20.",
+  "joke": "Há cảo mỏng như lời hứa của sếp: nhìn xuyên được luôn."
+ },
+ "siu-mai": {
+  "history": "Xíu mại kiểu Quảng Đông là bánh hấp hở miệng nhân thịt heo và tôm, dùng trong dim sum. Một số nguồn cho rằng món có gốc từ miền bắc Trung Quốc, và cách làm đã đổi theo vùng.",
+  "joke": "Xíu mại nhỏ xíu, nhưng tôi ăn cả xửng không chút áy náy."
+ },
+ "char-siu-bao": {
+  "history": "Bánh bao nhân thịt xá xíu là món dim sum Quảng Đông, có thể là bao hấp trắng mềm hoặc nướng bóng. Món phổ biến ở các tiệm Chinatown ở Mỹ.",
+  "joke": "Bánh bao xá xíu mềm quá, tôi còn muốn gối đầu."
+ },
+ "egg-rolls": {
+  "history": "Egg roll kiểu Mỹ được phát triển trong các nhà hàng Trung Hoa ở New York từ thập niên 1930 và 1940, khác với chun juan ở Trung Quốc. Đây là món khai vị cơ bản của thực đơn Trung-Mỹ.",
+  "joke": "Egg roll là bạn thân của nước sốt chua ngọt."
+ },
+ "sweet-and-sour-pork": {
+  "history": "Thịt heo xào chua ngọt bắt nguồn từ món cô lão nhục của Quảng Đông. Phiên bản có sốt đỏ cà chua ngọt hơn được phổ biến mạnh ở Mỹ.",
+  "joke": "Chua ngọt giống đời: tôi muốn ngọt, nhưng sếp cho chua."
+ },
+ "beef-broccoli": {
+  "history": "Bò xào bông cải xanh là món Trung-Mỹ, gắn với các nhà hàng Quảng Đông ở Mỹ vào thế kỷ 20. Bông cải xanh phương Tây thay cho cải rổ kiểu Trung Hoa.",
+  "joke": "Bò xào bông cải: ăn rau mà còn thấy mình giỏi."
+ },
+ "fried-rice-yangzhou": {
+  "history": "Cơm chiên Dương Châu gắn với thành phố Dương Châu, tỉnh Giang Tô. Nhiều nguồn kể nó có từ thời Thanh, nhưng chi tiết nguồn gốc không chắc chắn.",
+  "joke": "Cơm chiên Dương Châu: nhiều thứ trộn lẫn mà vẫn hòa hợp, ước gì team tôi được vậy."
+ },
+ "wonton-soup": {
+  "history": "Hoành thánh có lịch sử hàng nghìn năm ở Trung Quốc. Súp hoành thánh kiểu Quảng Đông với nước dùng trong, tôm và thịt heo phổ biến ở Mỹ qua các nhà hàng Trung Hoa.",
+  "joke": "Hoành thánh trôi trong tô như tôi trôi trong tháng cuối quý."
+ },
+ "dan-dan-noodles": {
+  "history": "Mì Đan Đan là món đường phố Tứ Xuyên, tên nghĩa là đòn gánh vì người bán rong gánh mì trên vai. Món thường được cho là có từ giữa thế kỷ 19.",
+  "joke": "Mì Đan Đan cay tê, ăn xong tôi hết sức nghĩ chuyện công việc."
+ },
+ "crab-rangoon": {
+  "history": "Bánh nhân phô mai kem và thịt cua giả, chiên giòn, là sáng tạo của nhà hàng Trung-Mỹ. Nó thường được liên hệ với nhà hàng Polynesian ở San Francisco vào thập niên 1950.",
+  "joke": "Crab rangoon: cua ít, phô mai nhiều, nhưng ai quan tâm."
+ },
+ "hand-pulled-noodles": {
+  "history": "Mì kéo Lan Châu gắn với thành phố Lan Châu ở Cam Túc, thường được cho là phát triển vào đầu thế kỷ 20. Tô mì có nước trong, thịt bò, củ cải trắng, ớt và rau thơm.",
+  "joke": "Mì kéo tay: người ta kéo mì, còn tôi kéo thêm một tô nữa."
+ },
+ "egg-tart": {
+  "history": "Bánh tart trứng ở Hồng Kông chịu ảnh hưởng từ pastel de nata của Bồ Đào Nha và bánh custard Anh. Món phổ biến từ thập niên 1940 và 1950, và bán nhiều ở tiệm dim sum Mỹ.",
+  "joke": "Tart trứng vừa ra lò: một miếng để vui, hai miếng để nghiện."
+ },
+ "korean-bbq": {
+  "history": "Các món nướng như bulgogi và galbi có từ lâu đời ở Hàn Quốc, còn kiểu nướng ngay tại bàn phát triển mạnh vào thế kỷ 20. Ở Mỹ, nó lan rộng cùng cộng đồng người Hàn, nhất là ở Los Angeles và New York.",
+  "joke": "Nướng thịt tại bàn: vừa ăn vừa làm đầu bếp, mà lương chưa tăng."
+ },
+ "bibimbap": {
+  "history": "Bibimbap nghĩa là cơm trộn, là món truyền thống của Hàn Quốc với nhiều biến thể vùng miền. Nguồn gốc chính xác không chắc chắn, và bibimbap Jeonju thường được xem là nổi tiếng nhất.",
+  "joke": "Bibimbap trộn lung tung mà vẫn đẹp, ước gì lịch làm việc của tôi cũng vậy."
+ },
+ "kimchi-jjigae": {
+  "history": "Món kim chi hầm là món chủ lực trong bữa ăn Hàn Quốc, dùng kim chi chua lên men nấu với thịt heo hoặc cá ngừ. Kim chi có từ rất lâu, còn ớt chỉ du nhập vào Hàn Quốc khoảng thế kỷ 16 và 17.",
+  "joke": "Kim chi càng chua, jjigae càng ngon, giống người càng stress càng giỏi."
+ },
+ "tteokbokki": {
+  "history": "Tteokbokki cay kiểu hiện đại nổi lên từ thập niên 1950 ở Seoul, thường được kể là nhờ bà Ma Bok-rim. Món bánh gạo thì xưa hơn nhiều, còn sốt gochujang cay ngọt là đặc trưng.",
+  "joke": "Tteokbokki cay xé miệng mà tôi vẫn nói: thêm phô mai nhé."
+ },
+ "korean-fried-chicken": {
+  "history": "Gà rán Hàn Quốc phát triển từ thập niên 1960 và 1970, chịu ảnh hưởng gà rán Mỹ. Cách chiên hai lần giúp da giòn hơn, thường phủ sốt cay ngọt hoặc xì dầu tỏi.",
+  "joke": "Gà rán Hàn giòn đến mức nghe tiếng nhai là đồng nghiệp ngoảnh lại."
+ },
+ "japchae": {
+  "history": "Japchae ban đầu là món cung đình thời Joseon, vào thế kỷ 17, khi chưa có miến. Miến khoai lang được thêm vào khoảng đầu thế kỷ 20.",
+  "joke": "Miến japchae bóng mượt, trơn tuột như lời hứa deadline của tôi."
+ },
+ "kimbap": {
+  "history": "Kimbap là cơm cuộn rong biển của Hàn Quốc. Nhiều nhà nghiên cứu cho rằng nó chịu ảnh hưởng kỹ thuật cuộn của Nhật, nhưng nhân và gia vị đã phát triển theo kiểu Hàn riêng.",
+  "joke": "Kimbap cắt khúc: bữa trưa mang theo hoàn hảo cho dân văn phòng chạy deadline."
+ },
+ "soondubu-jjigae": {
+  "history": "Súp đậu phụ non cay là món Hàn Quốc dùng đậu phụ mềm chưa ép nước. Ở Mỹ, món trở nên quen thuộc nhờ các tiệm ở Koreatown, Los Angeles.",
+  "joke": "Soondubu sôi sùng sục, tôi cũng sôi sùng sục chờ ăn."
+ },
+ "bulgogi": {
+  "history": "Bulgogi nghĩa là thịt lửa, là bò thái mỏng ướp xì dầu và đường rồi nướng. Món có lịch sử lâu đời, tiền thân thường được nhắc đến là neobiani thời Joseon.",
+  "joke": "Bulgogi ngọt mặn đúng gu, ai cũng xin tôi một miếng."
+ },
+ "naengmyeon": {
+  "history": "Mì lạnh Hàn Quốc có hai kiểu nổi tiếng là Pyongyang và Hamhung. Món truyền thống ăn vào mùa đông, nhưng ngày nay phổ biến hơn vào mùa hè.",
+  "joke": "Mì lạnh naengmyeon: lạnh như phản hồi của crush, nhưng ngon hơn."
+ },
+ "korean-corn-dog": {
+  "history": "Corn dog kiểu Hàn bọc phô mai mozzarella, bột và khoai tây cắt hạt lựu rồi chiên giòn, bùng nổ như món ăn vặt đường phố từ khoảng thập niên 2010 và sau đó lan sang Mỹ.",
+  "joke": "Phô mai kéo dài một mét, selfie xong mới dám cắn."
+ },
+ "sushi": {
+  "history": "Sushi bắt nguồn từ cách bảo quản cá bằng cơm lên men ở Đông Nam Á, rồi tới Nhật. Nigiri kiểu Edo hiện đại xuất hiện khoảng đầu thế kỷ 19, và sushi phổ biến ở Mỹ từ thập niên 1960 và 1970.",
+  "joke": "Sushi băng chuyền: nhìn mà không bắt kịp là mất cả đĩa."
+ },
+ "ramen": {
+  "history": "Ramen bắt nguồn từ mì kiểu Trung Hoa du nhập vào Nhật cuối thế kỷ 19 và đầu thế kỷ 20. Mì ăn liền do Momofuku Ando phát minh năm 1958 càng khiến món này nổi tiếng toàn cầu.",
+  "joke": "Húp ramen kêu to: xin lỗi cả văn phòng, tôi đang tôn trọng tô mì."
+ },
+ "california-roll": {
+  "history": "Cuộn California thường được cho là xuất hiện ở Los Angeles vào thập niên 1960 và 1970, với rong biển cuộn bên trong, nhân bơ và thanh cua. Ai là người sáng tạo đầu tiên vẫn còn tranh cãi.",
+  "joke": "California roll: sushi cho người chưa dám ăn cá sống, kiểu thử nước ấm."
+ },
+ "teriyaki-chicken": {
+  "history": "Teriyaki là kỹ thuật nướng hoặc áp chảo với sốt xì dầu ngọt tạo độ bóng của Nhật. Gà teriyaki kiểu Mỹ trở nên phổ biến, nhất là ở Seattle từ thập niên 1970, thường gắn với Toshi Kasahara.",
+  "joke": "Sốt teriyaki bóng loáng, tôi còn tưởng soi gương được."
+ },
+ "tonkatsu": {
+  "history": "Tonkatsu là thịt heo chiên giòn, xuất hiện ở Nhật cuối thế kỷ 19 khi ảnh hưởng ẩm thực phương Tây tăng lên. Quán Rengatei ở Tokyo thường được nhắc là nơi tạo ra món vào năm 1899.",
+  "joke": "Tonkatsu giòn rụm, nghe tiếng cắt là biết hôm nay đáng sống."
+ },
+ "udon": {
+  "history": "Udon là mì lúa mì dày của Nhật, có từ nhiều thế kỷ trước. Vùng Kagawa, trước đây gọi là Sanuki, nổi tiếng nhất với udon.",
+  "joke": "Udon dai mềm, giống tôi cố gắng mãi mà không chịu đứt."
+ },
+ "tempura": {
+  "history": "Tempura chịu ảnh hưởng kỹ thuật chiên của người Bồ Đào Nha đến Nhật vào thế kỷ 16. Từ tempura có thể bắt nguồn từ tiếng Bồ Đào Nha, dù vẫn có các giả thuyết khác.",
+  "joke": "Tempura giòn nhẹ, một tiếng rộp là quên hết drama."
+ },
+ "takoyaki": {
+  "history": "Takoyaki là bánh bạch tuộc viên tròn, thường được cho là do Tomekichi Endo sáng tạo năm 1935 ở Osaka. Món đường phố này sau đó phổ biến khắp Nhật.",
+  "joke": "Takoyaki nóng hổi: tôi cắn xong, nhảy dựng và khóc cùng lúc."
+ },
+ "katsu-curry": {
+  "history": "Cà ri Nhật được du nhập từ Anh vào thời Minh Trị. Katsu curry, tức thịt heo chiên giòn ăn với cà ri, thường được cho là xuất hiện ở Nhật vào khoảng giữa thế kỷ 20.",
+  "joke": "Katsu curry: cà ri ngập lội, katsu bơi, tôi chìm."
+ },
+ "onigiri": {
+  "history": "Onigiri là cơm nắm Nhật, có từ hàng trăm năm trước và từng là khẩu phần tiện lợi cho người đi đường, binh lính. Ngày nay nó có mặt ở mọi cửa hàng tiện lợi.",
+  "joke": "Onigiri: bữa trưa giá rẻ mà khiến tôi thấy mình sống có kế hoạch."
+ },
+ "matcha-ice-cream": {
+  "history": "Kem matcha kết hợp trà xanh bột của Nhật với kem kiểu phương Tây. Hương vị này trở nên phổ biến ở Mỹ từ thập niên 1990 trở đi, qua các nhà hàng Nhật.",
+  "joke": "Kem matcha: chút đắng của trà, chút ngọt của kem, giống đời tôi."
+ },
+ "pad-thai": {
+  "history": "Pad thai phổ biến ở Thái Lan vào thập niên 1930 và 1940, khi chính quyền Thủ tướng Plaek Phibunsongkhram khuyến khích dùng mì gạo và xây dựng bản sắc quốc gia. Nó nổi tiếng ở Mỹ từ thập niên 1970.",
+  "joke": "Pad thai chua cay mặn ngọt đủ cả, không như lịch họp của tôi."
+ },
+ "green-curry": {
+  "history": "Cà ri xanh Thái, gaeng keow wan, là món của miền trung Thái Lan, dùng sốt từ ớt xanh và nước cốt dừa. Nhiều nguồn cho rằng nó phổ biến từ khoảng đầu thế kỷ 20.",
+  "joke": "Cà ri xanh cay thế nào cũng xin thêm một bát cơm."
+ },
+ "tom-yum": {
+  "history": "Tom yum là món canh chua cay Thái với sả, lá chanh và riềng. Có hai kiểu là nước trong và nước béo, còn nguồn gốc chính xác của món không rõ ràng.",
+  "joke": "Tom yum chua cay nồng nàn, đánh thức cả đồng nghiệp ngủ gật."
+ },
+ "som-tam": {
+  "history": "Som tam là gỏi đu đủ xanh giã, gắn với vùng Isan và Lào. Vì ớt và đu đủ đều đến từ châu Mỹ nên món này hình thành khá muộn trong lịch sử.",
+  "joke": "Giã gỏi đu đủ, tôi cũng đang giã nát nỗi lo cuối tháng."
+ },
+ "pad-kra-pao": {
+  "history": "Pad kra pao là món xào lá húng quế thánh với thịt, ớt và tỏi, thường ăn với cơm và trứng ốp la. Nó là món bình dân phổ biến khắp Thái Lan.",
+  "joke": "Cơm kra pao trứng ốp la: bữa trưa cứu rỗi những ngày kiệt sức."
+ },
+ "mango-sticky-rice": {
+  "history": "Xôi xoài là món tráng miệng Thái với xôi nếp nấu nước cốt dừa và xoài chín. Món gắn với mùa xoài ở Thái Lan, và quen thuộc ở các tiệm Thái tại Mỹ.",
+  "joke": "Xoài ngọt, xôi dẻo, tâm hồn tôi mềm nhũn."
+ },
+ "massaman-curry": {
+  "history": "Cà ri massaman của Thái chịu ảnh hưởng của thương nhân Hồi giáo và gia vị Ba Tư, Ấn Độ. Tên gọi có thể liên quan đến chữ Muslim, dù nguồn gốc chi tiết còn tranh luận.",
+  "joke": "Massaman béo ngậy, ăn xong chỉ muốn nằm yên."
+ },
+ "thai-iced-tea": {
+  "history": "Trà đá Thái, cha yen, dùng trà đen pha gia vị với sữa đặc và có màu cam đặc trưng. Nó trở thành thức uống quen thuộc ở các nhà hàng Thái tại Mỹ.",
+  "joke": "Trà Thái màu cam rực, ngọt đến mức tôi tưởng mình đang yêu."
+ },
+ "chicken-adobo": {
+  "history": "Adobo là món gà hoặc heo kho giấm, xì dầu, tỏi và lá nguyệt quế của Philippines. Cách kho với giấm có từ trước thời Tây Ban Nha, còn tên adobo do người Tây Ban Nha đặt.",
+  "joke": "Adobo để qua đêm lại ngon hơn, giống tôi nên ngủ thêm chút."
+ },
+ "lumpia": {
+  "history": "Lumpia của Philippines chịu ảnh hưởng chả giò Phúc Kiến do thương nhân Hoa mang đến. Nó thường nhỏ, giòn, nhân thịt và ăn cùng sốt chua ngọt.",
+  "joke": "Lumpia nhỏ xinh, nhưng bữa tiệc nào cũng biến mất đầu tiên."
+ },
+ "pancit": {
+  "history": "Pancit là mì xào của Philippines, có nguồn gốc từ mì do thương nhân Hoa mang tới. Tên gọi bắt nguồn từ tiếng Phúc Kiến, và mỗi vùng có kiểu pancit riêng.",
+  "joke": "Pancit trong tiệc sinh nhật: mì dài, đời dài, bụng cũng dài."
+ },
+ "sinigang": {
+  "history": "Sinigang là canh chua của Philippines, thường dùng me hoặc các loại quả chua khác, nấu với thịt heo, cá hoặc tôm. Món rất quen thuộc trong bữa cơm gia đình.",
+  "joke": "Sinigang chua thanh, tỉnh cả người sau buổi họp dài."
+ },
+ "halo-halo": {
+  "history": "Halo-halo nghĩa là trộn trộn, là món chè đá của Philippines. Nhiều người cho rằng nó chịu ảnh hưởng món đá bào của Nhật, và có đậu, trái cây, thạch, flan.",
+  "joke": "Halo-halo trộn đủ thứ, đúng kiểu ngăn kéo bàn làm việc của tôi."
+ },
+ "sisig": {
+  "history": "Sisig là món băm từ mặt heo, nổi tiếng ở Angeles City, Pampanga. Bà Lucing Cunanan thường được ghi nhận là người làm cho sisig nổi tiếng vào thập niên 1970.",
+  "joke": "Sisig xèo xèo trên đĩa gang, tiếng reo của một ngày tốt đẹp."
+ },
+ "chicken-tikka-masala": {
+  "history": "Món gà tẩm gia vị nướng rồi nấu sốt cà chua kem này thường được gắn với cộng đồng người Nam Á ở Anh, nhất là Glasgow thập niên 1970. Nguồn gốc chính xác vẫn còn tranh cãi.",
+  "joke": "Tikka masala: món cà ri mà ngay cả người sợ cay cũng dám thử."
+ },
+ "butter-chicken": {
+  "history": "Butter chicken, murgh makhani, thường được cho là do nhà hàng Moti Mahal ở Delhi tạo ra vào khoảng thập niên 1950, từ gà tandoori thừa nấu với sốt bơ cà chua. Hai bên tranh chấp quyền sáng tạo.",
+  "joke": "Gà sốt bơ mà không có naan thì như họp mà không có cà phê."
+ },
+ "naan": {
+  "history": "Naan là bánh mì dẹt nướng trong lò tandoor, phổ biến ở Bắc Ấn, Pakistan và Trung Á. Từ naan xuất hiện trong ghi chép từ thế kỷ 14.",
+  "joke": "Naan xé miếng chấm cà ri: kỹ năng sống còn của dân sành ăn."
+ },
+ "samosa": {
+  "history": "Samosa có gốc từ Trung Đông và Trung Á, rồi du nhập đến Ấn Độ vào khoảng thế kỷ 13 và 14. Phiên bản nhân khoai tây và đậu Hà Lan nổi tiếng ở Ấn Độ.",
+  "joke": "Samosa hình tam giác, sức hút vô hạn."
+ },
+ "chana-masala": {
+  "history": "Món đậu gà nấu với sốt cà chua và gia vị là món phổ biến ở Bắc Ấn, đặc biệt là Punjab. Nó thường ăn với bhatura hoặc cơm.",
+  "joke": "Đậu gà chana masala: ăn chay mà vẫn no như vừa ăn tiệc."
+ },
+ "biryani": {
+  "history": "Biryani là món cơm nấu với thịt và gia vị, chịu ảnh hưởng của ẩm thực Ba Tư và triều đại Mughal ở Ấn Độ. Hyderabad, Lucknow và Kolkata đều có kiểu biryani riêng.",
+  "joke": "Biryani nhiều lớp như drama công sở, bóc mỗi lớp lại có bất ngờ."
+ },
+ "palak-paneer": {
+  "history": "Palak paneer là món rau chân vịt nấu với phô mai paneer, phổ biến ở Bắc Ấn, nhất là Punjab. Nó là một trong những món chay quen thuộc ở nhà hàng Ấn tại Mỹ.",
+  "joke": "Rau chân vịt với phô mai: ăn rau mà thấy mình đang ăn sang."
+ },
+ "dosa": {
+  "history": "Dosa là bánh crepe lên men từ gạo và đậu lăng, có nguồn gốc ở Nam Ấn. Ghi chép về dosa xuất hiện trong văn học Tamil cổ, và món nổi tiếng khắp nơi cùng cộng đồng Nam Ấn.",
+  "joke": "Dosa dài hơn cánh tay tôi, bữa sáng vừa ăn vừa đo đạc."
+ },
+ "chicken-karahi": {
+  "history": "Karahi là món gà xào trong chảo sâu karahi, phổ biến ở Pakistan và Bắc Ấn, nhất là Peshawar và Lahore. Món có vị cà chua, gừng, ớt xanh.",
+  "joke": "Chicken karahi sôi lách tách, tôi nghe tiếng là tim cũng reo."
+ },
+ "mango-lassi": {
+  "history": "Lassi là thức uống từ sữa chua có nguồn gốc từ Punjab. Phiên bản xoài phổ biến ở nhà hàng Ấn trên thế giới, và nhiều người coi đó là thức uống giải cay.",
+  "joke": "Mango lassi sau món cay: như một cái ôm của mẹ."
+ },
+ "nihari": {
+  "history": "Nihari là món thịt hầm lâu, bắt nguồn từ Delhi vào thời Mughal và nổi tiếng ở Pakistan. Tên có gốc từ tiếng Ả Rập, nghĩa là buổi sáng, vì từng được ăn vào bữa sáng.",
+  "joke": "Nihari hầm cả đêm, còn tôi chờ cả buổi trưa."
+ },
+ "chicken-shawarma": {
+  "history": "Shawarma có gốc từ Thổ Nhĩ Kỳ với döner kebab thời Ottoman, rồi lan sang Levant. Tên shawarma xuất phát từ cách đọc tiếng Ả Rập của chữ Thổ çevirme, nghĩa là quay.",
+  "joke": "Shawarma quay xoay tròn, tôi nhìn xoay tròn theo."
+ },
+ "falafel": {
+  "history": "Falafel là viên đậu chiên giòn, phổ biến khắp Trung Đông. Nhiều người cho rằng nó bắt nguồn từ Ai Cập, nơi làm bằng đậu fava, nhưng nguồn gốc chính xác vẫn còn tranh luận.",
+  "joke": "Falafel giòn ngoài, mềm trong, người trưởng thành cũng nên như vậy."
+ },
+ "gyro": {
+  "history": "Gyro là phiên bản Hy Lạp của thịt quay, xuất hiện ở Hy Lạp thế kỷ 20 dựa trên döner kebab. Ở Mỹ, gyro lan rộng nhờ cộng đồng Hy Lạp, đặc biệt ở Chicago từ thập niên 1960.",
+  "joke": "Gyro: phát âm sai cả đời nhưng ăn vẫn ngon."
+ },
+ "hummus": {
+  "history": "Hummus là món sốt đậu gà nghiền với tahini, chanh và tỏi của vùng Levant. Nhiều nước tranh cãi về xuất xứ, và ghi chép lâu đời nhất vẫn gây tranh luận.",
+  "joke": "Hummus chấm với mọi thứ, tôi chấm với cả tâm hồn."
+ },
+ "kebab-platter": {
+  "history": "Kebab là thuật ngữ chỉ thịt nướng ở vùng Trung Đông, Ba Tư và Thổ Nhĩ Kỳ. Có nhiều biến thể vùng miền, như shish kebab và kofta, thường ăn kèm cơm, salad và bánh mì dẹt.",
+  "joke": "Đĩa kebab đầy ụ, tôi nhìn mà thấy tương lai tươi sáng."
+ },
+ "baklava": {
+  "history": "Baklava là bánh ngọt nhiều lớp bột phyllo với hạt và siro hoặc mật ong. Nó được gắn với bếp cung đình Ottoman, dù nhiều nước trong vùng đều nhận là của mình.",
+  "joke": "Baklava ngọt đến mức răng tôi nộp đơn xin nghỉ."
+ },
+ "shakshuka": {
+  "history": "Shakshuka là trứng nấu trong sốt cà chua và ớt, phổ biến ở Bắc Phi, đặc biệt Tunisia, và Israel. Cà chua đến khu vực này sau thế kỷ 16, nên món hiện đại khá muộn.",
+  "joke": "Shakshuka cho bữa sáng sang như mình có người nấu cho."
+ },
+ "doro-wat": {
+  "history": "Doro wat là món gà hầm cay với hành, berbere và trứng luộc, được xem là món quốc dân của Ethiopia. Nó thường dùng trong dịp lễ và ăn kèm injera.",
+  "joke": "Doro wat cay đỏ rực, mồ hôi chảy mà vẫn muốn ăn tiếp."
+ },
+ "injera-combo": {
+  "history": "Injera là bánh dẹt chua lên men từ teff, nền tảng của bữa ăn Ethiopia và Eritrea. Người ăn dùng tay xé bánh để gắp các món hầm đặt trên đĩa chung.",
+  "joke": "Ăn bằng tay, không muỗng nĩa, đúng kiểu bữa ăn không áp lực."
+ },
+ "kitfo": {
+  "history": "Kitfo là món thịt bò băm nhỏ trộn bơ gia vị mitmita, truyền thống ở người Gurage của Ethiopia. Có thể ăn tái hoặc chín hơn, kèm phô mai ayibe.",
+  "joke": "Kitfo tái: món duy nhất khiến tôi tự tin gọi mà không hỏi giá."
+ },
+ "pupusas": {
+  "history": "Pupusa là bánh ngô nhân phô mai, đậu hoặc thịt, quốc món của El Salvador. Món có lịch sử trước thời Tây Ban Nha và được cộng đồng người Salvador mang tới Mỹ.",
+  "joke": "Pupusa với curtido: no nê mà vẫn thấy mình lành mạnh."
+ },
+ "arepas": {
+  "history": "Arepa là bánh ngô nướng hoặc chiên, tiêu biểu cho Venezuela và Colombia. Nó có từ thời tiền Colombia và được dùng như bánh mì ăn kèm hoặc kẹp nhân.",
+  "joke": "Arepa nhồi đầy nhân: túi áo còn không chứa nhiều bằng."
+ },
+ "cuban-sandwich": {
+  "history": "Bánh mì Cuba gồm thịt heo quay, giăm bông, phô mai Thụy Sĩ, dưa chuột muối và mù tạt, ép nóng. Món gắn với cộng đồng người Cuba ở Florida, đặc biệt là Tampa và Miami.",
+  "joke": "Cuban sandwich ép dẹp lép, giống tôi sau tuần làm tăng ca."
+ },
+ "jerk-chicken": {
+  "history": "Jerk là cách ướp và nướng của Jamaica, chịu ảnh hưởng của người Maroon và nghề làm thịt của cộng đồng châu Phi. Ớt Scotch bonnet và allspice là hương vị đặc trưng.",
+  "joke": "Jerk chicken cay, nhưng ổn, tôi vẫn là người trưởng thành."
+ },
+ "lomo-saltado": {
+  "history": "Lomo saltado là món bò xào của Peru, hợp nhất kỹ thuật xào wok của người Hoa nhập cư và nguyên liệu Peru như ají và khoai chiên. Đây là món tiêu biểu của ẩm thực chifa.",
+  "joke": "Lomo saltado có cả cơm lẫn khoai: tinh bột kép, hạnh phúc kép."
+ },
+ "ceviche": {
+  "history": "Ceviche là cá sống ngâm nước chanh, được xem là món quốc hồn của Peru. Nguồn gốc xa xưa còn tranh luận, và nhiều nước Mỹ Latin đều có phiên bản riêng.",
+  "joke": "Ceviche chua tươi, tỉnh hơn cả ly cà phê buổi sáng."
+ },
+ "empanadas": {
+  "history": "Empanada là bánh nhân gập đôi, có gốc từ Galicia và bán đảo Iberia, rồi lan khắp Mỹ Latin. Mỗi nước có nhân và cách gấp riêng.",
+  "joke": "Empanada: tiện lợi đến mức một tay cầm, tay còn lại gõ phím."
+ },
+ "ropa-vieja": {
+  "history": "Ropa vieja là món bò xé nhỏ nấu sốt cà chua, quốc món của Cuba. Tên nghĩa là quần áo cũ, vì sợi thịt trông như vải rách.",
+  "joke": "Quần áo cũ mà ngon thế này, thì tủ đồ nhà tôi cũng có hy vọng."
+ },
+ "tostones": {
+  "history": "Tostones là chuối xanh chiên hai lần, nghiền dẹt, phổ biến ở Caribbean và Mỹ Latin. Mỗi nơi có tên riêng, như patacones ở Colombia và Ecuador.",
+  "joke": "Tostones giòn mặn: đồ ăn vặt giúp tôi sống sót qua buổi họp."
+ },
+ "feijoada": {
+  "history": "Feijoada là món đậu đen hầm với thịt heo, được xem là món quốc dân của Brazil. Câu chuyện cho rằng nó khởi đầu từ nô lệ thường được kể, nhưng các nhà sử học không đồng thuận.",
+  "joke": "Feijoada ăn xong chỉ muốn ngủ trưa ba tiếng, deadline tự lo."
+ },
+ "spaghetti-meatballs": {
+  "history": "Spaghetti kèm thịt viên là món Ý-Mỹ, phát triển cùng người Ý nhập cư ở Mỹ cuối thế kỷ 19 và đầu thế kỷ 20, khi thịt rẻ và dễ tìm hơn. Ở Ý, thịt viên thường ăn riêng.",
+  "joke": "Thịt viên lăn khỏi đĩa, y như động lực làm việc của tôi."
+ },
+ "chicken-parmesan": {
+  "history": "Gà parmesan là món Ý-Mỹ, lấy ý từ món cà tím parmigiana của Ý. Người Ý nhập cư ở Mỹ thay cà tím bằng cốt lết gà chiên, phủ sốt cà chua và phô mai.",
+  "joke": "Gà parm phủ phô mai dày cộm, cardio của tôi là đi lấy thêm."
+ },
+ "fettuccine-alfredo": {
+  "history": "Alfredo di Lelio sáng tạo món mì bơ và phô mai ở Rome khoảng năm 1908 cho vợ mình. Món nổi tiếng nhờ du khách Mỹ, còn phiên bản kem tươi phổ biến ở Mỹ khác với bản Ý.",
+  "joke": "Alfredo béo ngậy, ăn xong tôi cần một giấc ngủ và một lời tha thứ."
+ },
+ "baked-ziti": {
+  "history": "Baked ziti là món mì ống nướng với sốt cà chua và phô mai, quen thuộc trong bữa tiệc của cộng đồng Ý-Mỹ. Nó có nét giống các món mì nướng ở miền nam nước Ý.",
+  "joke": "Baked ziti ra lò sôi ùng ục, tôi phải chờ nguội, mà không thể chờ."
+ },
+ "lasagna": {
+  "history": "Lasagna là món mì tấm xếp lớp của Ý, gắn với Naples và Emilia-Romagna. Phiên bản Bolognese có bechamel nổi tiếng, còn phiên bản Mỹ thường dùng ricotta và nhiều phô mai.",
+  "joke": "Lasagna nhiều lớp, còn nhiều hơn số lần tôi nói 'sắp xong rồi'."
+ },
+ "cannoli": {
+  "history": "Cannoli là bánh vỏ giòn cuộn nhân ricotta ngọt, có nguồn gốc từ Sicily. Món gắn với lễ hội Carnevale và được người Ý-Mỹ mang đến Mỹ.",
+  "joke": "Cannoli nhân đầy, như cách tôi đóng gói đồ ăn khi hết tháng."
+ },
+ "italian-beef": {
+  "history": "Bánh mì Italian beef là đặc sản Chicago, thịt bò thái mỏng nhúng nước thịt trong bánh mì dài. Theo nhiều ghi chép, món xuất hiện ở khu người Ý ở Chicago khoảng thập niên 1930.",
+  "joke": "Italian beef nhúng nước thịt: ăn xong áo cũng nhớ."
+ },
+ "fried-chicken": {
+  "history": "Gà rán miền Nam nước Mỹ chịu ảnh hưởng kỹ thuật chiên của người Scotland và truyền thống nấu ăn của người Mỹ gốc Phi. Ngày nay, nó là biểu tượng ẩm thực miền Nam.",
+  "joke": "Gà rán giòn rụm, tôi cắn xong thì tâm hồn cũng giòn lên."
+ },
+ "gumbo": {
+  "history": "Gumbo là món hầm của Louisiana, kết hợp ảnh hưởng của châu Phi, Pháp, Tây Ban Nha và người bản địa. Tên có thể xuất phát từ từ chỉ đậu bắp ở Tây Phi.",
+  "joke": "Gumbo hỗn hợp mọi thứ, như cái folder Downloads của tôi nhưng ngon."
+ },
+ "jambalaya": {
+  "history": "Jambalaya là món cơm nấu một nồi của Louisiana, chịu ảnh hưởng của paella Tây Ban Nha và nền ẩm thực Creole. Kiểu Cajun thường nâu hơn, còn kiểu Creole có cà chua.",
+  "joke": "Jambalaya nấu một nồi: đúng gu người lười rửa chén."
+ },
+ "texas-brisket": {
+  "history": "Brisket kiểu Texas được hun khói chậm, phát triển với người nhập cư Đức và Tiệp ở Texas, những người làm nghề thịt nguội. Lớp vỏ ngoài chỉ ướp muối và tiêu là truyền thống.",
+  "joke": "Brisket hun khói 14 tiếng, còn tôi chờ 14 phút đã bực."
+ },
+ "mac-and-cheese": {
+  "history": "Mì ống phô mai có ghi chép ở châu Âu từ thời Trung cổ. Thomas Jefferson được cho là đã góp phần phổ biến nó ở Mỹ, và hộp Kraft ra đời năm 1937.",
+  "joke": "Mac and cheese: món cứu rỗi của mọi ngày buồn."
+ },
+ "hamburger": {
+  "history": "Hamburger gắn với món thịt bò kiểu Hamburg của người Đức nhập cư ở Mỹ. Nhiều nơi tranh giành danh hiệu người tạo ra bánh burger đầu tiên, nên nguồn gốc chính xác chưa rõ.",
+  "joke": "Burger cao quá cỡ miệng, tôi vẫn thử ôm trọn."
+ },
+ "new-york-pizza": {
+  "history": "Pizza New York gắn với tiệm Lombardi's, được cho là mở năm 1905 ở Manhattan, theo nhiều nguồn. Miếng mỏng, to, gập đôi để ăn là đặc trưng của kiểu này.",
+  "joke": "Gập đôi miếng pizza, kỹ năng cơ bản của dân New York."
+ },
+ "buffalo-wings": {
+  "history": "Cánh gà Buffalo thường được cho là ra đời năm 1964 ở Anchor Bar, Buffalo, New York. Câu chuyện về người sáng tạo có vài phiên bản khác nhau.",
+  "joke": "Cánh gà Buffalo: ăn xong ngón tay tôi cũng cay luôn."
+ },
+ "philly-cheesesteak": {
+  "history": "Cheesesteak xuất hiện ở Philadelphia thập niên 1930, thường gắn với anh em Pat và Harry Olivieri. Phô mai được thêm sau này, và Cheez Whiz nổi tiếng ở đó.",
+  "joke": "Cheesesteak nhiều phô mai, như cách tôi làm đẹp mọi bản báo cáo."
+ },
+ "chicago-deep-dish": {
+  "history": "Pizza đế dày kiểu Chicago thường được gắn với Pizzeria Uno, mở năm 1943. Ai là người sáng tạo trực tiếp thì còn tranh cãi, và món có sốt cà chua nằm trên phô mai.",
+  "joke": "Deep dish ăn bằng nĩa, và thực sự cần cả một kế hoạch."
+ },
+ "pulled-pork-bbq": {
+  "history": "Thịt heo xé nướng BBQ là truyền thống của miền Nam nước Mỹ, đặc biệt là North Carolina và Tennessee. Mỗi vùng có sốt riêng, từ giấm đến mù tạt, cà chua.",
+  "joke": "Thịt heo xé mềm tơi, tình cảm tôi dành cho nó cũng xé lòng."
+ },
+ "shrimp-and-grits": {
+  "history": "Shrimp and grits ban đầu là món ăn của ngư dân ở vùng Lowcountry, South Carolina. Nó nổi tiếng toàn quốc vào thập niên 1980 nhờ các đầu bếp như Bill Neal.",
+  "joke": "Cháo bắp với tôm: ấm bụng như được ai đó khen."
+ },
+ "clam-chowder": {
+  "history": "Clam chowder kiểu New England là súp kem với sò, khoai tây và hành, có gốc từ người định cư châu Âu ở miền đông bắc nước Mỹ. Nó thường ăn kèm bánh quy oyster crackers.",
+  "joke": "Súp sò trong bánh mì: tô súp mà còn đỡ tôi hơn cả đồng nghiệp."
+ },
+ "lobster-roll": {
+  "history": "Lobster roll là đặc sản vùng New England, xuất hiện ở Connecticut và Maine vào thế kỷ 20. Kiểu Maine dùng mayonnaise lạnh, kiểu Connecticut dùng bơ nóng.",
+  "joke": "Lobster roll đắt đỏ, tôi ăn từng miếng cho đáng tiền."
+ },
+ "cornbread": {
+  "history": "Bánh bắp là món bánh mì từ bột ngô, có gốc từ người bản địa châu Mỹ. Nó trở thành thực phẩm chủ lực của miền Nam, đặc biệt trong thời nội chiến.",
+  "joke": "Bánh bắp khô khan, nhưng chấm với mật ong là hết thuốc chữa."
+ },
+ "biscuits-gravy": {
+  "history": "Biscuits and gravy là món sáng của miền Nam, gồm bánh biscuit mềm với nước sốt sữa và xúc xích. Nó phổ biến trong thế kỷ 19 như bữa sáng no bụng cho người lao động.",
+  "joke": "Biscuits and gravy: bữa sáng nặng đến nỗi tôi thề không cần ăn trưa."
+ },
+ "hot-dog": {
+  "history": "Xúc xích kẹp bánh mì có gốc từ người Đức nhập cư vào Mỹ thế kỷ 19. Coney Island và sân bóng chày giúp nó trở thành món biểu tượng, dù nguồn gốc cụ thể vẫn tranh cãi.",
+  "joke": "Hot dog: bữa trưa thu gọn dành cho người làm việc không rời bàn."
+ },
+ "apple-pie": {
+  "history": "Bánh táo có từ châu Âu, ghi chép công thức Anh từ thế kỷ 14. Ở Mỹ, nó trở thành biểu tượng văn hóa, nhờ câu 'as American as apple pie'.",
+  "joke": "Apple pie ấm với kem, một miếng chữa lành cả ngày xui."
+ },
+ "poke-bowl": {
+  "history": "Poke là món cá sống thái hạt lựu của Hawaii, từ poke trong tiếng Hawaii nghĩa là cắt. Bát poke hiện đại với cơm nổi lên ở đất liền Mỹ từ thập niên 2010.",
+  "joke": "Poke bowl đủ màu sắc, post lên Instagram trước khi ăn."
+ },
+ "loco-moco": {
+  "history": "Loco moco là món cơm thịt bò, trứng ốp la và nước sốt, thường được cho là ra đời năm 1949 tại Lincoln Grill ở Hilo, Hawaii. Tên loco nghĩa là điên trong tiếng Tây Ban Nha.",
+  "joke": "Loco moco: cơm, thịt, trứng, nước sốt, tất cả trong một cú đòn."
+ },
+ "spam-musubi": {
+  "history": "Spam musubi là cơm nắm với lát Spam nướng bọc rong biển, phổ biến ở Hawaii. Spam trở nên quen thuộc ở đây sau Thế chiến thứ hai, khi quân đội Mỹ dùng khẩu phần thịt này.",
+  "joke": "Spam musubi: nhỏ gọn, mặn ngọt, cứu đói cho tiết đầu."
+ },
+ "amok-trey": {
+  "history": "Fish amok là món cá hấp trong lá chuối với kroeung và nước cốt dừa, nổi tiếng như món quốc dân của Campuchia. Nó có độ mềm như bánh pudding.",
+  "joke": "Cá amok mềm như pudding, ăn xong tôi cũng mềm lòng."
+ },
+ "larb": {
+  "history": "Larb là món thịt băm trộn với chanh, nước mắm, hành và rau thơm, được xem là món quốc dân của Lào. Nó cũng phổ biến ở vùng Isan của Thái Lan.",
+  "joke": "Larb chua cay tươi mát, đánh thức tôi sau giờ nghỉ trưa."
+ },
+ "mohinga": {
+  "history": "Mohinga là món bún cá nước dùng sả, được xem là món quốc dân của Myanmar và thường ăn vào bữa sáng. Món có vị đậm, sệt, kèm rau và trứng.",
+  "joke": "Mohinga bữa sáng ở Myanmar, còn tôi bữa sáng là hy vọng."
+ },
+ "tea-leaf-salad": {
+  "history": "Lahpet thoke là gỏi lá trà lên men của Myanmar, trộn với đậu, hạt và tỏi chiên giòn. Lá trà lên men này từ lâu còn được dùng trong nghi lễ hòa giải ở Myanmar.",
+  "joke": "Gỏi lá trà có caffeine, ăn vào là tỉnh táo chạy deadline."
+ }
+}

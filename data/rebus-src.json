@@ -1,0 +1,1406 @@
+{
+ "units": [
+  {
+   "unit": "bùn",
+   "for": [
+    "bún"
+   ],
+   "type": "pun",
+   "enwiki": "Mud",
+   "say": "bùn (đất sình)"
+  },
+  {
+   "unit": "thang",
+   "for": [
+    "thang"
+   ],
+   "type": "literal",
+   "enwiki": "Ladder",
+   "say": "cái thang"
+  },
+  {
+   "unit": "bò",
+   "for": [
+    "bò"
+   ],
+   "type": "literal",
+   "enwiki": "Cattle",
+   "say": "con bò"
+  },
+  {
+   "unit": "gà",
+   "for": [
+    "gà"
+   ],
+   "type": "literal",
+   "enwiki": "Chicken",
+   "say": "con gà"
+  },
+  {
+   "unit": "cá",
+   "for": [
+    "cá"
+   ],
+   "type": "literal",
+   "enwiki": "Fish",
+   "say": "con cá"
+  },
+  {
+   "unit": "tôm",
+   "for": [
+    "tôm"
+   ],
+   "type": "literal",
+   "enwiki": "Shrimp",
+   "say": "con tôm"
+  },
+  {
+   "unit": "cua",
+   "for": [
+    "cua"
+   ],
+   "type": "literal",
+   "enwiki": "Crab",
+   "say": "con cua"
+  },
+  {
+   "unit": "trứng",
+   "for": [
+    "trứng"
+   ],
+   "type": "literal",
+   "enwiki": "Egg as food",
+   "say": "quả trứng"
+  },
+  {
+   "unit": "dừa",
+   "for": [
+    "dừa"
+   ],
+   "type": "literal",
+   "enwiki": "Coconut",
+   "say": "trái dừa"
+  },
+  {
+   "unit": "ớt",
+   "for": [
+    "ớt"
+   ],
+   "type": "literal",
+   "enwiki": "Chili pepper",
+   "say": "trái ớt"
+  },
+  {
+   "unit": "nấm",
+   "for": [
+    "nấm"
+   ],
+   "type": "literal",
+   "enwiki": "Mushroom",
+   "say": "cây nấm"
+  },
+  {
+   "unit": "cơm",
+   "for": [
+    "cơm"
+   ],
+   "type": "literal",
+   "enwiki": "Cooked rice",
+   "say": "chén cơm"
+  },
+  {
+   "unit": "rau",
+   "for": [
+    "rau"
+   ],
+   "type": "literal",
+   "enwiki": "Leaf vegetable",
+   "say": "rau xanh"
+  },
+  {
+   "unit": "bánh",
+   "for": [
+    "bánh"
+   ],
+   "type": "literal",
+   "enwiki": "Cake",
+   "say": "cái bánh (bánh ngọt)"
+  },
+  {
+   "unit": "nướng",
+   "for": [
+    "nướng"
+   ],
+   "type": "literal",
+   "enwiki": "Barbecue",
+   "say": "nướng thịt trên vỉ"
+  },
+  {
+   "unit": "chiên",
+   "for": [
+    "chiên"
+   ],
+   "type": "literal",
+   "enwiki": "Deep fryer",
+   "say": "chiên ngập dầu"
+  },
+  {
+   "unit": "xào",
+   "for": [
+    "xào"
+   ],
+   "type": "literal",
+   "enwiki": "Stir frying",
+   "say": "xào trong chảo"
+  },
+  {
+   "unit": "vịt",
+   "for": [
+    "vịt"
+   ],
+   "type": "literal",
+   "enwiki": "Duck",
+   "say": "con vịt"
+  },
+  {
+   "unit": "heo",
+   "for": [
+    "heo"
+   ],
+   "type": "literal",
+   "enwiki": "Pig",
+   "say": "con heo"
+  },
+  {
+   "unit": "mực",
+   "for": [
+    "mực"
+   ],
+   "type": "literal",
+   "enwiki": "Squid",
+   "say": "con mực"
+  },
+  {
+   "unit": "ốc",
+   "for": [
+    "ốc"
+   ],
+   "type": "literal",
+   "enwiki": "Snail",
+   "say": "con ốc"
+  },
+  {
+   "unit": "ếch",
+   "for": [
+    "ếch"
+   ],
+   "type": "literal",
+   "enwiki": "Frog",
+   "say": "con ếch"
+  },
+  {
+   "unit": "dê",
+   "for": [
+    "dê"
+   ],
+   "type": "literal",
+   "enwiki": "Goat",
+   "say": "con dê"
+  },
+  {
+   "unit": "chim",
+   "for": [
+    "chim"
+   ],
+   "type": "literal",
+   "enwiki": "Bird",
+   "say": "con chim"
+  },
+  {
+   "unit": "hàu",
+   "for": [
+    "hàu"
+   ],
+   "type": "literal",
+   "enwiki": "Oyster",
+   "say": "con hàu"
+  },
+  {
+   "unit": "sứa",
+   "for": [
+    "sứa"
+   ],
+   "type": "literal",
+   "enwiki": "Jellyfish",
+   "say": "con sứa"
+  },
+  {
+   "unit": "tôm hùm",
+   "for": [
+    "tôm hùm"
+   ],
+   "type": "literal",
+   "enwiki": "Lobster",
+   "say": "con tôm hùm"
+  },
+  {
+   "unit": "cá hồi",
+   "for": [
+    "cá hồi"
+   ],
+   "type": "literal",
+   "enwiki": "Salmon",
+   "say": "cá hồi"
+  },
+  {
+   "unit": "cá tầm",
+   "for": [
+    "cá tầm"
+   ],
+   "type": "literal",
+   "enwiki": "Sturgeon",
+   "say": "cá tầm"
+  },
+  {
+   "unit": "măng",
+   "for": [
+    "măng"
+   ],
+   "type": "literal",
+   "enwiki": "Bamboo shoot",
+   "say": "măng tre"
+  },
+  {
+   "unit": "mía",
+   "for": [
+    "mía"
+   ],
+   "type": "literal",
+   "enwiki": "Sugarcane",
+   "say": "cây mía"
+  },
+  {
+   "unit": "chuối",
+   "for": [
+    "chuối"
+   ],
+   "type": "literal",
+   "enwiki": "Banana",
+   "say": "trái chuối"
+  },
+  {
+   "unit": "quất",
+   "for": [
+    "quất"
+   ],
+   "type": "literal",
+   "enwiki": "Kumquat",
+   "say": "trái quất"
+  },
+  {
+   "unit": "đào",
+   "for": [
+    "đào"
+   ],
+   "type": "literal",
+   "enwiki": "Peach",
+   "say": "trái đào"
+  },
+  {
+   "unit": "cam",
+   "for": [
+    "cam"
+   ],
+   "type": "literal",
+   "enwiki": "Orange (fruit)",
+   "say": "trái cam"
+  },
+  {
+   "unit": "sả",
+   "for": [
+    "sả"
+   ],
+   "type": "literal",
+   "enwiki": "Cymbopogon citratus",
+   "say": "cây sả"
+  },
+  {
+   "unit": "gừng",
+   "for": [
+    "gừng"
+   ],
+   "type": "literal",
+   "enwiki": "Ginger",
+   "say": "củ gừng"
+  },
+  {
+   "unit": "tỏi",
+   "for": [
+    "tỏi"
+   ],
+   "type": "literal",
+   "enwiki": "Garlic",
+   "say": "củ tỏi"
+  },
+  {
+   "unit": "tiêu",
+   "for": [
+    "tiêu"
+   ],
+   "type": "literal",
+   "enwiki": "Black pepper",
+   "say": "hạt tiêu"
+  },
+  {
+   "unit": "muối",
+   "for": [
+    "muối"
+   ],
+   "type": "literal",
+   "enwiki": "Salt shaker",
+   "say": "muối"
+  },
+  {
+   "unit": "mật ong",
+   "for": [
+    "mật ong"
+   ],
+   "type": "literal",
+   "enwiki": "Honey",
+   "say": "mật ong"
+  },
+  {
+   "unit": "dâu tây",
+   "for": [
+    "dâu tây"
+   ],
+   "type": "literal",
+   "enwiki": "Strawberry",
+   "say": "trái dâu tây"
+  },
+  {
+   "unit": "ngô",
+   "for": [
+    "ngô"
+   ],
+   "type": "literal",
+   "enwiki": "Corn on the cob",
+   "say": "bắp ngô"
+  },
+  {
+   "unit": "khoai lang",
+   "for": [
+    "khoai lang"
+   ],
+   "type": "literal",
+   "enwiki": "Sweet potato",
+   "say": "khoai lang"
+  },
+  {
+   "unit": "bí đỏ",
+   "for": [
+    "bí đỏ"
+   ],
+   "type": "literal",
+   "enwiki": "Pumpkin",
+   "say": "trái bí đỏ"
+  },
+  {
+   "unit": "rau muống",
+   "for": [
+    "rau muống"
+   ],
+   "type": "literal",
+   "enwiki": "Ipomoea aquatica",
+   "say": "rau muống"
+  },
+  {
+   "unit": "atiso",
+   "for": [
+    "atiso"
+   ],
+   "type": "literal",
+   "enwiki": "Artichoke",
+   "say": "hoa atiso"
+  },
+  {
+   "unit": "hạt dẻ",
+   "for": [
+    "hạt dẻ"
+   ],
+   "type": "literal",
+   "enwiki": "Chestnut",
+   "say": "hạt dẻ"
+  },
+  {
+   "unit": "đậu nành",
+   "for": [
+    "đậu nành"
+   ],
+   "type": "literal",
+   "enwiki": "Soybean",
+   "say": "đậu nành"
+  },
+  {
+   "unit": "đậu xanh",
+   "for": [
+    "đậu xanh"
+   ],
+   "type": "literal",
+   "enwiki": "Mung bean",
+   "say": "đậu xanh"
+  },
+  {
+   "unit": "lạc",
+   "for": [
+    "lạc"
+   ],
+   "type": "literal",
+   "enwiki": "Peanut",
+   "say": "củ lạc (đậu phộng)"
+  },
+  {
+   "unit": "sữa",
+   "for": [
+    "sữa"
+   ],
+   "type": "literal",
+   "enwiki": "Milk",
+   "say": "ly sữa"
+  },
+  {
+   "unit": "sữa chua",
+   "for": [
+    "sữa chua"
+   ],
+   "type": "literal",
+   "enwiki": "Yogurt",
+   "say": "hũ sữa chua"
+  },
+  {
+   "unit": "kem",
+   "for": [
+    "kem"
+   ],
+   "type": "literal",
+   "enwiki": "Ice cream",
+   "say": "cây kem"
+  },
+  {
+   "unit": "bơ",
+   "for": [
+    "bơ"
+   ],
+   "type": "literal",
+   "enwiki": "Butter",
+   "say": "miếng bơ"
+  },
+  {
+   "unit": "kẹo",
+   "for": [
+    "kẹo"
+   ],
+   "type": "literal",
+   "enwiki": "Candy",
+   "say": "kẹo"
+  },
+  {
+   "unit": "flan",
+   "for": [
+    "flan"
+   ],
+   "type": "literal",
+   "enwiki": "Flan",
+   "say": "bánh flan"
+  },
+  {
+   "unit": "cà phê",
+   "for": [
+    "cà phê"
+   ],
+   "type": "literal",
+   "enwiki": "Coffee",
+   "say": "ly cà phê"
+  },
+  {
+   "unit": "trà",
+   "for": [
+    "trà"
+   ],
+   "type": "literal",
+   "enwiki": "Tea",
+   "say": "tách trà"
+  },
+  {
+   "unit": "nước",
+   "for": [
+    "nước"
+   ],
+   "type": "literal",
+   "enwiki": "Water",
+   "say": "ly nước"
+  },
+  {
+   "unit": "đá",
+   "for": [
+    "đá"
+   ],
+   "type": "literal",
+   "enwiki": "Ice cube",
+   "say": "đá lạnh"
+  },
+  {
+   "unit": "bột",
+   "for": [
+    "bột"
+   ],
+   "type": "literal",
+   "enwiki": "Flour",
+   "say": "bột mì"
+  },
+  {
+   "unit": "canh",
+   "for": [
+    "canh"
+   ],
+   "type": "literal",
+   "enwiki": "Soup",
+   "say": "tô canh"
+  },
+  {
+   "unit": "cháo",
+   "for": [
+    "cháo"
+   ],
+   "type": "literal",
+   "enwiki": "Congee",
+   "say": "tô cháo"
+  },
+  {
+   "unit": "lẩu",
+   "for": [
+    "lẩu"
+   ],
+   "type": "literal",
+   "enwiki": "Hot pot",
+   "say": "nồi lẩu"
+  },
+  {
+   "unit": "thịt",
+   "for": [
+    "thịt"
+   ],
+   "type": "literal",
+   "enwiki": "Meat",
+   "say": "miếng thịt"
+  },
+  {
+   "unit": "hải sản",
+   "for": [
+    "hải sản"
+   ],
+   "type": "literal",
+   "enwiki": "Seafood",
+   "say": "hải sản"
+  },
+  {
+   "unit": "suối",
+   "for": [
+    "suối"
+   ],
+   "type": "literal",
+   "enwiki": "Stream",
+   "say": "con suối"
+  },
+  {
+   "unit": "rừng",
+   "for": [
+    "rừng"
+   ],
+   "type": "literal",
+   "enwiki": "Forest",
+   "say": "khu rừng"
+  },
+  {
+   "unit": "than",
+   "for": [
+    "than"
+   ],
+   "type": "literal",
+   "enwiki": "Coal",
+   "say": "than đá"
+  },
+  {
+   "unit": "sườn",
+   "for": [
+    "sườn"
+   ],
+   "type": "literal",
+   "enwiki": "Spare ribs",
+   "say": "sườn"
+  },
+  {
+   "unit": "bánh mì",
+   "for": [
+    "bánh mì"
+   ],
+   "type": "literal",
+   "enwiki": "Bread",
+   "say": "ổ bánh mì"
+  },
+  {
+   "unit": "gối",
+   "for": [
+    "gối"
+   ],
+   "type": "literal",
+   "enwiki": "Pillow",
+   "say": "cái gối"
+  },
+  {
+   "unit": "huế",
+   "for": [
+    "huế"
+   ],
+   "type": "place",
+   "enwiki": "Complex of Huế Monuments",
+   "say": "Đại Nội Huế"
+  },
+  {
+   "unit": "hội an",
+   "for": [
+    "hội an"
+   ],
+   "type": "place",
+   "enwiki": "Japanese Covered Bridge",
+   "say": "Chùa Cầu Hội An"
+  },
+  {
+   "unit": "hạ long",
+   "for": [
+    "hạ long"
+   ],
+   "type": "place",
+   "enwiki": "Hạ Long Bay",
+   "say": "Vịnh Hạ Long"
+  },
+  {
+   "unit": "nha trang",
+   "for": [
+    "nha trang"
+   ],
+   "type": "place",
+   "enwiki": "Nha Trang",
+   "say": "biển Nha Trang"
+  },
+  {
+   "unit": "đà lạt",
+   "for": [
+    "đà lạt"
+   ],
+   "type": "place",
+   "enwiki": "Da Lat",
+   "say": "hồ Xuân Hương Đà Lạt"
+  },
+  {
+   "unit": "sa pa",
+   "for": [
+    "sa pa"
+   ],
+   "type": "place",
+   "enwiki": "Sa Pa",
+   "say": "ruộng bậc thang Sa Pa"
+  },
+  {
+   "unit": "sài gòn",
+   "for": [
+    "sài gòn"
+   ],
+   "type": "place",
+   "enwiki": "Notre-Dame Cathedral Basilica of Saigon",
+   "say": "Nhà thờ Đức Bà Sài Gòn"
+  }
+ ],
+ "dishes": [
+  {
+   "id": "bun-thang",
+   "name": "Bún thang",
+   "units": [
+    "bùn",
+    "thang"
+   ]
+  },
+  {
+   "id": "bun-oc",
+   "name": "Bún ốc",
+   "units": [
+    "bùn",
+    "ốc"
+   ]
+  },
+  {
+   "id": "bun-mang-vit",
+   "name": "Bún măng vịt",
+   "units": [
+    "bùn",
+    "măng",
+    "vịt"
+   ]
+  },
+  {
+   "id": "banh-goi",
+   "name": "Bánh gối",
+   "units": [
+    "bánh",
+    "gối"
+   ]
+  },
+  {
+   "id": "banh-chuoi",
+   "name": "Bánh chuối nướng",
+   "units": [
+    "bánh",
+    "chuối",
+    "nướng"
+   ]
+  },
+  {
+   "id": "banh-trung-nuong",
+   "name": "Bánh trứng nướng",
+   "units": [
+    "bánh",
+    "trứng",
+    "nướng"
+   ]
+  },
+  {
+   "id": "banh-ngo-mong",
+   "name": "Bánh ngô nướng",
+   "units": [
+    "bánh",
+    "ngô",
+    "nướng"
+   ]
+  },
+  {
+   "id": "ca-suoi-nuong",
+   "name": "Cá suối nướng",
+   "units": [
+    "cá",
+    "suối",
+    "nướng"
+   ]
+  },
+  {
+   "id": "lau-ca-tam",
+   "name": "Lẩu cá tầm Sa Pa",
+   "units": [
+    "lẩu",
+    "cá tầm",
+    "sa pa"
+   ]
+  },
+  {
+   "id": "lau-ca-hoi",
+   "name": "Lẩu cá hồi Sa Pa",
+   "units": [
+    "lẩu",
+    "cá hồi",
+    "sa pa"
+   ]
+  },
+  {
+   "id": "trung-nuong",
+   "name": "Trứng nướng than",
+   "units": [
+    "trứng",
+    "nướng",
+    "than"
+   ]
+  },
+  {
+   "id": "ngo-nuong",
+   "name": "Ngô nướng",
+   "units": [
+    "ngô",
+    "nướng"
+   ]
+  },
+  {
+   "id": "khoai-lang-nuong",
+   "name": "Khoai lang nướng",
+   "units": [
+    "khoai lang",
+    "nướng"
+   ]
+  },
+  {
+   "id": "lau-de",
+   "name": "Lẩu dê",
+   "units": [
+    "lẩu",
+    "dê"
+   ]
+  },
+  {
+   "id": "lau-ech",
+   "name": "Lẩu ếch",
+   "units": [
+    "lẩu",
+    "ếch"
+   ]
+  },
+  {
+   "id": "lau-nam",
+   "name": "Lẩu nấm",
+   "units": [
+    "lẩu",
+    "nấm"
+   ]
+  },
+  {
+   "id": "ga-nuong-mat-ong",
+   "name": "Gà nướng mật ong",
+   "units": [
+    "gà",
+    "nướng",
+    "mật ong"
+   ]
+  },
+  {
+   "id": "canh-bun",
+   "name": "Canh bún",
+   "units": [
+    "canh",
+    "bùn"
+   ]
+  },
+  {
+   "id": "oc-xao-chuoi",
+   "name": "Ốc xào chuối",
+   "units": [
+    "ốc",
+    "xào",
+    "chuối"
+   ]
+  },
+  {
+   "id": "muc-nuong-ha-long",
+   "name": "Mực nướng Hạ Long",
+   "units": [
+    "mực",
+    "nướng",
+    "hạ long"
+   ]
+  },
+  {
+   "id": "chao-chim",
+   "name": "Cháo chim",
+   "units": [
+    "cháo",
+    "chim"
+   ]
+  },
+  {
+   "id": "chao-ga",
+   "name": "Cháo gà",
+   "units": [
+    "cháo",
+    "gà"
+   ]
+  },
+  {
+   "id": "chao-hau-ha-long",
+   "name": "Cháo hàu Hạ Long",
+   "units": [
+    "cháo",
+    "hàu",
+    "hạ long"
+   ]
+  },
+  {
+   "id": "keo-lac",
+   "name": "Kẹo lạc",
+   "units": [
+    "kẹo",
+    "lạc"
+   ]
+  },
+  {
+   "id": "ca-phe-trung",
+   "name": "Cà phê trứng",
+   "units": [
+    "cà phê",
+    "trứng"
+   ]
+  },
+  {
+   "id": "ca-phe-muoi",
+   "name": "Cà phê muối",
+   "units": [
+    "cà phê",
+    "muối"
+   ]
+  },
+  {
+   "id": "tra-da",
+   "name": "Trà đá",
+   "units": [
+    "trà",
+    "đá"
+   ]
+  },
+  {
+   "id": "tra-gung",
+   "name": "Trà gừng",
+   "units": [
+    "trà",
+    "gừng"
+   ]
+  },
+  {
+   "id": "nuoc-mia",
+   "name": "Nước mía",
+   "units": [
+    "nước",
+    "mía"
+   ]
+  },
+  {
+   "id": "sua-chua-ca-phe",
+   "name": "Sữa chua cà phê",
+   "units": [
+    "sữa chua",
+    "cà phê"
+   ]
+  },
+  {
+   "id": "bun-bo-hue",
+   "name": "Bún bò Huế",
+   "units": [
+    "bùn",
+    "bò",
+    "huế"
+   ]
+  },
+  {
+   "id": "bun-thit-nuong-hue",
+   "name": "Bún thịt nướng Huế",
+   "units": [
+    "bùn",
+    "thịt",
+    "nướng",
+    "huế"
+   ]
+  },
+  {
+   "id": "banh-canh-cua-hue",
+   "name": "Bánh canh cua Huế",
+   "units": [
+    "bánh",
+    "canh",
+    "cua",
+    "huế"
+   ]
+  },
+  {
+   "id": "chao-ca-hue",
+   "name": "Cháo cá Huế",
+   "units": [
+    "cháo",
+    "cá",
+    "huế"
+   ]
+  },
+  {
+   "id": "com-ga-hoi-an",
+   "name": "Cơm gà Hội An",
+   "units": [
+    "cơm",
+    "gà",
+    "hội an"
+   ]
+  },
+  {
+   "id": "bun-ca-nha-trang",
+   "name": "Bún cá Nha Trang",
+   "units": [
+    "bùn",
+    "cá",
+    "nha trang"
+   ]
+  },
+  {
+   "id": "bun-sua-nha-trang",
+   "name": "Bún sứa",
+   "units": [
+    "bùn",
+    "sứa"
+   ]
+  },
+  {
+   "id": "tom-hum-nha-trang",
+   "name": "Tôm hùm Nha Trang",
+   "units": [
+    "tôm hùm",
+    "nha trang"
+   ]
+  },
+  {
+   "id": "chao-vit-nha-trang",
+   "name": "Cháo vịt Nha Trang",
+   "units": [
+    "cháo",
+    "vịt",
+    "nha trang"
+   ]
+  },
+  {
+   "id": "sua-chua-nha-trang",
+   "name": "Sữa chua Nha Trang",
+   "units": [
+    "sữa chua",
+    "nha trang"
+   ]
+  },
+  {
+   "id": "kem-bo-da-lat",
+   "name": "Kem bơ Đà Lạt",
+   "units": [
+    "kem",
+    "bơ",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "dau-tay-da-lat",
+   "name": "Dâu tây Đà Lạt",
+   "units": [
+    "dâu tây",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "tra-atiso-da-lat",
+   "name": "Trà atiso Đà Lạt",
+   "units": [
+    "trà",
+    "atiso",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "lau-rau-da-lat",
+   "name": "Lẩu rau Đà Lạt",
+   "units": [
+    "lẩu",
+    "rau",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "hat-de-nuong",
+   "name": "Hạt dẻ nướng Đà Lạt",
+   "units": [
+    "hạt dẻ",
+    "nướng",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "heo-rung-nuong",
+   "name": "Heo rừng nướng",
+   "units": [
+    "heo",
+    "rừng",
+    "nướng"
+   ]
+  },
+  {
+   "id": "com-chien-hai-san",
+   "name": "Cơm chiên hải sản",
+   "units": [
+    "cơm",
+    "chiên",
+    "hải sản"
+   ]
+  },
+  {
+   "id": "com-suon-nuong",
+   "name": "Cơm sườn nướng",
+   "units": [
+    "cơm",
+    "sườn",
+    "nướng"
+   ]
+  },
+  {
+   "id": "com-chien-trung-muoi",
+   "name": "Cơm chiên trứng muối",
+   "units": [
+    "cơm",
+    "chiên",
+    "trứng",
+    "muối"
+   ]
+  },
+  {
+   "id": "bun-suon",
+   "name": "Bún sườn",
+   "units": [
+    "bùn",
+    "sườn"
+   ]
+  },
+  {
+   "id": "bun-bo-xao",
+   "name": "Bún bò xào",
+   "units": [
+    "bùn",
+    "bò",
+    "xào"
+   ]
+  },
+  {
+   "id": "banh-canh-cua",
+   "name": "Bánh canh cua",
+   "units": [
+    "bánh",
+    "canh",
+    "cua"
+   ]
+  },
+  {
+   "id": "banh-canh-tom",
+   "name": "Bánh canh tôm",
+   "units": [
+    "bánh",
+    "canh",
+    "tôm"
+   ]
+  },
+  {
+   "id": "banh-mi-thit",
+   "name": "Bánh mì thịt Sài Gòn",
+   "units": [
+    "bánh mì",
+    "thịt",
+    "sài gòn"
+   ]
+  },
+  {
+   "id": "banh-mi-nuong-muoi-ot",
+   "name": "Bánh mì nướng muối ớt",
+   "units": [
+    "bánh mì",
+    "nướng",
+    "muối",
+    "ớt"
+   ]
+  },
+  {
+   "id": "banh-bo-nuong",
+   "name": "Bánh bò nướng",
+   "units": [
+    "bánh",
+    "bò",
+    "nướng"
+   ]
+  },
+  {
+   "id": "banh-tieu",
+   "name": "Bánh tiêu",
+   "units": [
+    "bánh",
+    "tiêu"
+   ]
+  },
+  {
+   "id": "banh-cam",
+   "name": "Bánh cam",
+   "units": [
+    "bánh",
+    "cam"
+   ]
+  },
+  {
+   "id": "bot-chien",
+   "name": "Bột chiên",
+   "units": [
+    "bột",
+    "chiên"
+   ]
+  },
+  {
+   "id": "tom-nuong-muoi-ot",
+   "name": "Tôm nướng muối ớt",
+   "units": [
+    "tôm",
+    "nướng",
+    "muối",
+    "ớt"
+   ]
+  },
+  {
+   "id": "banh-flan",
+   "name": "Bánh flan",
+   "units": [
+    "bánh",
+    "flan"
+   ]
+  },
+  {
+   "id": "banh-flan-ca-phe",
+   "name": "Bánh flan cà phê",
+   "units": [
+    "bánh",
+    "flan",
+    "cà phê"
+   ]
+  },
+  {
+   "id": "kem-flan",
+   "name": "Kem flan",
+   "units": [
+    "kem",
+    "flan"
+   ]
+  },
+  {
+   "id": "ca-phe-sua-da",
+   "name": "Cà phê sữa đá",
+   "units": [
+    "cà phê",
+    "sữa",
+    "đá"
+   ]
+  },
+  {
+   "id": "sua-dau-nanh",
+   "name": "Sữa đậu nành",
+   "units": [
+    "sữa",
+    "đậu nành"
+   ]
+  },
+  {
+   "id": "nuoc-mia-quat",
+   "name": "Nước mía quất",
+   "units": [
+    "nước",
+    "mía",
+    "quất"
+   ]
+  },
+  {
+   "id": "tra-dao-cam-sa",
+   "name": "Trà đào cam sả",
+   "units": [
+    "trà",
+    "đào",
+    "cam",
+    "sả"
+   ]
+  },
+  {
+   "id": "kem-bo-dua",
+   "name": "Kem bơ dừa",
+   "units": [
+    "kem",
+    "bơ",
+    "dừa"
+   ]
+  },
+  {
+   "id": "lau-hai-san",
+   "name": "Lẩu hải sản",
+   "units": [
+    "lẩu",
+    "hải sản"
+   ]
+  },
+  {
+   "id": "khoai-lang-chien",
+   "name": "Khoai lang chiên",
+   "units": [
+    "khoai lang",
+    "chiên"
+   ]
+  },
+  {
+   "id": "ga-nuong-muoi-ot",
+   "name": "Gà nướng muối ớt",
+   "units": [
+    "gà",
+    "nướng",
+    "muối",
+    "ớt"
+   ]
+  },
+  {
+   "id": "ech-chien-bo",
+   "name": "Ếch chiên bơ",
+   "units": [
+    "ếch",
+    "chiên",
+    "bơ"
+   ]
+  },
+  {
+   "id": "canh-bi-do-tom",
+   "name": "Canh bí đỏ tôm",
+   "units": [
+    "canh",
+    "bí đỏ",
+    "tôm"
+   ]
+  },
+  {
+   "id": "rau-muong-xao-toi",
+   "name": "Rau muống xào tỏi",
+   "units": [
+    "rau muống",
+    "xào",
+    "tỏi"
+   ]
+  },
+  {
+   "id": "chao-ech",
+   "name": "Cháo ếch",
+   "units": [
+    "cháo",
+    "ếch"
+   ]
+  },
+  {
+   "id": "chao-dau-xanh",
+   "name": "Cháo đậu xanh",
+   "units": [
+    "cháo",
+    "đậu xanh"
+   ]
+  },
+  {
+   "id": "chao-vit",
+   "name": "Cháo vịt",
+   "units": [
+    "cháo",
+    "vịt"
+   ]
+  }
+ ],
+ "skip": [
+  "đào",
+  "sả",
+  "gừng",
+  "tỏi",
+  "tiêu",
+  "măng",
+  "lạc",
+  "kẹo",
+  "hạt dẻ",
+  "đậu nành",
+  "bột",
+  "nha trang"
+ ]
+}

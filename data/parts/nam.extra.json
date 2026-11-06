@@ -1,0 +1,1002 @@
+{
+ "com-tam-suon": {
+  "history": "Cơm tấm vốn là món của người lao động nghèo Sài Gòn xưa, dùng gạo tấm vỡ vụn bán rẻ; sau này thêm sườn, bì, chả thành món quốc dân.",
+  "joke": "Cơm tấm hạt nhỏ mà sức hút lớn, y như deadline: nhỏ thôi nhưng ám ảnh."
+ },
+ "com-tam-suon-op-la": {
+  "history": "Quán cơm tấm Sài Gòn thường thêm trứng ốp la cho no lâu; không rõ ai khởi xướng, chỉ biết thực khách nào cũng gọi thêm.",
+  "joke": "Thêm trứng ốp la là cách duy nhất tôi tự thưởng mà không bị ví khóc."
+ },
+ "com-tam-bi-cha": {
+  "history": "Bì và chả trứng là cặp đôi quen thuộc của cơm tấm Sài Gòn, ra đời để tận dụng thịt heo và trứng trong bữa ăn bình dân.",
+  "joke": "Bì dai như deadline, chả mềm như ý chí đi làm sáng thứ Hai."
+ },
+ "com-ga-xoi-mo": {
+  "history": "Gà xối mỡ là món gà chiên kiểu Hoa phổ biến ở Chợ Lớn, Sài Gòn, dùng mỡ nóng xối liên tục cho da giòn; không rõ người sáng tạo đầu tiên.",
+  "joke": "Da gà giòn đến mức đồng nghiệp biết tôi đang ăn trước cả khi tôi nhai."
+ },
+ "com-ga-xe": {
+  "history": "Cơm gà xé phay chịu ảnh hưởng cơm gà Hải Nam của người Hoa; Sài Gòn thêm rau răm và nước mắm gừng cho hợp khẩu vị địa phương.",
+  "joke": "Xé gà dễ hơn xé lòng sau khi bị sếp feedback, mà ngon hơn nhiều."
+ },
+ "com-chien-duong-chau": {
+  "history": "Món có gốc từ Dương Châu (Trung Quốc), theo người Hoa vào Chợ Lớn từ thế kỷ trước và trở thành món quen thuộc của người Sài Gòn.",
+  "joke": "Cơm đủ xúc xích, tôm, trứng, y như CV của tôi: nhìn đa dạng, thật ra toàn đồ có sẵn."
+ },
+ "com-chien-ca-man": {
+  "history": "Cá mặn là thức ăn bảo quản của người dân vùng biển; cơm chiên cá mặn là cách dân dã dùng cá muối, hợp khẩu vị miền Nam.",
+  "joke": "Cá mặn thì mặn, nhưng chưa mặn bằng số dư cuối tháng của tôi."
+ },
+ "com-chien-hai-san": {
+  "history": "Cơm chiên hải sản phổ biến ở các thành phố biển như Vũng Tàu, nơi tôm mực dễ kiếm; không có ghi chép về người nghĩ ra đầu tiên.",
+  "joke": "Tôm mực đầy đĩa mà tôi vẫn chỉ lo vét hạt cơm cuối cùng."
+ },
+ "com-suon-nuong": {
+  "history": "Sườn nướng ăn với cơm là món dân dã của Sài Gòn, phát triển cùng nét ẩm thực cơm tấm; không có mốc ra đời cụ thể.",
+  "joke": "Sườn nướng thơm đến mức đồng nghiệp tự nhiên thân với tôi lúc 12 giờ."
+ },
+ "com-ca-kho-to": {
+  "history": "Cá kho tộ là món của người dân Nam Bộ, kho trong tộ đất cho đậm đà; có từ lâu đời, không rõ người nghĩ ra đầu tiên.",
+  "joke": "Cá kho tộ mặn, nhưng tôi sẵn sàng chịu mặn vì tình yêu với cơm trắng."
+ },
+ "com-thit-kho-trung": {
+  "history": "Thịt kho nước dừa với trứng là món cơm nhà miền Nam, nhất là dịp Tết; công thức truyền miệng trong gia đình, không rõ ai khởi nguồn.",
+  "joke": "Thịt kho của mẹ làm tôi xin thêm cơm đến lần thứ ba mà vẫn chưa thấy ngại."
+ },
+ "com-canh-chua": {
+  "history": "Canh chua cá lóc là món đặc trưng miền Tây sông nước, nấu từ cá đồng với me, thơm, bạc hà; có từ xưa, không rõ tác giả.",
+  "joke": "Canh chua chua ngọt như tình đồng nghiệp: tưởng thân mà vẫn có drama."
+ },
+ "com-dau-hu-sot-ca": {
+  "history": "Đậu hũ sốt cà là món dân dã của người Việt, thường gặp trong bữa cơm gia đình miền Nam; không rõ nguồn gốc chính xác.",
+  "joke": "Ăn chay một bữa thôi mà ví tôi cảm ơn nhiều hơn bao tử."
+ },
+ "com-chay": {
+  "history": "Cơm chay gắn với văn hóa Phật giáo ở Việt Nam, ăn nhiều vào ngày rằm và mùng một; Sài Gòn có nhiều quán chay quanh các chùa.",
+  "joke": "Ăn chay thanh tịnh được đúng một buổi, chiều lại thèm thịt như thường."
+ },
+ "com-van-phong": {
+  "history": "Cơm văn phòng là món ăn trưa tiện lợi, phổ biến ở Sài Gòn khi dân công sở đông lên; thường là cơm hộp ba món, không có người sáng tạo cụ thể.",
+  "joke": "Ăn cơm văn phòng xong chỉ muốn nằm ngủ ngay trên bàn họp."
+ },
+ "com-binh-dan": {
+  "history": "Cơm bình dân là kiểu quán cơm tự chọn giá rẻ của người lao động Sài Gòn, hình thành tự nhiên theo nhu cầu, không có mốc cụ thể.",
+  "joke": "Chọn món cơm bình dân còn lâu hơn tôi chọn người yêu."
+ },
+ "com-heo-quay": {
+  "history": "Heo quay là món gốc Quảng Đông, theo người Hoa vào Chợ Lớn; ăn với cơm trở thành bữa quen thuộc của dân Sài Gòn.",
+  "joke": "Cắn miếng da heo quay rôm rốp, bao nhiêu ưu phiền cũng vỡ vụn theo."
+ },
+ "com-vit-quay": {
+  "history": "Vịt quay do người Hoa đưa vào Chợ Lớn, giữ kiểu quay lò Quảng Đông; ăn với cơm là cách bình dân hóa món này.",
+  "joke": "Vịt quay vàng óng, nhìn lại mình trắng bệch vì thức khuya."
+ },
+ "com-chien-trung-muoi": {
+  "history": "Trứng muối là thức ăn bảo quản quen thuộc của người Việt gốc Hoa; cơm chiên trứng muối là biến tấu hiện đại, thịnh hành vài chục năm gần đây.",
+  "joke": "Trứng muối bùi béo như cảm giác lương về tài khoản, mà cũng hết nhanh y vậy."
+ },
+ "com-ga-nuong-lu": {
+  "history": "Gà nướng lu là kiểu nướng trong lu đất giữ khói thơm, phổ biến ở Đồng Nai và miền Đông; không có ghi chép người khởi xướng.",
+  "joke": "Gà nướng trong lu, còn tôi thì nướng trong văn phòng mất máy lạnh."
+ },
+ "com-cua-ca-mau": {
+  "history": "Cà Mau nổi tiếng với cua biển nhiều gạch; món cơm cua gắn với vùng đất mũi, nhưng không rõ ai nghĩ ra cách chan gạch lên cơm.",
+  "joke": "Ăn cua Cà Mau, tay dơ, mặt dơ, nhưng lòng thì sạch."
+ },
+ "com-kho-quet": {
+  "history": "Kho quẹt là món chấm đậm đà của nông dân Nam Bộ, kho đặc nước mắm với thịt mỡ để ăn với rau luộc; có từ lâu đời, không rõ tác giả.",
+  "joke": "Cuối tháng cả nhà sống nhờ kho quẹt, qua tháng sau lại tự hứa tiết kiệm."
+ },
+ "bun-nuoc-leo": {
+  "history": "Bún nước lèo là món của người Khmer ở Sóc Trăng, nấu từ mắm bò hóc, mang hương vị đặc trưng Nam Bộ; có từ lâu đời trong cộng đồng Khmer.",
+  "joke": "Mùi mắm bò hóc làm thang máy vắng tanh, nhưng ngon thì vẫn ăn."
+ },
+ "num-bo-choc": {
+  "history": "Num bò chóc là tên Khmer của món bún cá nước lèo vùng An Giang, Sóc Trăng; có từ lâu đời trong cộng đồng Khmer Nam Bộ.",
+  "joke": "Tên khó đọc, vị dễ yêu, y như crush của tôi."
+ },
+ "bun-mam": {
+  "history": "Bún mắm là món của người Khmer miền Tây, nấu với mắm cá linh hoặc cá sặc, sau lan rộng khắp Nam Bộ; không rõ năm ra đời.",
+  "joke": "Bún mắm thơm đến mức người ngoài ngửi tưởng bom, người trong nhà ngửi tưởng thiên đường."
+ },
+ "bun-ca-chau-doc": {
+  "history": "Bún cá Châu Đốc là món đặc sản An Giang, dùng cá lóc và nghệ làm nước dùng; công thức truyền lại nhiều đời, không rõ người khởi đầu.",
+  "joke": "Màu nghệ vàng rực, ăn tô bún mà tưởng mình đang húp nắng."
+ },
+ "bun-ca-ri-ga": {
+  "history": "Cà ri gà ở Nam Bộ chịu ảnh hưởng cà ri Ấn Độ qua người Chăm và Ấn kiều; bún cà ri là cách ăn thêm bún cho hợp khẩu vị Việt.",
+  "joke": "Cà ri thơm lừng, ăn xong vẫn nhớ, nhất là vết ố trên áo trắng."
+ },
+ "bun-thit-nuong": {
+  "history": "Bún thịt nướng là món quen thuộc của người Nam Bộ, kết hợp bún, thịt nướng và chả giò; không có mốc ra đời cụ thể.",
+  "joke": "Bún thịt nướng mà không đổ nước mắm thì như bản nháp chưa nộp."
+ },
+ "bun-cha-gio": {
+  "history": "Chả giò Nam Bộ ăn với bún và rau sống là cách dùng chả giò làm món chính; không rõ ai bắt đầu, chỉ biết quán nào cũng có.",
+  "joke": "Gắp chả giò cuốn rau là kỹ năng khó hơn viết báo cáo."
+ },
+ "bun-rieu-cua": {
+  "history": "Bún riêu cua có gốc miền Bắc, vào Nam từ lâu và được điều chỉnh vị ngọt, thêm cà chua; khó xác định mốc thời gian cụ thể.",
+  "joke": "Riêu cua nổi từng mảng, giống drama công ty nổi mỗi tuần."
+ },
+ "bun-oc": {
+  "history": "Bún ốc có gốc miền Bắc, vào Sài Gòn theo người di cư; ở Nam thường có nước dùng chua nhẹ, ăn kèm rau sống.",
+  "joke": "Ốc giòn sần sật, còn tôi mềm nhũn khi nhìn hóa đơn cuối tháng."
+ },
+ "bun-moc": {
+  "history": "Bún mọc là món gốc miền Bắc, mọc viên làm từ giò sống và nấm mèo; vào Nam theo người di cư, vị thanh nhẹ hơn các món bún khác.",
+  "joke": "Mọc viên tròn xoe, như vòng lặp công việc của tôi tuần này."
+ },
+ "bun-suon": {
+  "history": "Bún sườn có gốc miền Bắc, vào Sài Gòn khá sớm; nước dùng hầm xương với sườn non, thêm dấm cà chua tùy vùng.",
+  "joke": "Ăn bún sườn buổi sáng, lòng bình yên đến 9 giờ rồi vào họp."
+ },
+ "bun-tom-cang": {
+  "history": "Tôm càng là đặc sản sông nước miền Tây; bún tôm càng phổ biến ở Cần Thơ, nhưng không rõ năm ra đời.",
+  "joke": "Tôm càng to quá, lột mãi mà vẫn tiếc nước dùng."
+ },
+ "bun-gio-heo": {
+  "history": "Bún giò heo xuất hiện ở nhiều vùng; ở miền Nam nước dùng ngọt hơn, thêm huyết và chả; khó xác định nơi bắt đầu.",
+  "joke": "Giò heo béo quá, tôi hứa tuần sau ăn salad, tuần sau nữa cũng vậy."
+ },
+ "bun-cha-ca-phu-quoc": {
+  "history": "Phú Quốc có nghề làm chả cá từ cá tươi vùng biển đảo; bún chả cá là cách dùng chả cá đó làm món ăn sáng của người dân đảo.",
+  "joke": "Chả cá Phú Quốc giúp tôi mơ về đảo xanh lúc đang ngồi văn phòng."
+ },
+ "bun-quay": {
+  "history": "Bún quậy là đặc sản Phú Quốc, tự pha nước chấm trong tô rồi quậy lên; theo người địa phương mới xuất hiện vài chục năm nay.",
+  "joke": "Bún quậy là món duy nhất cho phép tôi quậy mà không bị nhắc nhở."
+ },
+ "bun-bo-xao": {
+  "history": "Bún bò xào là món bún trộn, xào bò với hành và sả, quen thuộc với dân Sài Gòn; không có tài liệu rõ về nguồn gốc.",
+  "joke": "Bò xào thơm là vậy, nhưng tôi vẫn xin thêm rau cho đỡ tội lỗi."
+ },
+ "bun-dau-mam-tom": {
+  "history": "Bún đậu mắm tôm có gốc miền Bắc (Hà Nội), vào Sài Gòn khoảng vài chục năm nay; mắm tôm vẫn là thử thách khẩu vị của nhiều người miền Nam.",
+  "joke": "Đậu chấm mắm tôm, đồng nghiệp tránh mười mét, còn tôi hạnh phúc."
+ },
+ "bun-thit-nuong-chay": {
+  "history": "Bún thịt nướng chay là biến tấu của quán chay, nướng nấm và đậu hũ thay thịt, thịnh hành cùng phong trào ăn chay ở thành phố.",
+  "joke": "Nấm nướng thơm tới mức quên luôn mình đang ăn chay."
+ },
+ "hu-tieu-nam-vang": {
+  "history": "Hủ tiếu Nam Vang có gốc từ người Hoa gốc Triều Châu ở Campuchia, vào Sài Gòn khoảng giữa thế kỷ 20 và thành món biểu tượng miền Nam.",
+  "joke": "Hủ tiếu nhiều topping thế, giống Zalo công ty có đủ thứ nhóm."
+ },
+ "hu-tieu-kho": {
+  "history": "Hủ tiếu khô là cách ăn không nước dùng, nước sốt riêng, bắt nguồn từ hủ tiếu Nam Vang và được người Sài Gòn biến tấu.",
+  "joke": "Hủ tiếu khô nhưng lòng tôi ướt vì quá ngon."
+ },
+ "hu-tieu-my-tho": {
+  "history": "Hủ tiếu Mỹ Tho là đặc sản Tiền Giang, tương truyền từ người Hoa định cư ở Mỹ Tho; nổi tiếng nhờ sợi dai và nước lèo trong, ngọt.",
+  "joke": "Ăn hủ tiếu Mỹ Tho xong thấy mình xứng đáng thăng chức, rồi tỉnh dậy."
+ },
+ "hu-tieu-sa-dec": {
+  "history": "Hủ tiếu Sa Đéc là đặc sản Đồng Tháp, sợi nhỏ nổi tiếng nhờ nghề làm bột ở Sa Đéc; thường nêm tép khô, hẹ và tỏi phi.",
+  "joke": "Tô hủ tiếu nhỏ xíu nên tôi phải ăn hai tô mới đủ no."
+ },
+ "hu-tieu-ca": {
+  "history": "Hủ tiếu cá có ở nhiều vùng ven biển và sông nước miền Nam, dùng cá tươi nấu nước dùng ngọt; không rõ nguồn gốc cụ thể.",
+  "joke": "Ăn cá tốt cho não, nhưng não tôi vẫn đang loading."
+ },
+ "hu-tieu-bo-kho": {
+  "history": "Bò kho là món miền Nam chịu ảnh hưởng ẩm thực Pháp và Hoa; ăn kèm hủ tiếu thay bánh mì là biến tấu tại các quán Sài Gòn.",
+  "joke": "Bò kho thơm quế hồi đến mức tôi quên check mail."
+ },
+ "hu-tieu-sa-te": {
+  "history": "Hủ tiếu sa tế bắt nguồn từ cộng đồng người Hoa ở Chợ Lớn, ảnh hưởng sa tế Triều Châu; vị cay thơm đặc trưng.",
+  "joke": "Sa tế cay xé lưỡi mà tôi vẫn đòi thêm như người yêu cũ."
+ },
+ "hu-tieu-hoanh-thanh": {
+  "history": "Hoành thánh vốn là món của người Hoa, vào Chợ Lớn và ăn kèm hủ tiếu cho đầy đủ; không rõ ai nghĩ ra cách kết hợp này.",
+  "joke": "Hoành thánh chìm nổi trong nước dùng, giống tôi giữa dòng email."
+ },
+ "hu-tieu-xao": {
+  "history": "Hủ tiếu xào là cách ăn nhanh, tiện của dân lao động, phổ biến ở quán ăn Sài Gòn; không có thông tin cụ thể về nguồn gốc.",
+  "joke": "Xào hủ tiếu thì dễ, xào lại cuộc đời mới khó."
+ },
+ "hu-tieu-go": {
+  "history": "Hủ tiếu gõ là gánh hủ tiếu rong ở Sài Gòn, người bán gõ hai thanh gỗ để báo hiệu; phổ biến từ giữa thế kỷ 20, nay còn ít.",
+  "joke": "Nghe tiếng gõ nửa đêm là tim tôi tự chạy ra cửa."
+ },
+ "mi-xao-gion": {
+  "history": "Mì xào giòn là món Hoa vào Chợ Lớn, mì chiên giòn rồi rưới sốt hải sản; không rõ người sáng tạo đầu tiên.",
+  "joke": "Mì giòn chan sốt thì mềm, giống tôi sau buổi họp ba tiếng."
+ },
+ "mi-hoanh-thanh": {
+  "history": "Mì hoành thánh xá xíu là món của người Hoa Quảng Đông, vào Chợ Lớn theo làn sóng di cư từ thế kỷ trước.",
+  "joke": "Mì dai, tôi cũng dai, nhưng chỉ dai chuyện ăn."
+ },
+ "mi-vit-tiem": {
+  "history": "Vịt tiềm thuốc bắc là món Hoa, vào Chợ Lớn cùng người Triều Châu, Quảng Đông; thường ăn để bồi bổ khi trời lạnh hoặc mưa.",
+  "joke": "Ăn vịt tiềm thuốc bắc thấy khỏe re, đi làm lại yếu liền."
+ },
+ "mi-xao-bo": {
+  "history": "Mì xào bò chịu ảnh hưởng ẩm thực Hoa, trở thành món quán ăn bình dân ở Sài Gòn; khó xác định xuất xứ cụ thể.",
+  "joke": "Mì xào bò mà ít bò, giống bảng lương mà ít tiền."
+ },
+ "mi-xa-xiu": {
+  "history": "Xá xíu (thịt heo nướng mật) là món Quảng Đông, theo người Hoa vào Chợ Lớn; ăn với mì thành bữa quen thuộc.",
+  "joke": "Xá xíu đỏ au, mặt tôi cũng đỏ au vì ăn cay."
+ },
+ "mi-trung-an-lien": {
+  "history": "Mì gói du nhập vào Việt Nam từ cuối thế kỷ 20 và nhanh chóng thành món cứu đói; thêm trứng là cách bình dân nhất để ăn.",
+  "joke": "Mì trứng nửa đêm là bữa tối của người trưởng thành đang cố sống sót."
+ },
+ "mi-cay": {
+  "history": "Mì cay theo làn sóng ẩm thực Hàn Quốc vào Việt Nam khoảng đầu thập niên 2010, nổi nhờ các cấp độ cay thử thách giới trẻ.",
+  "joke": "Cấp độ 7 tôi chịu được, cấp độ deadline thì không."
+ },
+ "mi-tron": {
+  "history": "Mì trộn tóp mỡ, hành phi là món ăn vặt bình dân ở Sài Gòn, hình thành tự nhiên trong các quán nhỏ; không rõ năm bắt đầu.",
+  "joke": "Tóp mỡ giòn rụm làm cả tuần diet của tôi tan thành mây khói."
+ },
+ "nui-xao-bo": {
+  "history": "Nui là loại mì ống du nhập qua ẩm thực Pháp, Ý và được người Sài Gòn xào theo kiểu Việt; không rõ ai khởi xướng.",
+  "joke": "Nui xào bò: món mẹ nấu quen đến mức không ai nhớ ai nghĩ ra."
+ },
+ "banh-canh-cua": {
+  "history": "Bánh canh là món sợi bột gạo hoặc bột lọc của người Việt, có từ lâu đời; bánh canh cua phổ biến ở Sài Gòn, nấu nước dùng sánh từ gạch cua.",
+  "joke": "Cua đầy ắp mà tôi vẫn lười bóc, vậy là đang yêu cái lười hơn."
+ },
+ "banh-canh-gio-heo": {
+  "history": "Bánh canh giò heo là món bình dân miền Nam, nấu nước dùng xương hầm với giò; không có tài liệu rõ về nơi bắt đầu.",
+  "joke": "Giò heo mềm béo, ăn xong chỉ muốn nhắm mắt nghỉ ngơi giữa giờ làm."
+ },
+ "banh-canh-ca-loc": {
+  "history": "Cá lóc là cá đồng quen thuộc ở miền Tây; bánh canh cá lóc là món dân dã sông nước, có từ lâu, không rõ ai nấu đầu tiên.",
+  "joke": "Cá lóc ngọt thịt, rau om thơm, còn tôi thì thơm mùi caffeine."
+ },
+ "banh-canh-tom": {
+  "history": "Bánh canh tôm là món phổ biến ở vùng biển như Vũng Tàu, tận dụng tôm tươi; khó xác định nguồn gốc cụ thể.",
+  "joke": "Tôm tươi ngọt nước, còn đời tôi nhạt thếch như nước lọc."
+ },
+ "banh-canh-trang-bang": {
+  "history": "Bánh canh Trảng Bàng là đặc sản Tây Ninh, nổi tiếng với sợi tròn dai làm từ bột gạo và bột mì, ăn kèm thịt heo luộc; có từ nhiều thập niên trước.",
+  "joke": "Sợi tròn dai như deadline gia hạn, ăn mãi không hết."
+ },
+ "banh-canh-chay": {
+  "history": "Bánh canh chay là biến tấu của quán chay Sài Gòn, nấu nước dùng từ rau củ thay nước xương; không rõ năm xuất hiện.",
+  "joke": "Chay một bữa cho đỡ tội lỗi với mấy ly trà sữa tuần trước."
+ },
+ "banh-mi-thit": {
+  "history": "Bánh mì du nhập theo người Pháp vào cuối thế kỷ 19; người Sài Gòn biến thành món kẹp thịt, pate, rau chua, trở thành biểu tượng ẩm thực.",
+  "joke": "Bánh mì ổ nhỏ, nhưng làm mình quên cả buổi họp tẻ nhạt."
+ },
+ "banh-mi-op-la": {
+  "history": "Bánh mì ốp la là bữa sáng bình dân học theo cách ăn trứng của người Pháp, thành món quen thuộc ở Sài Gòn; không rõ ai nghĩ ra.",
+  "joke": "Trứng lòng đào chấm bánh mì, bữa sáng hạng sang của dân nghèo."
+ },
+ "banh-mi-xiu-mai": {
+  "history": "Bánh mì xíu mại gắn với Đà Lạt và Sài Gòn, xíu mại nấu sốt cà chua ăn với bánh mì; ảnh hưởng món xíu mại của người Hoa.",
+  "joke": "Chấm bánh mì vào sốt cà xíu mại, hạnh phúc chỉ cần vậy thôi."
+ },
+ "banh-mi-heo-quay": {
+  "history": "Heo quay do người Hoa mang vào Chợ Lớn; kẹp bánh mì là sự kết hợp bình dân quen thuộc của Sài Gòn.",
+  "joke": "Cắn bánh mì heo quay rôm rốp, hàng xóm tưởng nhà tôi có bắp rang."
+ },
+ "banh-mi-cha-ca": {
+  "history": "Chả cá kẹp bánh mì là món quen thuộc ở Nha Trang rồi lan vào Sài Gòn; không rõ ai kẹp lần đầu.",
+  "joke": "Chả cá kẹp bánh mì nóng giòn, ăn xong tha thứ cho cả tuần mệt mỏi."
+ },
+ "banh-mi-bo-ne": {
+  "history": "Bò né kiểu chảo gang nóng gắn với Sài Gòn, chịu ảnh hưởng món bít tết kiểu Pháp; ăn kèm bánh mì là cách bình dân hóa.",
+  "joke": "Chảo kêu xèo xèo, tim tôi cũng xèo xèo theo."
+ },
+ "banh-mi-chao": {
+  "history": "Bánh mì chảo là món ăn sáng kiểu Sài Gòn, gồm trứng, pate, xúc xích trên chảo nóng; mô hình học theo bữa sáng Tây, không rõ mốc ra đời.",
+  "joke": "Chảo đầy ắp từ sáng, đời tôi chỉ có mỗi bữa sáng là đầy đủ."
+ },
+ "banh-mi-nuong-muoi-ot": {
+  "history": "Bánh mì nướng muối ớt là món ăn vặt đường phố Sài Gòn, thịnh hành vài chục năm gần đây; không rõ người sáng tạo.",
+  "joke": "Cay xé miệng mà vẫn ăn, đúng chất dân kiên trì."
+ },
+ "banh-mi-que": {
+  "history": "Bánh mì que gắn với Hải Phòng, nơi nổi tiếng với bánh mì cay; vào Sài Gòn làm món ăn vặt bán trước cổng trường.",
+  "joke": "Bánh mì que nhỏ xíu, ăn ba cây vẫn gọi là chưa ăn gì."
+ },
+ "banh-mi-chay": {
+  "history": "Bánh mì chay là biến tấu cho người ăn chay ở Sài Gòn, dùng chả chay, nấm, rau củ thay thịt; không rõ năm xuất hiện.",
+  "joke": "Chay mà vẫn kẹp đủ thứ, hóa ra tôi chỉ chay trên danh nghĩa."
+ },
+ "banh-xeo-mien-tay": {
+  "history": "Bánh xèo miền Tây dùng bột gạo và nghệ, đổ trên chảo nóng nghe tiếng xèo xèo; có từ lâu đời ở Nam Bộ, không rõ ai khởi nguồn.",
+  "joke": "Bánh xèo chấm nước mắm, cuốn rau cải: bữa ăn này gọi là thiền."
+ },
+ "banh-xeo-tom-nhay": {
+  "history": "Tôm nhảy là tôm nhỏ bắt ở sông miền Tây, đổ nguyên con vào bánh xèo; món dân dã vùng Cần Thơ, không rõ ai bắt đầu.",
+  "joke": "Tôm nhảy tưng tưng, còn tôi nhảy cẫng lên khi thấy ví còn tiền."
+ },
+ "banh-xeo-bong-dien-dien": {
+  "history": "Bông điên điển nở theo mùa nước nổi miền Tây; người dân nấu thêm vào bánh xèo, món theo mùa không có mốc ra đời cụ thể.",
+  "joke": "Mùa nước nổi, bánh xèo cũng nổi, còn tôi chỉ nổi mụn."
+ },
+ "banh-khot": {
+  "history": "Bánh khọt là đặc sản Vũng Tàu, đổ bột gạo vào khuôn nhỏ rồi cho tôm lên; có từ lâu, được cho là món dân gian vùng biển Nam Bộ.",
+  "joke": "Bánh khọt nhỏ xinh, nhưng tôi gắp hết khay như mọi lần."
+ },
+ "banh-khot-tom-tuoi": {
+  "history": "Bánh khọt tôm tươi là biến tấu bánh khọt Vũng Tàu, dùng tôm tươi nổi lên mặt bánh; ăn với nước cốt dừa.",
+  "joke": "Ăn bánh khọt tôm tươi xong thấy đời cũng tươi theo."
+ },
+ "banh-cuon-nong": {
+  "history": "Bánh cuốn có gốc miền Bắc, vào Nam và biến đổi nhẹ với nước mắm ngọt, ăn nóng; ở Sài Gòn thấy từ giữa thế kỷ 20.",
+  "joke": "Bánh mỏng tang như mối quan hệ công sở, nhìn thì ổn mà dễ rách."
+ },
+ "banh-hoi-thit-nuong": {
+  "history": "Bánh hỏi là món sợi gạo nhỏ nổi tiếng ở miền Trung, ăn với thịt nướng ở miền Nam; không rõ ai nghĩ ra cách kết hợp này.",
+  "joke": "Sợi bánh hỏi mịn như da em bé, chỉ có tôi thô ráp vì ngồi điều hòa."
+ },
+ "banh-hoi-heo-quay": {
+  "history": "Bánh hỏi ăn với heo quay là cách biến tấu miền Nam, chấm mắm nêm; không có ghi chép rõ về nguồn gốc.",
+  "joke": "Heo quay giòn cuốn bánh hỏi mềm, đúng nghĩa cân bằng cuộc sống."
+ },
+ "banh-bao": {
+  "history": "Bánh bao do người Hoa đưa vào Việt Nam, vào Chợ Lớn thành món nổi tiếng với nhân thịt, trứng cút; có từ nhiều thế hệ.",
+  "joke": "Bánh bao trắng phau, tròn xoe, giống mặt tôi khi thiếu ngủ."
+ },
+ "banh-bao-chien": {
+  "history": "Bánh bao chiên là biến tấu của bánh bao hấp, chiên cho giòn đáy; phổ biến ở Chợ Lớn, không rõ ai nghĩ ra đầu tiên.",
+  "joke": "Bánh bao chiên giòn đáy mềm ruột, kiểu tính cách tôi: lạnh ngoài nóng trong."
+ },
+ "banh-tet-la-cam": {
+  "history": "Bánh tét miền Nam dùng lá chuối gói hình trụ, thường làm dịp Tết; lá cẩm nhuộm màu tím là sáng tạo của người dân miền Tây, không rõ ai bắt đầu.",
+  "joke": "Màu tím lá cẩm đẹp quá, tôi tiếc không dám cắn."
+ },
+ "banh-it-la-gai": {
+  "history": "Bánh ít lá gai nổi tiếng ở Bình Định, người miền Tây cũng làm; vỏ đen từ lá gai nhào với bột nếp, nhân đậu xanh dừa.",
+  "joke": "Đen thui nhưng nhân ngọt, y như tôi sau chuỗi ngày OT."
+ },
+ "banh-gio": {
+  "history": "Bánh giò là món có gốc miền Bắc, vào Sài Gòn với nhân thịt, nấm mèo; thường bán buổi sáng và đêm.",
+  "joke": "Bánh giò nóng buổi sáng làm tôi quên mình chưa trả nợ deadline."
+ },
+ "banh-bo-nuong": {
+  "history": "Bánh bò nướng là bánh miền Tây với vân tổ ong từ men nở và nước cốt dừa; công thức truyền khẩu, không rõ người làm đầu tiên.",
+  "joke": "Tổ ong đều tăm tắp, đời tôi tổ ong lỗ chỗ vì nợ."
+ },
+ "banh-bo-hap": {
+  "history": "Bánh bò hấp là món bánh quê Nam Bộ, xốp nở nhờ men; tên gọi có thể do hình dáng nở bung, nhưng không có tài liệu rõ.",
+  "joke": "Bánh nở bung mềm xốp, như tâm trạng sau khi nhận lương."
+ },
+ "banh-da-lon": {
+  "history": "Bánh da lợn là món bánh nhiều lớp của người Nam Bộ, tên gọi do lớp bánh trông như lớp da lợn; không rõ ai làm đầu tiên.",
+  "joke": "Ăn từng lớp bánh y như bóc từng lớp công việc, tưởng hết nhưng còn."
+ },
+ "banh-pia": {
+  "history": "Bánh pía Sóc Trăng do người Hoa gốc Triều Châu mang vào, thành đặc sản Sóc Trăng với nhân sầu riêng, đậu xanh; tên pía từ tiếng Triều Châu.",
+  "joke": "Mua bánh pía làm quà mà ăn hết trước khi về tới nhà."
+ },
+ "banh-tieu": {
+  "history": "Bánh tiêu được cho là có gốc từ món bánh chiên của người Hoa; ở Sài Gòn bán buổi sáng, ăn với sữa hoặc xíu mại.",
+  "joke": "Bánh tiêu rỗng ruột, giống lời hứa đi tập gym của tôi."
+ },
+ "banh-tam-bi": {
+  "history": "Bánh tằm bì là món của miền Tây, sợi bánh làm từ bột gạo, chan nước cốt dừa và bì heo; không rõ năm xuất hiện.",
+  "joke": "Nước cốt dừa béo ngập sợi tằm, calo cũng ngập theo."
+ },
+ "banh-tam-nuoc-cot-dua": {
+  "history": "Bánh tằm Sóc Trăng là món ăn của người dân địa phương, sợi bánh tằm chan nước cốt dừa; một số nơi biến tấu thêm vị cay.",
+  "joke": "Cay ngọt béo trộn lẫn, đúng kiểu cuộc sống hỗn hợp."
+ },
+ "banh-xu-xe": {
+  "history": "Bánh xu xê (còn gọi bánh phu thê) là bánh truyền thống của người Việt, dùng trong đám cưới; ở Cần Thơ thường thấy loại nhân dừa.",
+  "joke": "Bánh phu thê mà ăn một mình thì tạm gọi là bánh độc thân."
+ },
+ "banh-cong": {
+  "history": "Bánh cống là món Sóc Trăng, tương truyền do người Khmer làm từ lâu đời, chiên bằng khuôn cống; nhân đậu xanh và tôm.",
+  "joke": "Bánh cống giòn rụm, nhai là nghe âm thanh hạnh phúc."
+ },
+ "banh-cam": {
+  "history": "Bánh cam (bánh rán) có gốc từ món bánh chiên bột nếp của người Hoa, du nhập vào Việt Nam; nhân đậu xanh, phủ mè.",
+  "joke": "Bánh cam tròn vo, chắc để nhắc tôi ăn xong là lên cân."
+ },
+ "banh-bot-loc": {
+  "history": "Bánh bột lọc là món bánh miền Trung (Huế), vào Sài Gòn theo người di cư; vỏ trong từ bột năng, nhân tôm thịt.",
+  "joke": "Vỏ trong veo như tâm hồn tôi lúc đói, thấy gì cũng thương."
+ },
+ "banh-trang-tron": {
+  "history": "Bánh tráng trộn nổi lên ở Sài Gòn khoảng thập niên 1990-2000, từ các xe bán trước cổng trường; không rõ ai sáng chế.",
+  "joke": "Trộn đủ thứ vào một bịch, y như cuộc sống tôi: lộn xộn mà vẫn ngon."
+ },
+ "banh-trang-nuong": {
+  "history": "Bánh tráng nướng gắn với Đà Lạt, nơi lạnh nên nướng bánh trên than; vào Sài Gòn thành món vặt được gọi là pizza Việt.",
+  "joke": "Pizza Việt Nam: 15.000 đồng, nhưng vui như pizza nhà hàng."
+ },
+ "banh-trang-phoi-suong": {
+  "history": "Bánh tráng phơi sương là đặc sản Trảng Bàng, Tây Ninh, phơi qua sương đêm để dẻo; ăn với thịt luộc rau sống là món nổi tiếng.",
+  "joke": "Cuốn thịt luộc với rau, tay lủng củng như người mới học thiền."
+ },
+ "banh-trang-me-nuong": {
+  "history": "Bánh tráng mè nướng là món ăn vặt Tây Ninh, làm từ bột gạo rắc mè rồi nướng than; không rõ năm ra đời.",
+  "joke": "Bẻ bánh nghe rôm rốp, giống tiếng bao tử tôi reo lúc nửa đêm."
+ },
+ "bot-chien": {
+  "history": "Bột chiên là món của người Hoa ở Chợ Lớn, bột gạo cắt miếng chiên với trứng; tên gọi từ cách làm, có từ nhiều thập niên.",
+  "joke": "Bột chiên trứng giòn thơm, hợp ăn lúc tan học hay tan ca."
+ },
+ "bo-bia": {
+  "history": "Bò bía do người Hoa Triều Châu mang đến Nam Bộ, tên có thể từ tiếng Triều Châu; vỏ bánh tráng mỏng cuốn lạp xưởng, củ sắn.",
+  "joke": "Cuốn vội mà ngon, ăn nhiều lần vẫn thấy không đủ."
+ },
+ "bo-bia-ngot": {
+  "history": "Bò bía ngọt là biến tấu bò bía với nhân dừa, đường; thấy bán ở Sài Gòn như món ăn vặt, không rõ người sáng tạo.",
+  "joke": "Ngọt ngào đến mức tôi ăn xong tưởng mình đang yêu."
+ },
+ "goi-cuon": {
+  "history": "Gỏi cuốn là món cuốn rau sống, bún, tôm thịt trong bánh tráng, đặc trưng Nam Bộ; không có mốc rõ ràng, có từ lâu đời.",
+  "joke": "Cuốn khéo thì đẹp, cuốn dở thì rách, giống kế hoạch của tôi."
+ },
+ "goi-cuon-chay": {
+  "history": "Gỏi cuốn chay là phiên bản dành cho người ăn chay, thay tôm thịt bằng đậu hũ, nấm, rau củ; phổ biến ở Sài Gòn.",
+  "joke": "Cuốn xong chẳng thấy thịt, nhưng nước chấm làm tôi tha thứ hết."
+ },
+ "cha-gio": {
+  "history": "Chả giò Nam Bộ (miền Bắc gọi nem rán) là món chiên vỏ bánh tráng; có từ lâu đời, không rõ tác giả.",
+  "joke": "Chả giò vàng giòn, vừa ăn vừa cuốn rau như đang dọn bàn làm việc."
+ },
+ "cha-gio-hai-san": {
+  "history": "Chả giò hải sản là biến tấu nhân tôm, cua, mực trong vỏ giòn; phổ biến ở các quán Sài Gòn và vùng biển, không rõ ai nghĩ ra.",
+  "joke": "Hải sản gói trong chả giò, như deadline gói trong email: ngon mà mệt."
+ },
+ "xoai-lac": {
+  "history": "Xoài lắc là món ăn vặt đường phố Sài Gòn, lắc xoài xanh với muối ớt trong ly; phổ biến từ những năm 2000, không rõ người nghĩ ra.",
+  "joke": "Lắc xoài như lắc đầu từ chối deadline: nhanh, mạnh, mà vẫn chua."
+ },
+ "xoai-xanh-muoi-ot": {
+  "history": "Xoài xanh chấm muối ớt là cách ăn vặt dân dã của người miền Nam và miền Tây, có từ lâu đời, không rõ nguồn gốc.",
+  "joke": "Chua cay rát lưỡi mà vẫn ăn, đúng kiểu tâm lý chịu đau."
+ },
+ "oc-luoc-sa": {
+  "history": "Ốc luộc sả là món ăn vặt đường phố Sài Gòn, khắc họa nét ẩm thực ốc phổ biến; không có mốc cụ thể.",
+  "joke": "Hút ốc nghe tiếng xì xụp là nghe tiếng giải tỏa stress."
+ },
+ "oc-len-xao-dua": {
+  "history": "Ốc len xào dừa là món ốc nổi tiếng ở Sài Gòn, tận dụng ốc len ở ruộng, kênh rạch Nam Bộ; ăn với bánh mì chấm nước sốt.",
+  "joke": "Ốc len nhỏ mà tốn nhiều công, như tập tành làm người lớn."
+ },
+ "oc-huong-rang-muoi": {
+  "history": "Ốc hương là hải sản vùng biển, nổi ở Vũng Tàu và các tỉnh ven biển; rang muối ớt là cách chế biến quen thuộc của quán ốc.",
+  "joke": "Ốc hương ngọt thơm, ví tôi thì đắng cay."
+ },
+ "oc-buou-nuong-tieu": {
+  "history": "Ốc bươu là món dân dã ở đồng ruộng Việt Nam; nướng tiêu là cách chế biến ở quán nhậu Sài Gòn, không rõ người sáng tạo.",
+  "joke": "Ốc bươu nướng tiêu cay nồng, ăn xong nước mắt nước mũi, tưởng đang xem phim buồn."
+ },
+ "oc-mong-tay-xao-toi": {
+  "history": "Ốc móng tay là hải sản ở vùng ven biển; xào tỏi là món quen thuộc ở quán ốc Sài Gòn, không rõ nguồn gốc.",
+  "joke": "Ốc móng tay giòn ngọt, chill chill rồi quên hết hóa đơn."
+ },
+ "so-huyet-nuong": {
+  "history": "Sò huyết là hải sản vùng bùn ven biển, nướng tái chấm muối tiêu chanh là cách ăn phổ biến ở quán ốc Sài Gòn.",
+  "joke": "Sò tái mọng nước, tôi tái mét khi thấy hóa đơn."
+ },
+ "nghieu-hap-sa": {
+  "history": "Bến Tre nổi tiếng với nghêu ven biển; hấp sả là cách chế biến dân dã giữ vị ngọt nước, không rõ ai bắt đầu.",
+  "joke": "Nghêu mở miệng cười, còn tôi mở miệng ngáp."
+ },
+ "so-diep-nuong-mo-hanh": {
+  "history": "Sò điệp nướng mỡ hành là món quán nhậu hải sản ven biển, phổ biến ở Vũng Tàu; mỡ hành là cách chế biến Việt.",
+  "joke": "Mỡ hành bóng lưỡng, tôi ăn xong cũng bóng lưỡng luôn."
+ },
+ "cua-rang-me": {
+  "history": "Cua Cà Mau nổi tiếng thịt chắc; cua rang me là món quán nhậu hiện đại, kết hợp vị chua ngọt của me, không rõ ai nghĩ ra.",
+  "joke": "Bóc cua xong tay dính me, kể cả thời gian cũng dính."
+ },
+ "cua-rang-muoi": {
+  "history": "Cua rang muối là món hải sản phổ biến ở quán nhậu miền Nam, có thể ảnh hưởng ẩm thực Hoa; không rõ nguồn gốc.",
+  "joke": "Cua rang muối giòn, ví tôi giòn: chỉ cần vỗ nhẹ là vỡ."
+ },
+ "tom-nuong-muoi-ot": {
+  "history": "Tôm nướng muối ớt là món nướng ven biển, phổ biến ở Vũng Tàu và quán hải sản Sài Gòn; không có tài liệu về người khởi xướng.",
+  "joke": "Tôm nướng muối ớt đưa cơm, còn deadline thì đưa nước mắt."
+ },
+ "tom-rang-me": {
+  "history": "Tôm rang me là món ăn dùng nước sốt me chua ngọt, phổ biến ở Nam Bộ; không rõ năm bắt đầu.",
+  "joke": "Sốt me bám vỏ tôm, cũng như nợ bám tôi."
+ },
+ "muc-nuong-sa-te": {
+  "history": "Phú Quốc nổi tiếng với hải sản; mực nướng sa tế là món quán đảo, ảnh hưởng sa tế của người Hoa. Không rõ ai nghĩ ra cách kết hợp.",
+  "joke": "Mực nướng cay xé lưỡi, trà đá cứu mạng cả buổi."
+ },
+ "nhum-nuong-pho-mai": {
+  "history": "Nhum biển được ăn ở vùng đảo như Phú Quốc; nướng phô mai là biến tấu hiện đại cho khách du lịch, không rõ năm xuất hiện.",
+  "joke": "Nhum gai tua tủa, nhưng nướng phô mai thì mềm lòng ngay."
+ },
+ "ghe-hap-bia": {
+  "history": "Ghẹ là hải sản nổi tiếng ở Phú Quốc, Kiên Giang; hấp bia giữ vị ngọt và thơm, là cách chế biến quán nhậu hiện đại.",
+  "joke": "Hấp bia mà tôi không uống được, chỉ ngửi cho đỡ thèm."
+ },
+ "ngao-hap-thai": {
+  "history": "Hải sản hấp kiểu Thái du nhập vào Sài Gòn theo phong trào quán Thái; ngao hấp với sả, ớt, chanh, lá chanh.",
+  "joke": "Chua cay Thái Lan, tiền tiêu Việt Nam."
+ },
+ "sup-cua": {
+  "history": "Súp cua chịu ảnh hưởng ẩm thực Hoa, phổ biến ở Chợ Lớn và thành quà vặt bình dân của Sài Gòn; không rõ nguồn gốc cụ thể.",
+  "joke": "Súp cua nóng hổi, húp xong thấy ổn: tạm thời quên deadline."
+ },
+ "sup-mang-tay-cua": {
+  "history": "Súp măng tây cua là biến tấu hiện đại của súp cua, thêm măng tây; thấy ở nhà hàng Sài Gòn, không rõ người khởi xướng.",
+  "joke": "Măng tây cua sang chảnh, nhưng ví tôi chỉ đủ húp ké."
+ },
+ "banh-flan": {
+  "history": "Bánh flan do người Pháp mang vào Việt Nam từ thời thuộc địa; người Sài Gòn thêm caramel đắng và ăn kèm cà phê hoặc đá bào.",
+  "joke": "Flan run run, tôi cũng run khi nhìn cân nặng."
+ },
+ "banh-flan-ca-phe": {
+  "history": "Flan chan cà phê là cách kết hợp bánh flan Pháp với cà phê Việt, thấy ở quán cà phê Sài Gòn; không rõ người sáng tạo.",
+  "joke": "Cà phê cho tỉnh, flan cho ngọt, tôi cần cả hai để sống."
+ },
+ "kem-flan": {
+  "history": "Kem flan là món ăn kết hợp bánh flan và kem, phổ biến ở Sài Gòn như món giải nhiệt; không rõ ai làm đầu tiên.",
+  "joke": "Flan với kem, tôi chỉ xin một thìa nhưng xin tận ba lần."
+ },
+ "ca-phe-sua-da": {
+  "history": "Cà phê du nhập vào Việt Nam qua người Pháp cuối thế kỷ 19; do thiếu sữa tươi nên người dân dùng sữa đặc, tạo nên cà phê sữa đá.",
+  "joke": "Không có cà phê sữa đá, tôi chỉ là con người thiếu ngủ."
+ },
+ "ca-phe-den-da": {
+  "history": "Cà phê đen đá là cách uống cà phê phin truyền thống của người Việt, có từ khi cà phê vào Việt Nam thời Pháp thuộc.",
+  "joke": "Cà phê đen đắng, nhưng chưa đắng bằng sự thật về lương tháng."
+ },
+ "bac-xiu": {
+  "history": "Bạc xỉu có thể bắt nguồn từ tiếng Quảng Đông của người Hoa Chợ Lớn, nghĩa là nhiều sữa ít cà phê; được cho là bắt đầu từ Sài Gòn.",
+  "joke": "Bạc xỉu là cà phê cho người sợ cà phê."
+ },
+ "ca-phe-muoi": {
+  "history": "Cà phê muối bắt nguồn từ Huế, do một quán cà phê thử thêm lớp kem muối; sau lan rộng vào Sài Gòn khoảng thập niên 2010.",
+  "joke": "Mặn mặn béo béo, giống cuộc sống sau khi vào công ty."
+ },
+ "ca-phe-cot-dua": {
+  "history": "Cà phê cốt dừa là biến tấu hiện đại, kết hợp cà phê với nước cốt dừa và đá xay; phổ biến ở các quán cà phê Sài Gòn thập niên gần đây.",
+  "joke": "Cốt dừa béo thì tôi mập, nhưng tâm hồn tôi vui."
+ },
+ "sua-dau-nanh": {
+  "history": "Sữa đậu nành được người Hoa mang vào Việt Nam, bán dạo buổi sáng ở Sài Gòn; hâm nóng ăn kèm bánh quẩy hoặc bánh tiêu.",
+  "joke": "Uống sữa đậu nành vào buổi sáng để cố tỏ ra là người sống lành mạnh."
+ },
+ "nuoc-mia": {
+  "history": "Nước mía là thức uống truyền thống của vùng nhiệt đới, bán rong khắp Việt Nam từ lâu đời; không rõ ai bán đầu tiên.",
+  "joke": "Ly nước mía 10 nghìn giải cứu cả buổi chiều mùa hè."
+ },
+ "nuoc-mia-quat": {
+  "history": "Nước mía thêm quất (tắc) là cách pha phổ biến ở Sài Gòn để giảm ngọt và thêm hương; không có người khởi xướng rõ.",
+  "joke": "Mía quất giải khát, đúng chất người đi làm ngày nắng."
+ },
+ "nuoc-rau-ma": {
+  "history": "Rau má là rau dại quen thuộc, theo y học dân gian giúp thanh nhiệt; nước rau má là thức uống giải khát bình dân ở miền Nam.",
+  "joke": "Uống rau má thanh nhiệt, nhưng cơn nóng giận lúc họp thì chưa hết."
+ },
+ "rau-ma-dau-xanh": {
+  "history": "Rau má đậu xanh là biến tấu kết hợp rau má xay với đậu xanh, thành món uống béo bùi ở quán nước Sài Gòn; không rõ năm xuất hiện.",
+  "joke": "Xanh mát béo bùi, uống xong lại cảm thấy mình lành mạnh vài giây."
+ },
+ "tra-sua-tran-chau": {
+  "history": "Trà sữa trân châu ra đời ở Đài Loan thập niên 1980, du nhập vào Việt Nam khoảng cuối những năm 2000 và bùng nổ trong giới trẻ.",
+  "joke": "Trà sữa là lý do ví tôi mỏng, còn trân châu là lý do bụng tôi dày."
+ },
+ "tra-dao-cam-sa": {
+  "history": "Trà đào cam sả là thức uống do các quán trà Việt Nam sáng tạo, trở nên phổ biến vào khoảng những năm 2010; không rõ quán nào đầu tiên.",
+  "joke": "Trà đào cam sả: vừa mát vừa tiếp thêm niềm tin vào cuộc sống."
+ },
+ "tra-tac": {
+  "history": "Trà tắc (quất) là thức uống giải khát phổ biến ở Sài Gòn, bán vỉa hè từ lâu; công thức đơn giản, không rõ người nghĩ ra.",
+  "joke": "Chua chua ngọt ngọt như drama tình cảm, mà uống thì rẻ."
+ },
+ "sinh-to-bo": {
+  "history": "Bơ du nhập vào Việt Nam cùng người Pháp; sinh tố bơ với sữa đặc trở thành thức uống quen thuộc ở Sài Gòn, không rõ ai phát minh.",
+  "joke": "Sinh tố bơ béo mịn, uống xong thấy mình có thể sống thêm một ngày."
+ },
+ "sinh-to-sau-rieng": {
+  "history": "Sầu riêng là đặc sản miền Tây và miền Đông; sinh tố sầu riêng là cách ăn kèm sữa, đá, phổ biến ở Sài Gòn. Không rõ người nghĩ ra.",
+  "joke": "Mùi sầu riêng làm người ghét né, người yêu lao vào."
+ },
+ "nuoc-dua-tuoi": {
+  "history": "Bến Tre được gọi là xứ dừa; dừa xiêm cho nước ngọt thanh. Uống nước dừa trực tiếp là thói quen dân gian lâu đời của người miền Tây.",
+  "joke": "Uống nước dừa Bến Tre xong thấy mình thanh tịnh được 5 phút."
+ },
+ "dua-sap-cau-ke": {
+  "history": "Dừa sáp Cầu Kè là giống dừa đặc biệt của Trà Vinh, cơm dừa dày dẻo như sáp, nổi tiếng thành đặc sản địa phương.",
+  "joke": "Dừa sáp ăn như kem, mà đồ kem thật thì tôi cũng ăn."
+ },
+ "sua-chua-nep-cam": {
+  "history": "Nếp cẩm là nếp tím phổ biến ở Việt Nam; sữa chua nếp cẩm là món tráng miệng hiện đại, phổ biến vài chục năm gần đây ở Sài Gòn.",
+  "joke": "Nếp cẩm dẻo, sữa chua chua, tôi vừa dẻo vừa chua."
+ },
+ "sam-bo-luong": {
+  "history": "Sâm bổ lượng có gốc từ ẩm thực người Hoa, dùng thảo mộc giải nhiệt nấu với long nhãn, hạt sen; phổ biến ở Chợ Lớn và Sài Gòn.",
+  "joke": "Uống sâm bổ lượng để bù lại những đêm thức khuya cày deadline."
+ },
+ "che-ba-mau": {
+  "history": "Chè ba màu là món chè Nam Bộ với đậu đỏ, đậu xanh, thạch và nước cốt dừa; có thể ảnh hưởng chè ba màu của người Hoa, không rõ người sáng tạo.",
+  "joke": "Ba màu ba tầng, tôi ba lần hứa giảm đường rồi ba lần thất hứa."
+ },
+ "che-thai": {
+  "history": "Chè Thái là món chè hiện đại ở Sài Gòn, lấy cảm hứng ẩm thực Thái với trái cây, thạch, nước cốt dừa; phổ biến từ thập niên 2000.",
+  "joke": "Chè Thái nhiều topping hơn mối quan hệ của tôi: nhiều mà không sâu."
+ },
+ "che-khuc-bach": {
+  "history": "Chè khúc bạch có nguồn gốc từ Hồng Kông và Trung Quốc, du nhập vào Sài Gòn khoảng thập niên 2010; làm từ gelatin, kem tươi.",
+  "joke": "Khúc bạch trắng mềm mịn, mặt tôi thì không được vậy."
+ },
+ "che-thap-cam": {
+  "history": "Chè thập cẩm là món chè nhiều nguyên liệu quen thuộc ở Nam Bộ; không rõ ai nghĩ ra hay vùng nào đầu tiên.",
+  "joke": "Thập cẩm nghĩa là cái gì cũng có, trừ tiền lương."
+ },
+ "che-chuoi": {
+  "history": "Chè chuối nước cốt dừa là món chè dân dã miền Nam và miền Tây, có từ lâu đời, nấu từ chuối chín, nếp, đậu phộng.",
+  "joke": "Chuối chín ngọt như tin đồn, ăn thử mới biết đúng không."
+ },
+ "che-bap": {
+  "history": "Chè bắp là món chè miền Tây dùng bắp nếp non và nước cốt dừa, đơn giản mà thơm; có từ lâu đời, không rõ người nấu đầu tiên.",
+  "joke": "Bắp non ngọt dẻo, như những ngày không phải họp."
+ },
+ "che-dau-xanh": {
+  "history": "Chè đậu xanh là món chè truyền thống Việt Nam, nấu từ đậu xanh đã đãi vỏ, ăn nóng hoặc lạnh; có từ lâu đời.",
+  "joke": "Chè đậu xanh bùi bùi, ăn xong tâm hồn cũng bùi theo."
+ },
+ "che-dau-do": {
+  "history": "Chè đậu đỏ là món ngọt truyền thống của người Việt, nấu mềm cùng nước cốt dừa; không có tài liệu về nguồn gốc cụ thể.",
+  "joke": "Đậu đỏ bở như mối quan hệ tôi sau khi trễ hẹn."
+ },
+ "che-troi-nuoc": {
+  "history": "Chè trôi nước là món chè truyền thống Việt, viên nếp nhân đậu xanh, thường làm Tết Hàn Thực (mùng 3 tháng 3 âm lịch).",
+  "joke": "Viên chè trôi nước tròn như tôi sau Tết."
+ },
+ "che-khoai-deo": {
+  "history": "Chè khoai dẻo dùng khoai lang hoặc khoai môn nhào bột; là biến tấu hiện đại, thịnh hành cùng các quán chè Sài Gòn, không rõ người đầu tiên.",
+  "joke": "Dẻo dẻo vui răng, y như tôi vui chuyện vặt."
+ },
+ "che-hat-sen-long-nhan": {
+  "history": "Chè hạt sen long nhãn là món chè thanh mát có ảnh hưởng ẩm thực cung đình và người Hoa, ăn lạnh vào mùa hè.",
+  "joke": "Hạt sen long nhãn nghe thanh cao, ăn xong thấy mình giống đại gia."
+ },
+ "che-suong-sa-hot-luu": {
+  "history": "Chè sương sa hột lựu là món chè Sài Gòn với bột năng và củ năng nhuộm màu, chịu ảnh hưởng chè người Hoa; không rõ người nấu đầu tiên.",
+  "joke": "Hột lựu sần sật vui miệng, nhai là hết stress."
+ },
+ "che-du-du": {
+  "history": "Chè đu đủ là món chè dân dã miền Tây, tận dụng đu đủ chín nấu nước đường; không rõ ai nấu đầu tiên.",
+  "joke": "Đu đủ chín mềm như tôi vào chiều thứ Sáu."
+ },
+ "chuoi-nuong-nuoc-cot-dua": {
+  "history": "Chuối nướng nước cốt dừa là món ăn vặt dân dã Nam Bộ, nướng chuối trên than rồi rưới nước cốt dừa; không rõ ai làm lần đầu.",
+  "joke": "Chuối nướng thơm than, đủ làm tôi quên cả cân nặng."
+ },
+ "che-dau-den": {
+  "history": "Chè đậu đen là món truyền thống, thường nấu giải nhiệt mùa hè; đậu đen nấu mềm với đường phèn, có từ lâu đời.",
+  "joke": "Chè đậu đen, tôi đen mặt vì thiếu ngủ, chè đen vì đậu."
+ },
+ "kem-bo-dua": {
+  "history": "Kem bơ dừa là món giải nhiệt ở Sài Gòn, kem bơ béo mịn đựng trong trái dừa; phổ biến những năm gần đây, không rõ người sáng tạo.",
+  "joke": "Ăn kem bơ trong trái dừa, cảm giác sang chảnh 20 nghìn."
+ },
+ "kem-xoi": {
+  "history": "Kem xôi là món kem kết hợp xôi nếp, phổ biến ở Sài Gòn, nhất là quán kem Thanh Long; không rõ tác giả.",
+  "joke": "Kem xôi: ngọt dẻo lạnh cùng một lúc, lạ mà quen."
+ },
+ "tau-hu-nuoc-duong": {
+  "history": "Tàu hũ nước đường có ảnh hưởng ẩm thực Hoa, bán rong ở Sài Gòn và Chợ Lớn từ lâu; ăn nóng với gừng hoặc lạnh với đá.",
+  "joke": "Tàu hũ mềm mịn, tâm hồn tôi mềm nhũn theo."
+ },
+ "tau-hu-ky": {
+  "history": "Tàu hũ ky là váng đậu nành từ ẩm thực người Hoa; ở Sài Gòn thường chế biến chay hoặc ăn với nước đường.",
+  "joke": "Váng đậu béo ngậy, ăn xong đòi thêm một chén nữa."
+ },
+ "sua-bap": {
+  "history": "Sữa bắp là thức uống từ bắp nếp xay, thịnh hành ở Sài Gòn khoảng thập niên 2010 như món giải khát; không rõ ai làm đầu tiên.",
+  "joke": "Sữa bắp béo ngọt mát, đúng kiểu thức uống không tội lỗi."
+ },
+ "nuoc-sam": {
+  "history": "Nước sâm là thức uống giải nhiệt miền Nam nấu từ thảo mộc như la hán quả, râu bắp; có từ lâu, ảnh hưởng thảo dược người Hoa.",
+  "joke": "Uống nước sâm xong nhìn đời bớt nóng, trừ sếp."
+ },
+ "sua-hat-sen": {
+  "history": "Sữa hạt sen là thức uống hiện đại, làm từ hạt sen xay nhuyễn với sữa; phổ biến những năm gần đây, không rõ nguồn gốc.",
+  "joke": "Hạt sen bùi mềm, sống trong bùn mà tâm trong, như tôi."
+ },
+ "soda-chanh-muoi": {
+  "history": "Soda chanh muối là thức uống giải khát phổ biến ở Sài Gòn, có thể ảnh hưởng từ nước chanh muối của người Hoa; không rõ năm xuất hiện.",
+  "joke": "Soda chanh muối sủi bọt giống ý tưởng nảy ra lúc 2 giờ sáng."
+ },
+ "sua-chua-danh-da": {
+  "history": "Sữa chua đánh đá là món giải nhiệt ở Sài Gòn, lấy sữa chua trộn đá bào; do người bán tự sáng tạo, không rõ ai đầu tiên.",
+  "joke": "Sữa chua đánh đá là bản cứu nguy của buổi chiều oi bức."
+ },
+ "lau-mam": {
+  "history": "Lẩu mắm là đặc sản miền Tây, nấu từ mắm cá linh hoặc cá sặc, ăn kèm rau đồng; có từ lâu đời, không rõ người nghĩ ra.",
+  "joke": "Lẩu mắm bốc mùi nhưng người miền Tây bảo thơm."
+ },
+ "lau-ca-keo": {
+  "history": "Cá kèo là loài cá ven biển và cửa sông, nổi ở Bạc Liêu; lẩu cá kèo nấu lá giang chua thanh, món dân dã miền Tây.",
+  "joke": "Cá kèo nhỏ mà ngon, tôi nhỏ mà ham ăn."
+ },
+ "lau-thai": {
+  "history": "Lẩu Thái du nhập vào Việt Nam khoảng thập niên 2000, chịu ảnh hưởng món tom yum của Thái Lan; thành món quen thuộc của quán Sài Gòn.",
+  "joke": "Lẩu Thái chua cay, tôi chua với sếp, cay với đời."
+ },
+ "lau-de": {
+  "history": "Lẩu dê là món ăn truyền thống ở nhiều vùng Việt Nam, thường nấu thuốc bắc; ở Sài Gòn có nhiều quán dê nổi tiếng, không rõ gốc.",
+  "joke": "Lẩu dê nóng hổi, trời mưa ăn là hợp thể loại."
+ },
+ "lau-ga-la-e": {
+  "history": "Lá é là rau thơm của Đà Lạt; lẩu gà lá é là món đặc sản vùng cao nguyên, sau lan rộng vào Sài Gòn. Không rõ người sáng chế.",
+  "joke": "Lá é thơm nức, lẩu gà nóng, cuộc đời đáng sống hơn."
+ },
+ "lau-cua-dong": {
+  "history": "Cua đồng là hải sản nước ngọt của ruộng lúa Việt Nam; lẩu cua đồng nấu từ riêu cua giã, món dân dã quen thuộc của Nam Bộ.",
+  "joke": "Giã cua xong thấy mệt nên ăn thêm một bát nữa."
+ },
+ "lau-ca-linh-bong-dien-dien": {
+  "history": "Cá linh là loài cá mùa nước nổi ở miền Tây, bông điên điển nở cùng mùa; kết hợp thành món lẩu theo mùa, không rõ người sáng tạo.",
+  "joke": "Mùa nước nổi, lẩu nổi, tôi cũng nổi cơn thèm."
+ },
+ "lau-ca-duoi": {
+  "history": "Cá đuối là cá biển, ăn nhiều ở Vũng Tàu và các vùng biển; lẩu cá đuối nấu chua cay, món hải sản phổ biến ở miền Nam.",
+  "joke": "Cá đuối bơi đẹp, vào nồi cũng đẹp."
+ },
+ "lau-bo-nhung-dam": {
+  "history": "Bò nhúng giấm là món phổ biến ở Sài Gòn, chịu ảnh hưởng cách ăn nhúng của người Hoa và cách dùng giấm của Việt Nam; không rõ gốc.",
+  "joke": "Nhúng bò giấm rồi cuốn rau, hành vi chuẩn mực của người sành ăn."
+ },
+ "lau-nam": {
+  "history": "Lẩu nấm là món lẩu thanh nhẹ, thịnh hành ở Sài Gòn cùng phong trào ăn chay và ăn lành mạnh; không có mốc rõ ràng.",
+  "joke": "Mưa Sài Gòn không đáng sợ, đáng sợ là hết chỗ trong nồi lẩu nấm."
+ },
+ "lau-ech": {
+  "history": "Ếch là món dân dã miền Tây; lẩu ếch nấu với măng chua hoặc lá giang, tận dụng ếch đồng. Không rõ người nghĩ ra đầu tiên.",
+  "joke": "Ếch ngồi đáy giếng thì bị ăn, tôi ngồi đáy lẩu thì ăn."
+ },
+ "lau-ca-loc-rau-dong": {
+  "history": "Cá lóc đồng nấu lẩu với rau đồng như rau muống, bông súng là món quen thuộc miền Tây sông nước, có từ lâu, không rõ tác giả.",
+  "joke": "Cá lóc rau đồng nấu một nồi, thế là đủ cả tuần."
+ },
+ "lau-hai-san": {
+  "history": "Lẩu hải sản là món quán ăn hiện đại ở vùng biển như Vũng Tàu, kết hợp tôm, cua, mực, nghêu; không rõ ai sáng tạo.",
+  "joke": "Cả đại dương trong một nồi, mà ví tôi chỉ có một ao."
+ },
+ "pha-lau": {
+  "history": "Phá lấu có gốc từ món lu lo của người Hoa Triều Châu, vào Chợ Lớn và được người Sài Gòn Việt hóa với nước dừa; nay thành món ăn vặt đêm.",
+  "joke": "Phá lấu lòng chấm mắm me, người yếu bụng tránh xa."
+ },
+ "pha-lau-bo": {
+  "history": "Phá lấu bò là biến tấu của phá lấu heo, dùng lòng bò hầm; phổ biến ở các xe bán rong và quán Chợ Lớn, không rõ ai bắt đầu.",
+  "joke": "Lòng bò dai sần sật, như tình bạn lâu năm."
+ },
+ "ha-cao": {
+  "history": "Há cảo là món dimsum Quảng Đông, được người Hoa mang vào Chợ Lớn; vỏ bột năng trong suốt, nhân tôm giòn.",
+  "joke": "Há cảo vỏ mỏng như tính nhẫn nại của tôi."
+ },
+ "sui-cao": {
+  "history": "Sủi cảo có gốc Trung Hoa, người Hoa đưa vào Chợ Lớn, thường ăn nước dùng nóng; không rõ năm vào Sài Gòn.",
+  "joke": "Sủi cảo nóng hổi, thổi mãi vẫn bỏng lưỡi."
+ },
+ "xiu-mai": {
+  "history": "Xíu mại chịu ảnh hưởng dimsum của người Hoa; ở Việt Nam, xíu mại viên nấu sốt cà là cách chế biến bình dân.",
+  "joke": "Xíu mại viên tròn, tôi cũng tròn dần theo."
+ },
+ "dim-sum-cho-lon": {
+  "history": "Dimsum là truyền thống ẩm thực Quảng Đông, theo người Hoa vào Chợ Lớn; ăn sáng với trà ở nhà hàng dimsum lâu đời.",
+  "joke": "Dimsum nhỏ xinh mà bill thì to, đúng là bẫy ngọt ngào."
+ },
+ "dau-hu-chien-sa": {
+  "history": "Đậu hũ là thực phẩm gốc Trung Hoa, quen thuộc trong bữa ăn người Việt; chiên sả là món chay lẫn mặn dân dã, không rõ nguồn gốc.",
+  "joke": "Đậu hũ chiên sả, món rẻ tiền nhưng ăn không biết chán."
+ },
+ "khoai-lang-chien": {
+  "history": "Khoai lang chiên là món ăn vặt dân dã của người Việt, gắn với xe bán rong Sài Gòn; không rõ nguồn gốc.",
+  "joke": "Khoai lang chiên giòn, mình cũng giòn tan khi bị sếp gọi."
+ },
+ "bap-xao-tep": {
+  "history": "Bắp xào tép (bắp xào bơ) là món ăn vặt đường phố Sài Gòn, kết hợp bắp ngọt với tép khô và hành phi; xuất hiện khoảng thập niên 2000.",
+  "joke": "Bắp xào tép thơm lừng, đứng bên xe bán là không thể bước tiếp."
+ },
+ "bap-nuong": {
+  "history": "Bắp nướng than phết mỡ hành là món ăn vặt dân dã khắp Việt Nam, đặc biệt buổi tối Sài Gòn; không rõ ai làm đầu tiên.",
+  "joke": "Bắp nướng thơm khói, tôi nhai mà tưởng đang đi cắm trại."
+ },
+ "nem-nuong": {
+  "history": "Nem nướng Nha Trang (Khánh Hòa) là đặc sản, ăn cuốn bánh tráng với rau sống và nước chấm đặc trưng; có từ nhiều thập niên trước.",
+  "joke": "Cuốn nem nướng cần kỹ năng, như cuốn gói về quê vậy."
+ },
+ "heo-quay-gion-bi": {
+  "history": "Heo quay là món gốc Quảng Đông, theo người Hoa vào Chợ Lớn; da heo quay giòn là đặc điểm nổi bật của món này.",
+  "joke": "Da giòn đến mức nghe tiếng rắc là biết mình đã yêu."
+ },
+ "vit-nau-chao": {
+  "history": "Vịt nấu chao là món dân dã miền Tây, dùng chao (đậu hũ lên men) làm gia vị; không rõ ai nghĩ ra đầu tiên.",
+  "joke": "Vịt nấu chao thơm lựng, mùi bay tới nhà hàng xóm."
+ },
+ "vit-quay-lu": {
+  "history": "Vịt quay lu là món quay trong lu đất, phổ biến ở miền Tây; da giòn, thịt thấm gia vị, cách làm truyền lại trong dân gian.",
+  "joke": "Vịt quay lu, mình chui lu cho đỡ họp."
+ },
+ "ga-nuong-muoi-ot": {
+  "history": "Gà nướng muối ớt là món quán nhậu miền Tây, ướp muối ớt rồi nướng than; công thức truyền khẩu, không rõ người sáng tạo.",
+  "joke": "Gà nướng muối ớt, cay đến chảy nước mắt, tưởng đang xem phim tình cảm."
+ },
+ "chuot-dong-nuong": {
+  "history": "Chuột đồng nướng là món ăn của người dân miền Tây trong mùa gặt, tận dụng chuột sống ở ruộng lúa; nhiều quán đặc sản vẫn bán.",
+  "joke": "Món lạ miền Tây, ăn thử cho biết, hỏi tôi vị thế nào thì tôi bảo ngon."
+ },
+ "ech-chien-bo": {
+  "history": "Ếch đồng là nguyên liệu quen thuộc ở miền Tây; chiên bơ là cách chế biến quán nhậu hiện đại, không rõ ai sáng tạo.",
+  "joke": "Ếch chiên bơ thơm lừng, ăn xong thấy ếch nhảy trong bụng."
+ },
+ "ca-loc-nuong-trui": {
+  "history": "Cá lóc nướng trui là món dân dã của nông dân miền Tây, nướng nguyên con cắm que trong rơm hay trấu; có từ lâu đời.",
+  "joke": "Cá nướng trui cuốn bánh tráng, ăn xong thấy mình đáng được nghỉ phép."
+ },
+ "ca-keo-kho-tieu": {
+  "history": "Cá kèo sống ở cửa sông ven biển Nam Bộ, phổ biến ở Bạc Liêu; kho tiêu là cách chế biến đưa cơm dân dã.",
+  "joke": "Cá kèo kho tiêu cay cay, ăn mãi không đủ no cái bụng đói."
+ },
+ "ca-bong-kho-tieu": {
+  "history": "Cá bống nhỏ kho tiêu là món cơm nhà miền Tây, kho khô đậm đà; có từ lâu, không rõ người nghĩ ra.",
+  "joke": "Cá bống nhỏ xíu, nhưng cơm tôi ăn nhiều gấp đôi."
+ },
+ "ca-dieu-hong-chien-xu": {
+  "history": "Cá điêu hồng (rô phi đỏ) được nuôi nhiều ở miền Tây; chiên xù cuốn bánh tráng là món quán ăn hiện đại, không rõ người khởi xướng.",
+  "joke": "Cá chiên xù giòn rụm, cuốn rau chấm mắm: bữa ăn không biết ngại."
+ },
+ "ca-tai-tuong-chien-xu": {
+  "history": "Cá tai tượng được nuôi nhiều ở miền Tây, chiên xòe cả con trông như tai voi; món đặc sản quán ăn miền Tây, không rõ người đầu tiên.",
+  "joke": "Cá xòe như tai voi, tôi xòe tay xin thêm nước mắm."
+ },
+ "thit-kho-tau": {
+  "history": "Thịt kho tàu là món thịt kho với trứng, nước dừa, thường nấu dịp Tết của người Nam Bộ; tên có thể từ cách kho của người Hoa.",
+  "joke": "Thịt kho tàu ngày Tết ăn thoải mái, hết Tết lên cân thoải mái."
+ },
+ "canh-kho-qua-nhoi-thit": {
+  "history": "Canh khổ qua nhồi thịt là món canh truyền thống miền Nam, thường nấu dịp Tết với ý nghĩa mong khổ qua đi; không rõ năm bắt đầu.",
+  "joke": "Khổ qua đắng nhưng ngọt hậu, giống đời đi làm vậy."
+ },
+ "canh-bi-do-tom": {
+  "history": "Canh bí đỏ nấu tôm là món canh ngọt thanh bình dân của miền Nam, nấu nhanh; không rõ nguồn gốc.",
+  "joke": "Canh bí đỏ nấu nhanh như mì gói, nhưng tự hào hơn nhiều."
+ },
+ "canh-chua-ca-bong-lau": {
+  "history": "Cá bông lau là cá sông ở miền Tây; canh chua cá bông lau là món đặc sản nấu với bạc hà, thơm, đậu bắp. Không rõ ai nấu đầu tiên.",
+  "joke": "Canh chua chua thanh, giúp tôi tỉnh táo hơn cả cà phê."
+ },
+ "canh-chua-tom": {
+  "history": "Canh chua tôm là biến tấu của canh chua Nam Bộ, dùng tôm thay cá; món cơm nhà quen thuộc, không rõ người sáng tạo.",
+  "joke": "Canh chua tôm, húp xong thấy chua cuộc đời chỉ còn 30 phần trăm."
+ },
+ "rau-muong-xao-toi": {
+  "history": "Rau muống là rau quen thuộc của người Việt; xào tỏi là món cơm nhà phổ biến khắp cả nước, không rõ nơi bắt đầu.",
+  "joke": "Rau muống xào tỏi: món kiểm chứng xem tôi còn ăn rau không."
+ },
+ "bo-luc-lac": {
+  "history": "Bò lúc lắc là món bò xào cắt vuông, tên gọi từ động tác lắc chảo; chịu ảnh hưởng ẩm thực Pháp và Hoa, phổ biến ở nhà hàng Sài Gòn.",
+  "joke": "Bò lúc lắc: lắc bao nhiêu cũng không bằng lắc đầu khi sếp giao thêm việc."
+ },
+ "bo-ne": {
+  "history": "Bò né là món bò bít tết chảo gang kiểu Việt ở Sài Gòn, ảnh hưởng món Pháp; bán buổi sáng cùng bánh mì, pate, trứng.",
+  "joke": "Bò né tiếng xèo xèo, nghe là biết bữa sáng sẽ vui."
+ },
+ "bo-nuong-la-lot": {
+  "history": "Bò nướng lá lốt là món nướng quen thuộc của người Việt, lá lốt dùng để cuốn và tạo hương thơm; phổ biến ở Nam và Bắc, không rõ nguồn gốc.",
+  "joke": "Cuốn bò trong lá lốt, như cuốn ý tưởng trong ngăn kéo."
+ },
+ "bo-kho-banh-mi": {
+  "history": "Bò kho ăn với bánh mì là món phổ biến ở Sài Gòn, chịu ảnh hưởng món bò hầm của Pháp và gia vị Việt, Hoa; nhiều quán nổi tiếng bán sáng.",
+  "joke": "Chấm bánh mì vào bò kho, mọi đau buồn đều tan biến."
+ },
+ "trung-vit-lon": {
+  "history": "Trứng vịt lộn (hột vịt lộn) là món ăn quen thuộc ở Việt Nam và Đông Nam Á, có từ lâu; ăn kèm rau răm, muối tiêu chanh.",
+  "joke": "Hột vịt lộn: món thử thách lòng can đảm của người ăn."
+ },
+ "bo-vien-chien": {
+  "history": "Bò viên chiên là món ăn vặt đường phố Sài Gòn, bò viên chịu ảnh hưởng ẩm thực người Hoa; chiên giòn chấm tương ớt.",
+  "joke": "Bò viên chiên, tròn tròn nhai vui miệng, cân nặng cũng tròn."
+ },
+ "xien-que-nuong": {
+  "history": "Xiên que nướng là món ăn vặt đường phố phổ biến ở Sài Gòn từ thập niên 2000; gồm cá viên, xúc xích, thịt nướng, không rõ ai đầu tiên.",
+  "joke": "Xiên que 5 nghìn một cây, xiên mãi thành cả bữa tối."
+ },
+ "ca-vien-chien": {
+  "history": "Cá viên chiên là món ăn vặt đường phố Sài Gòn, cá viên có gốc ẩm thực người Hoa; bán trước cổng trường, ăn kèm tương ớt.",
+  "joke": "Cá viên chiên là nhiên liệu cho tuổi thơ, nhớ lắm."
+ },
+ "trung-cut-nuong": {
+  "history": "Trứng cút nướng mỡ hành là món ăn vặt đường phố Sài Gòn; trứng cút nhỏ, nướng khuôn nên chín nhanh, không rõ ai bắt đầu.",
+  "joke": "Trứng cút nhỏ xíu, ăn cả chục viên vẫn chưa gọi là ăn."
+ },
+ "hot-vit-lon-xao-me": {
+  "history": "Hột vịt lộn xào me là món nhậu bình dân ở Sài Gòn; vị chua ngọt từ nước me, không rõ người sáng tạo.",
+  "joke": "Hột vịt lộn xào me, ai ăn là ghiền, ai không ăn là thiếu."
+ },
+ "nem-chua-ran": {
+  "history": "Nem chua có gốc từ miền Trung và Bắc (Thanh Hóa, Huế), chiên giòn là cách ăn vặt phổ biến ở Sài Gòn; không rõ ai chiên đầu tiên.",
+  "joke": "Nem chua rán giòn ngoài mềm trong, tính cách tôi chắc cũng vậy."
+ },
+ "goi-kho-bo": {
+  "history": "Gỏi khô bò là món ăn vặt Sài Gòn với đu đủ bào sợi, khô bò và rau răm; phổ biến trước cổng trường và ở chợ, khoảng thập niên 1990-2000.",
+  "joke": "Gỏi khô bò dai thơm, nhai mỏi cằm mà vẫn không dừng."
+ },
+ "goi-ngo-sen": {
+  "history": "Ngó sen là đặc sản Đồng Tháp (xứ sen); gỏi ngó sen tôm thịt là món chua ngọt giòn, thường ở các tiệc, không rõ tác giả.",
+  "joke": "Gỏi ngó sen thanh nhã, tôi ăn mà nghĩ mình cũng thanh nhã."
+ },
+ "goi-bo-bop-thau": {
+  "history": "Gỏi bò bóp thấu là món bò tái chanh với hành tây, rau thơm, phổ biến ở quán nhậu miền Nam; không rõ gốc.",
+  "joke": "Bóp thấu bóp chanh, bóp luôn cả stress công sở."
+ },
+ "goi-du-du": {
+  "history": "Gỏi đu đủ chịu ảnh hưởng món gỏi đu đủ Thái Lan, thích ứng thành gỏi đu đủ tôm khô kiểu Việt; phổ biến ở Sài Gòn.",
+  "joke": "Đu đủ chua ngọt, tôi cũng chua ngọt khi nhớ tình cũ."
+ },
+ "goi-ga-bap-cai": {
+  "history": "Gỏi gà bắp cải là món gỏi quen thuộc ở tiệc cưới và bữa cơm Việt, thịt gà xé trộn nước mắm chua ngọt; không rõ nguồn gốc.",
+  "joke": "Gỏi gà bắp cải: món cho người tự hào ăn rau."
+ },
+ "goi-bap-chuoi": {
+  "history": "Bắp chuối là nguyên liệu dân dã miền Tây, trộn gỏi với đậu phộng rang, chua ngọt giòn; có từ lâu, không rõ tác giả.",
+  "joke": "Gỏi bắp chuối, ăn xong tự tin nói mình sống lành mạnh."
+ },
+ "goi-xoai-kho-ca-sac": {
+  "history": "Khô cá sặc là đặc sản miền Tây (An Giang, Cà Mau); trộn gỏi xoài với khô cá sặc là món dân dã, không rõ ai bắt đầu.",
+  "joke": "Khô cá sặc nướng thơm, gỏi xoài chua, cơm ba chén cũng chưa đủ."
+ },
+ "xoi-man": {
+  "history": "Xôi mặn là món ăn sáng quen thuộc khắp Việt Nam, gồm xôi với ruốc, chà bông, trứng, hành phi; có từ lâu đời.",
+  "joke": "Xôi mặn bữa sáng nặng bụng, nặng đến lúc 11 giờ."
+ },
+ "xoi-xeo": {
+  "history": "Xôi xéo có gốc miền Bắc (Hà Nội), vào Sài Gòn theo người di cư; xôi nếp với đậu xanh nghiền và hành phi.",
+  "joke": "Xôi xéo vàng ươm, nhìn mà tưởng đang xem lịch phát lương."
+ },
+ "xoi-ga": {
+  "history": "Xôi gà là món ăn sáng quen thuộc, xôi ăn với gà xé và hành phi; ở Sài Gòn phổ biến với nước sốt đậm, không rõ nguồn gốc cụ thể.",
+  "joke": "Xôi gà ăn nhanh mà no lâu, đúng bữa của người bận rộn."
+ },
+ "xoi-lac": {
+  "history": "Xôi lạc (xôi đậu phộng) là món xôi dân dã, ăn sáng hoặc ăn nhẹ; có từ lâu đời ở nhiều vùng Việt Nam.",
+  "joke": "Xôi lạc dẻo bùi, ai ăn rồi cũng hiền hơn."
+ },
+ "chao-long": {
+  "history": "Cháo lòng là món cháo bình dân Việt Nam, nấu cháo trắng với lòng heo; ở Sài Gòn bán đêm và sáng sớm, ăn kèm quẩy.",
+  "joke": "Cháo lòng đêm khuya, cứu bụng cứu cả tâm hồn."
+ },
+ "chao-ga": {
+  "history": "Cháo gà là món cháo truyền thống Việt Nam, ăn khi ốm hoặc buổi sáng; có từ lâu, không rõ nguồn gốc cụ thể.",
+  "joke": "Ốm mới được mẹ nấu cháo gà, ốm cho đáng."
+ },
+ "chao-ech": {
+  "history": "Cháo ếch là món miền Tây và Sài Gòn, nấu với ếch đồng; Singapore cũng có món tương tự. Không rõ nguồn gốc ở Việt Nam.",
+  "joke": "Cháo ếch nóng, trời mưa ăn là hợp."
+ },
+ "chao-so-huyet": {
+  "history": "Cháo sò huyết là món ăn đêm ở Sài Gòn và vùng biển, kết hợp sò huyết tươi với cháo trắng nóng; không rõ nguồn gốc.",
+  "joke": "Sò huyết tươi ngọt, cháo mịn, đêm khuya thành hạnh phúc."
+ },
+ "chao-ca-loc": {
+  "history": "Cháo cá lóc là món dân dã miền Tây, nấu với cá lóc đồng, rau om; có từ lâu đời, không rõ ai nấu đầu tiên.",
+  "joke": "Cháo cá lóc ngọt thanh, hết cơn đau đầu của tuần làm việc."
+ },
+ "chao-dau-xanh": {
+  "history": "Cháo đậu xanh là món cháo ngọt mát, ăn giải nhiệt mùa hè ở miền Nam; không rõ nguồn gốc cụ thể.",
+  "joke": "Cháo đậu xanh nấu mát bụng, không mát được lòng sếp."
+ },
+ "chao-vit": {
+  "history": "Cháo vịt là món phổ biến ở miền Tây và Sài Gòn, nấu cháo trắng với thịt vịt xé và gừng; không rõ nơi bắt đầu.",
+  "joke": "Cháo vịt thơm gừng, ăn xong người ấm, ví còn ấm hơn."
+ },
+ "chao-nam-chay": {
+  "history": "Cháo nấm chay là món ăn của người ăn chay, nấu nấm các loại với cháo trắng; phổ biến ở quán chay Sài Gòn.",
+  "joke": "Cháo nấm chay nhẹ tênh, hợp với cái đầu trống rỗng sau deadline."
+ },
+ "ba-khia-muoi": {
+  "history": "Ba khía là loài cua nhỏ ở vùng nước lợ Sóc Trăng, Bạc Liêu; muối ba khía là món dân dã đưa cơm của người miền Tây.",
+  "joke": "Ba khía muối cay mặn, ăn với cơm trắng là hết biết trời."
+ },
+ "mam-chung": {
+  "history": "Mắm chưng là món ăn gắn với miền Tây, đặc biệt là Châu Đốc (An Giang), chưng mắm cá với trứng và thịt; có từ lâu đời, không rõ người nghĩ ra.",
+  "joke": "Mắm chưng thơm, ai thích thì nghiện, ai không thích thì né."
+ },
+ "mam-thai": {
+  "history": "Mắm thái là đặc sản An Giang, Châu Đốc, làm từ mắm cá linh hoặc cá sặc trộn với thơm, đu đủ; ăn kèm rau và thịt luộc. Không rõ năm ra đời.",
+  "joke": "Mắm thái chấm thịt luộc, ăn xong hết sức cả buổi chiều."
+ }
+}

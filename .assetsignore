@@ -1,0 +1,16 @@
+node_modules
+scripts
+worker
+data/parts
+data/rebus-src.json
+package.json
+package-lock.json
+wrangler.jsonc
+.wrangler
+.gitignore
+.assetsignore
+README.md
+LICENSE
+docs
+.git
+.gitattributes

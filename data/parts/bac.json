@@ -1,0 +1,4159 @@
+[
+ {
+  "id": "pho-bo-ha-noi",
+  "name": "Phở bò Hà Nội",
+  "nameEn": "Hanoi beef pho",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "vi:Phở",
+  "img": "hanoi beef pho vietnam",
+  "desc": "Tô phở nóng hổi, nước trong ngọt thanh, ăn là tỉnh ngay!",
+  "emoji": "🍜"
+ },
+ {
+  "id": "pho-ga-ha-noi",
+  "name": "Phở gà Hà Nội",
+  "nameEn": "Hanoi chicken pho",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hanoi chicken pho vietnam",
+  "desc": "Phở gà thơm hành lá, thịt mềm ngọt, nhẹ bụng mà đã ghê.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "pho-cuon",
+  "name": "Phở cuốn",
+  "nameEn": "Pho rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "pho rolls vietnam",
+  "desc": "Lá phở mềm cuốn bò xào, chấm nước mắm chua ngọt, cuốn hút lắm.",
+  "emoji": "🌯"
+ },
+ {
+  "id": "pho-chien-phong",
+  "name": "Phở chiên phồng",
+  "nameEn": "Puffy fried pho",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "puffy fried pho vietnam",
+  "desc": "Bánh phở chiên phồng giòn rụm, rưới bò xào mềm, ngon khó cưỡng.",
+  "emoji": "🥘"
+ },
+ {
+  "id": "pho-xao-bo",
+  "name": "Phở xào bò",
+  "nameEn": "Stir-fried pho with beef",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "kho",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "stir-fried pho with beef vietnam",
+  "desc": "Phở xào thơm khói bếp, bò mềm rau xanh, đậm đà quá chừng.",
+  "emoji": "🍝"
+ },
+ {
+  "id": "pho-chua-lang-son",
+  "name": "Phở chua Lạng Sơn",
+  "nameEn": "Lang Son sour pho",
+  "region": "bac",
+  "cuisine": "Lạng Sơn",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "lang son sour pho vietnam",
+  "desc": "Phở chua ngọt mặn cay, thịt quay xá xíu, ăn một lần nhớ mãi.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "pho-sung-cao-bang",
+  "name": "Phở sủng Cao Bằng",
+  "nameEn": "Cao Bang pho sung",
+  "region": "bac",
+  "cuisine": "Cao Bằng",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "cao bang pho sung vietnam",
+  "desc": "Phở sủng vùng cao, thịt xá xíu thơm, nước dùng dịu ngọt.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "pho-vit-cao-bang",
+  "name": "Phở vịt Cao Bằng",
+  "nameEn": "Cao Bang duck pho",
+  "region": "bac",
+  "cuisine": "Cao Bằng",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "cao bang duck pho vietnam",
+  "desc": "Phở vịt đậm vị miền núi, thịt vịt béo mềm, ấm lòng ghê.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "pho-nam-dinh",
+  "name": "Phở Nam Định",
+  "nameEn": "Nam Dinh pho",
+  "region": "bac",
+  "cuisine": "Nam Định",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "nam dinh pho vietnam",
+  "desc": "Phở quê Nam Định thơm nước, bánh dẻo, bình dân mà ngon quê.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "bun-cha-ha-noi",
+  "name": "Bún chả Hà Nội",
+  "nameEn": "Hanoi bun cha",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua"
+  ],
+  "kind": "kho",
+  "tags": [
+   "nhanh",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "vi:Bún chả",
+  "img": "hanoi bun cha vietnam",
+  "desc": "Chả nướng than hoa thơm nức, chấm nước mắm ngọt, bún mềm mại.",
+  "emoji": "🍢"
+ },
+ {
+  "id": "bun-thang",
+  "name": "Bún thang",
+  "nameEn": "Bun thang chicken noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "bun thang chicken noodle soup vietnam",
+  "desc": "Bún thang tinh tế với gà, trứng, giò, thơm mùi tôm khô.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "bun-oc",
+  "name": "Bún ốc",
+  "nameEn": "Snail noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "snail noodle soup vietnam",
+  "desc": "Bún ốc chua thanh, ốc giòn sật, thêm chút cay là mê tít.",
+  "emoji": "🐌"
+ },
+ {
+  "id": "bun-oc-nguoi",
+  "name": "Bún ốc nguội",
+  "nameEn": "Cold snail noodles",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "kho",
+  "tags": [
+   "mua-nong",
+   "cay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "cold snail noodles vietnam",
+  "desc": "Bún ốc nguội mát mát, chua cay mắm tôm, hợp ngày nóng.",
+  "emoji": "🐌"
+ },
+ {
+  "id": "bun-dau-mam-tom",
+  "name": "Bún đậu mắm tôm",
+  "nameEn": "Fried tofu with noodles and shrimp paste",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay",
+   "dac-san",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "vi:Bún đậu mắm tôm",
+  "img": "fried tofu with noodles and shrimp paste vietnam",
+  "desc": "Mẹt bún đậu chiên giòn chấm mắm tôm, ai thử cũng nghiện.",
+  "emoji": "🧆"
+ },
+ {
+  "id": "bun-rieu-cua",
+  "name": "Bún riêu cua",
+  "nameEn": "Crab paste noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "vi:Bún riêu",
+  "img": "crab paste noodle soup vietnam",
+  "desc": "Riêu cua gạch vàng bồng bềnh, nước dùng chua dịu, đậu rán béo.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "bun-moc",
+  "name": "Bún mọc",
+  "nameEn": "Pork meatball noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "pork meatball noodle soup vietnam",
+  "desc": "Mọc viên dai ngọt, giò sụn giòn, nước dùng xương trong vắt.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "bun-cha-ca",
+  "name": "Bún chả cá",
+  "nameEn": "Fish cake noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fish cake noodle soup vietnam",
+  "desc": "Chả cá chiên thơm, nước dùng chua ngọt cà chua dứa, ăn là ghiền.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "bun-ca-ro-dong",
+  "name": "Bún cá rô đồng",
+  "nameEn": "Field perch noodle soup",
+  "region": "bac",
+  "cuisine": "Hải Dương",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "field perch noodle soup vietnam",
+  "desc": "Cá rô đồng béo ngậy, rau cải cúc thơm, vị quê mộc mạc.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "bun-ngan",
+  "name": "Bún ngan",
+  "nameEn": "Muscovy duck noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "muscovy duck noodle soup vietnam",
+  "desc": "Thịt ngan mềm ngọt, nước dùng măng chua thanh mát dễ ăn.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "bun-mang-vit",
+  "name": "Bún măng vịt",
+  "nameEn": "Duck and bamboo shoot noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "duck and bamboo shoot noodle soup vietnam",
+  "desc": "Vịt luộc mềm, măng giòn ngọt, chấm gừng mắm là hết ý.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "bun-dau-chuoi-tuong",
+  "name": "Bún đậu chuối om tương",
+  "nameEn": "Tofu and green banana noodles",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "tofu and green banana noodles vietnam",
+  "desc": "Đậu chuối xanh om tương thơm riết, ăn với bún mát rượi.",
+  "emoji": "🍌"
+ },
+ {
+  "id": "bun-suon-sun",
+  "name": "Bún sườn sụn",
+  "nameEn": "Pork rib cartilage noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "pork rib cartilage noodle soup vietnam",
+  "desc": "Sườn sụn giòn sần sật trong nước dùng ngọt thanh, đã miệng.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "bun-cua-thanh-hoa",
+  "name": "Bún cua Thanh Hóa",
+  "nameEn": "Thanh Hoa crab noodle soup",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "thanh hoa crab noodle soup vietnam",
+  "desc": "Bún cua miền Thanh, riêu cua đậm vị, thơm mùi đồng quê.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "bun-gio-cha",
+  "name": "Bún giò chả",
+  "nameEn": "Pork roll noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "pork roll noodle soup vietnam",
+  "desc": "Giò chả thơm mịn, nước dùng ngọt ấm, bữa sáng gọn nhẹ.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "bun-cha-nem-cua-be",
+  "name": "Bún nem cua bể",
+  "nameEn": "Crab spring roll vermicelli",
+  "region": "bac",
+  "cuisine": "Hải Phòng",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "crab spring roll vermicelli vietnam",
+  "desc": "Bún nem cua bể giòn thơm, nước chấm chua ngọt, ngon kiểu Cảng.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "banh-cuon-nong",
+  "name": "Bánh cuốn nóng Hà Nội",
+  "nameEn": "Hanoi steamed rice rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "vi:Bánh cuốn",
+  "img": "hanoi steamed rice rolls vietnam",
+  "desc": "Bánh cuốn mỏng tang tráng nóng, nhân thịt mộc nhĩ, chấm chả quế.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-cuon-thanh-tri",
+  "name": "Bánh cuốn Thanh Trì",
+  "nameEn": "Thanh Tri steamed rice rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "thanh tri steamed rice rolls vietnam",
+  "desc": "Bánh cuốn Thanh Trì mỏng mịn, ăn kèm chả quế và nước mắm thơm.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-cuon-cao-bang",
+  "name": "Bánh cuốn Cao Bằng",
+  "nameEn": "Cao Bang steamed rice rolls",
+  "region": "bac",
+  "cuisine": "Cao Bằng",
+  "meals": [
+   "sang"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "cao bang steamed rice rolls vietnam",
+  "desc": "Bánh cuốn Cao Bằng chan nước dùng xương ngọt, vị núi rừng.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-cuon-phu-ly",
+  "name": "Bánh cuốn Phủ Lý",
+  "nameEn": "Phu Ly rice rolls",
+  "region": "bac",
+  "cuisine": "Hà Nam",
+  "meals": [
+   "sang"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "phu ly rice rolls vietnam",
+  "desc": "Bánh cuốn Phủ Lý mỏng dẻo nhân thịt, chấm nước mắm thơm.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-cuon-ngot-lang-son",
+  "name": "Bánh cuốn ngọt Lạng Sơn",
+  "nameEn": "Lang Son sweet rice rolls",
+  "region": "bac",
+  "cuisine": "Lạng Sơn",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "lang son sweet rice rolls vietnam",
+  "desc": "Bánh cuốn Lạng Sơn chan nước đường quế, vị ngọt nhẹ ấm áp.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-gio",
+  "name": "Bánh giò",
+  "nameEn": "Pyramid rice dumpling",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "pyramid rice dumpling vietnam",
+  "desc": "Bánh giò nóng hổi bọc lá chuối, nhân thịt trứng cút bùi bùi.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-duc-nong",
+  "name": "Bánh đúc nóng",
+  "nameEn": "Hot rice flour cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hot rice flour cake vietnam",
+  "desc": "Bánh đúc nóng mềm mịn, rưới thịt băm mộc nhĩ, ấm bụng.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "banh-duc-lac",
+  "name": "Bánh đúc lạc",
+  "nameEn": "Peanut rice flour cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "peanut rice flour cake vietnam",
+  "desc": "Bánh đúc chấm tương, ăn kèm lạc rang bùi béo, thanh đạm.",
+  "emoji": "🥜"
+ },
+ {
+  "id": "banh-tom-ho-tay",
+  "name": "Bánh tôm Hồ Tây",
+  "nameEn": "West Lake shrimp fritters",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "west lake shrimp fritters vietnam",
+  "desc": "Bánh tôm vàng giòn với tôm tươi, khoai lang, chấm nước chua ngọt.",
+  "emoji": "🍤"
+ },
+ {
+  "id": "banh-com",
+  "name": "Bánh cốm",
+  "nameEn": "Green rice cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "green rice cake vietnam",
+  "desc": "Bánh cốm xanh mướt nhân đậu xanh, vị thu Hà Nội thơm ngọt.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-gai-ninh-giang",
+  "name": "Bánh gai Ninh Giang",
+  "nameEn": "Ninh Giang gai cake",
+  "region": "bac",
+  "cuisine": "Hải Dương",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "ninh giang gai cake vietnam",
+  "desc": "Bánh gai đen mượt, nhân đậu xanh thơm mùi lá gai quê nhà.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-chung",
+  "name": "Bánh chưng",
+  "nameEn": "Square sticky rice cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "vi:Bánh chưng",
+  "img": "square sticky rice cake vietnam",
+  "desc": "Bánh chưng gói lá dong, nhân thịt đậu đầy đặn, hương Tết cả nhà.",
+  "emoji": "🟩"
+ },
+ {
+  "id": "banh-day-gio",
+  "name": "Bánh dày giò",
+  "nameEn": "Sticky rice cake with pork roll",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sticky rice cake with pork roll vietnam",
+  "desc": "Bánh dày dẻo kèm giò lụa, bữa sáng gọn mà no lâu.",
+  "emoji": "⚪"
+ },
+ {
+  "id": "banh-chung-ran",
+  "name": "Bánh chưng rán",
+  "nameEn": "Fried banh chung",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fried banh chung vietnam",
+  "desc": "Bánh chưng chiên vàng giòn ngoài mềm trong, ngày lạnh nhớ mãi.",
+  "emoji": "🟨"
+ },
+ {
+  "id": "banh-troi-tau",
+  "name": "Bánh trôi tàu",
+  "nameEn": "Sweet glutinous rice balls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sweet glutinous rice balls vietnam",
+  "desc": "Bánh trôi tàu nhân đậu xanh, nước đường gừng ấm áp, dẻo thơm.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-troi-banh-chay",
+  "name": "Bánh trôi bánh chay",
+  "nameEn": "Banh troi banh chay",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-lanh",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "banh troi banh chay vietnam",
+  "desc": "Bánh trôi bánh chay Hàn Thực, dẻo mềm ngọt bùi, đẹp như tranh.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-nep-nuong",
+  "name": "Bánh nếp nướng",
+  "nameEn": "Grilled sticky rice cake",
+  "region": "bac",
+  "cuisine": "Cao Bằng",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "grilled sticky rice cake vietnam",
+  "desc": "Bánh nếp nướng thơm than, ăn nóng vùng cao thích mê.",
+  "emoji": "🔥"
+ },
+ {
+  "id": "banh-mi-cay-hai-phong",
+  "name": "Bánh mì cay Hải Phòng",
+  "nameEn": "Hai Phong spicy baguette",
+  "region": "bac",
+  "cuisine": "Hải Phòng",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "cay",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hai phong spicy baguette vietnam",
+  "desc": "Ổ bánh mì que cay xé lưỡi, nhân pate thơm, đặc sản Cảng.",
+  "emoji": "🥖"
+ },
+ {
+  "id": "banh-da-cua-hai-phong",
+  "name": "Bánh đa cua Hải Phòng",
+  "nameEn": "Hai Phong crab noodle soup",
+  "region": "bac",
+  "cuisine": "Hải Phòng",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hai phong crab noodle soup vietnam",
+  "desc": "Bánh đa đỏ dai dai, riêu cua thơm nức, nét ẩm thực Cảng.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "banh-mi-pate-ha-noi",
+  "name": "Bánh mì pate Hà Nội",
+  "nameEn": "Hanoi pate baguette",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hanoi pate baguette vietnam",
+  "desc": "Bánh mì giòn rụm với pate, dưa góp, chút tương ớt, gọn ngon.",
+  "emoji": "🥖"
+ },
+ {
+  "id": "banh-khuc",
+  "name": "Bánh khúc",
+  "nameEn": "Cudweed sticky cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "cudweed sticky cake vietnam",
+  "desc": "Bánh khúc nóng, thơm rau khúc, xôi dẻo bùi, đặc sản mùa đông.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-bao-ha-noi",
+  "name": "Bánh bao Hà Nội",
+  "nameEn": "Hanoi steamed bun",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hanoi steamed bun vietnam",
+  "desc": "Bánh bao trắng xốp, nhân thịt trứng cút, ấm bụng buổi sớm.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-te",
+  "name": "Bánh tẻ Phú Nghĩa",
+  "nameEn": "Phu Nghia banh te",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "phu nghia banh te vietnam",
+  "desc": "Bánh tẻ thon dài, nhân thịt mộc nhĩ, thơm lá dong hoài niệm.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-xeo-tay-bac",
+  "name": "Bánh xèo Tây Bắc",
+  "nameEn": "Northwest crispy pancake",
+  "region": "bac",
+  "cuisine": "Sơn La",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "northwest crispy pancake vietnam",
+  "desc": "Bánh xèo Tây Bắc giòn vàng, nhân thịt rau rừng, thơm phức.",
+  "emoji": "🥞"
+ },
+ {
+  "id": "banh-phu-the",
+  "name": "Bánh phu thê",
+  "nameEn": "Husband and wife cake",
+  "region": "bac",
+  "cuisine": "Bắc Ninh",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "husband and wife cake vietnam",
+  "desc": "Bánh phu thê Đình Bảng xanh óng, nhân đậu xanh, ngọt ngào duyên.",
+  "emoji": "💞"
+ },
+ {
+  "id": "banh-to-bac-ninh",
+  "name": "Bánh tổ Bắc Ninh",
+  "nameEn": "Bac Ninh sticky cake",
+  "region": "bac",
+  "cuisine": "Bắc Ninh",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "bac ninh sticky cake vietnam",
+  "desc": "Bánh tổ ngọt dẻo, thơm mật mía, đặc sản quê Kinh Bắc.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-xu-xe",
+  "name": "Bánh su sê",
+  "nameEn": "Su se cake",
+  "region": "bac",
+  "cuisine": "Bắc Ninh",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "su se cake vietnam",
+  "desc": "Bánh su sê dẻo thơm, nhân đậu xanh, nét quê Kinh Bắc.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-da-ke",
+  "name": "Bánh đa kê",
+  "nameEn": "Rice cracker with sweet bean paste",
+  "region": "bac",
+  "cuisine": "Bắc Giang",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "rice cracker with sweet bean paste vietnam",
+  "desc": "Bánh đa kê Bắc Giang dẻo bùi, vị quê hương mộc mạc.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-ran-ngot",
+  "name": "Bánh rán ngọt",
+  "nameEn": "Sweet fried glutinous cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sweet fried glutinous cake vietnam",
+  "desc": "Bánh rán ngọt vàng giòn, nhân đậu xanh thơm, bọc đường mật.",
+  "emoji": "🍘"
+ },
+ {
+  "id": "banh-goi",
+  "name": "Bánh gối",
+  "nameEn": "Pillow-shaped fried pastry",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "pillow-shaped fried pastry vietnam",
+  "desc": "Bánh gối giòn rụm, nhân thịt miến mộc nhĩ, chấm nước chua ngọt.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "banh-chuoi",
+  "name": "Bánh chuối nướng",
+  "nameEn": "Baked banana cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "baked banana cake vietnam",
+  "desc": "Bánh chuối nướng thơm lừng, ngọt dịu, ăn vặt cực hợp.",
+  "emoji": "🍌"
+ },
+ {
+  "id": "banh-khao",
+  "name": "Bánh khảo",
+  "nameEn": "Banh khao roasted rice cake",
+  "region": "bac",
+  "cuisine": "Hải Dương",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "banh khao roasted rice cake vietnam",
+  "desc": "Bánh khảo bột nếp rang, thơm bùi dẻo ngọt, quà Tết xưa.",
+  "emoji": "🍘"
+ },
+ {
+  "id": "banh-dau-xanh-hai-duong",
+  "name": "Bánh đậu xanh Hải Dương",
+  "nameEn": "Hai Duong mung bean cake",
+  "region": "bac",
+  "cuisine": "Hải Dương",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hai duong mung bean cake vietnam",
+  "desc": "Bánh đậu xanh tan mềm, ngọt dịu, quà quê nức tiếng.",
+  "emoji": "🟡"
+ },
+ {
+  "id": "banh-cay-thai-binh",
+  "name": "Bánh cáy Thái Bình",
+  "nameEn": "Thai Binh banh cay",
+  "region": "bac",
+  "cuisine": "Thái Bình",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "thai binh banh cay vietnam",
+  "desc": "Bánh cáy Thái Bình dẻo ngọt, gừng thơm, nhâm nhi với trà.",
+  "emoji": "🍬"
+ },
+ {
+  "id": "banh-gai-tu-tru",
+  "name": "Bánh gai Tứ Trụ",
+  "nameEn": "Tu Tru gai cake",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "tu tru gai cake vietnam",
+  "desc": "Bánh gai Tứ Trụ đen thơm lá gai, nhân đậu xanh dẻo ngọt.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "banh-da-vung",
+  "name": "Bánh đa vừng",
+  "nameEn": "Sesame rice cracker",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sesame rice cracker vietnam",
+  "desc": "Bánh đa vừng giòn thơm, nướng than hồng ăn vui miệng.",
+  "emoji": "🍘"
+ },
+ {
+  "id": "banh-trung-nuong",
+  "name": "Bánh trứng nướng",
+  "nameEn": "Baked egg cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "baked egg cake vietnam",
+  "desc": "Bánh trứng nướng vàng thơm, mềm tan trong miệng.",
+  "emoji": "🥚"
+ },
+ {
+  "id": "banh-ngo-mong",
+  "name": "Bánh ngô nướng",
+  "nameEn": "Grilled corn cake",
+  "region": "bac",
+  "cuisine": "Hà Giang",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "grilled corn cake vietnam",
+  "desc": "Bánh ngô nướng vàng thơm, nét ẩm thực người Mông mộc mạc.",
+  "emoji": "🌽"
+ },
+ {
+  "id": "nem-ran-ha-noi",
+  "name": "Nem rán Hà Nội",
+  "nameEn": "Hanoi fried spring rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "vi:Nem rán",
+  "img": "hanoi fried spring rolls vietnam",
+  "desc": "Nem rán giòn rụm, nhân thịt nấm miến, chấm nước chua ngọt hết ý.",
+  "emoji": "🥢"
+ },
+ {
+  "id": "nem-chua-thanh-hoa",
+  "name": "Nem chua Thanh Hóa",
+  "nameEn": "Thanh Hoa fermented pork roll",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san",
+   "cay"
+  ],
+  "price": 1,
+  "wiki": "vi:Nem chua",
+  "img": "thanh hoa fermented pork roll vietnam",
+  "desc": "Nem chua Thanh Hóa chua ngọt cay nhẹ, nhâm nhi vui miệng.",
+  "emoji": "🥢"
+ },
+ {
+  "id": "nem-chua-ran",
+  "name": "Nem chua rán",
+  "nameEn": "Fried fermented pork",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fried fermented pork vietnam",
+  "desc": "Nem chua rán vàng giòn, chấm tương ớt, ăn vặt cực cuốn.",
+  "emoji": "🥢"
+ },
+ {
+  "id": "nem-phung",
+  "name": "Nem Phùng",
+  "nameEn": "Phung spring rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "phung spring rolls vietnam",
+  "desc": "Nem Phùng ròn rụm, nhân đậm đà, đặc sản vùng ven Hà Nội.",
+  "emoji": "🥢"
+ },
+ {
+  "id": "nem-thinh",
+  "name": "Nem thính",
+  "nameEn": "Roasted rice powder pork",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "vat"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "roasted rice powder pork vietnam",
+  "desc": "Nem thính thơm lừng, thịt dai giòn, chấm tương ớt là nhất.",
+  "emoji": "🥢"
+ },
+ {
+  "id": "nem-lui",
+  "name": "Nem lụi",
+  "nameEn": "Grilled pork skewers",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "grilled pork skewers vietnam",
+  "desc": "Nem lụi nướng thơm, cuốn bánh tráng rau sống chấm tương.",
+  "emoji": "🍢"
+ },
+ {
+  "id": "nem-cua-be",
+  "name": "Nem cua bể",
+  "nameEn": "Crab spring rolls",
+  "region": "bac",
+  "cuisine": "Hải Phòng",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "crab spring rolls vietnam",
+  "desc": "Nem cua bể giòn tan, nhân cua béo thơm, đặc sản Hải Phòng.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "nem-cuon",
+  "name": "Nem cuốn",
+  "nameEn": "Fresh rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fresh rolls vietnam",
+  "desc": "Cuốn tươi nhẹ nhàng, tôm thịt rau thơm, chấm mắm chua ngọt.",
+  "emoji": "🥬"
+ },
+ {
+  "id": "cha-ca-la-vong",
+  "name": "Chả cá Lã Vọng",
+  "nameEn": "La Vong turmeric fish",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "vi:Chả cá Lã Vọng",
+  "img": "la vong turmeric fish vietnam",
+  "desc": "Chả cá nghệ nóng sôi trên chảo, thì là hành xanh, bùi mắm tôm.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "cha-muc-ha-long",
+  "name": "Chả mực Hạ Long",
+  "nameEn": "Ha Long squid cake",
+  "region": "bac",
+  "cuisine": "Quảng Ninh",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "ha long squid cake vietnam",
+  "desc": "Chả mực giã tay dai giòn, thơm ngon đậm vị biển Hạ Long.",
+  "emoji": "🦑"
+ },
+ {
+  "id": "cha-que",
+  "name": "Chả quế",
+  "nameEn": "Cinnamon pork roll",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "cinnamon pork roll vietnam",
+  "desc": "Chả quế thơm nức mùi quế, mềm ngọt, ăn kèm bánh cuốn tuyệt.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "gio-lua",
+  "name": "Giò lụa",
+  "nameEn": "Vietnamese pork sausage",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "vi:Giò lụa",
+  "img": "vietnamese pork sausage vietnam",
+  "desc": "Giò lụa mịn mát, thơm lá chuối, món truyền thống ngày Tết.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "cha-com",
+  "name": "Chả cốm",
+  "nameEn": "Green rice pork patty",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "green rice pork patty vietnam",
+  "desc": "Chả cốm xanh thơm, béo bùi, chiên vàng hấp dẫn.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "cha-ruoi",
+  "name": "Chả rươi",
+  "nameEn": "Ruoi worm omelet",
+  "region": "bac",
+  "cuisine": "Hải Phòng",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "ruoi worm omelet vietnam",
+  "desc": "Chả rươi mùa thu thơm lạ, béo bùi, món ngon chờ cả năm.",
+  "emoji": "🐛"
+ },
+ {
+  "id": "cha-cuon-la-lot",
+  "name": "Chả lá lốt",
+  "nameEn": "Betel leaf pork rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "betel leaf pork rolls vietnam",
+  "desc": "Chả lá lốt nướng thơm nức, ăn kèm bún rau sống ngon mê.",
+  "emoji": "🌿"
+ },
+ {
+  "id": "trung-dap-thit",
+  "name": "Trứng đúc thịt",
+  "nameEn": "Egg meat omelet",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "egg meat omelet vietnam",
+  "desc": "Trứng đúc thịt hấp dẫn, ăn cơm nóng là ngon nhất.",
+  "emoji": "🍳"
+ },
+ {
+  "id": "xoi-xeo",
+  "name": "Xôi xéo",
+  "nameEn": "Mung bean sticky rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "mung bean sticky rice vietnam",
+  "desc": "Xôi nghệ phủ đậu xanh nghiền, hành phi thơm, béo bùi ngất ngây.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "xoi-lac",
+  "name": "Xôi lạc",
+  "nameEn": "Peanut sticky rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "peanut sticky rice vietnam",
+  "desc": "Xôi lạc dẻo thơm, lạc bùi béo, thêm muối vừng là đỉnh.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "xoi-ngo",
+  "name": "Xôi ngô",
+  "nameEn": "Corn sticky rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "corn sticky rice vietnam",
+  "desc": "Xôi ngô vàng ươm, hạt ngô ngọt dẻo, hành phi thơm lừng.",
+  "emoji": "🌽"
+ },
+ {
+  "id": "xoi-gac",
+  "name": "Xôi gấc",
+  "nameEn": "Gac sticky rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re",
+   "chay",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "gac sticky rice vietnam",
+  "desc": "Xôi gấc đỏ au, dẻo thơm, món may mắn của ngày lễ.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "xoi-ga",
+  "name": "Xôi gà",
+  "nameEn": "Chicken sticky rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "chicken sticky rice vietnam",
+  "desc": "Xôi dẻo thơm kèm gà xé phay, no căng bụng ngày bận rộn.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "xoi-thit-kho",
+  "name": "Xôi thịt kho",
+  "nameEn": "Sticky rice with braised pork",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sticky rice with braised pork vietnam",
+  "desc": "Xôi trắng chan thịt kho đậm đà, bữa sáng chuẩn Hà thành.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "xoi-ngu-sac",
+  "name": "Xôi ngũ sắc",
+  "nameEn": "Five-color sticky rice",
+  "region": "bac",
+  "cuisine": "Hà Giang",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "five-color sticky rice vietnam",
+  "desc": "Xôi ngũ sắc rực rỡ vùng cao, thơm màu lá rừng, ăn là mê.",
+  "emoji": "🌈"
+ },
+ {
+  "id": "xoi-la-cam",
+  "name": "Xôi lá cẩm",
+  "nameEn": "Magenta leaf sticky rice",
+  "region": "bac",
+  "cuisine": "Lào Cai",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "magenta leaf sticky rice vietnam",
+  "desc": "Xôi tím lá cẩm đẹp mê hồn, dẻo thơm, quà núi rừng.",
+  "emoji": "🍇"
+ },
+ {
+  "id": "xoi-nep-nuong",
+  "name": "Xôi nếp nương",
+  "nameEn": "Upland sticky rice",
+  "region": "bac",
+  "cuisine": "Điện Biên",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "upland sticky rice vietnam",
+  "desc": "Xôi nếp nương Tây Bắc dẻo thơm, ăn cùng chẳm chéo là xuất sắc.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "xoi-chien-phong",
+  "name": "Xôi chiên phồng",
+  "nameEn": "Fried puffy sticky rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fried puffy sticky rice vietnam",
+  "desc": "Xôi chiên phồng giòn, nhân đậm đà, chiên nóng rượi ăn mê.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "com-lam",
+  "name": "Cơm lam",
+  "nameEn": "Bamboo-tube sticky rice",
+  "region": "bac",
+  "cuisine": "Tây Bắc",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "vi:Cơm lam",
+  "img": "bamboo-tube sticky rice vietnam",
+  "desc": "Cơm lam nướng ống nứa thơm ngát, chấm muối vừng, chuẩn vị núi rừng.",
+  "emoji": "🎋"
+ },
+ {
+  "id": "com-lam-hoa-binh",
+  "name": "Cơm lam Hòa Bình",
+  "nameEn": "Hoa Binh bamboo rice",
+  "region": "bac",
+  "cuisine": "Hòa Bình",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hoa binh bamboo rice vietnam",
+  "desc": "Cơm lam Hòa Bình dẻo bùi, nướng than hồng, ăn vui miệng.",
+  "emoji": "🎋"
+ },
+ {
+  "id": "com-chay-ninh-binh",
+  "name": "Cơm cháy Ninh Bình",
+  "nameEn": "Ninh Binh crispy rice",
+  "region": "bac",
+  "cuisine": "Ninh Bình",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "vi:Cơm cháy",
+  "img": "ninh binh crispy rice vietnam",
+  "desc": "Cơm cháy giòn rụm, ăn kèm chà bông, tặng ai cũng thích.",
+  "emoji": "🍘"
+ },
+ {
+  "id": "com-chay-sot-tom",
+  "name": "Cơm cháy sốt tôm thịt",
+  "nameEn": "Crispy rice with shrimp pork sauce",
+  "region": "bac",
+  "cuisine": "Ninh Bình",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "crispy rice with shrimp pork sauce vietnam",
+  "desc": "Cơm cháy giòn rưới sốt tôm thịt, ngon hết nấc.",
+  "emoji": "🍤"
+ },
+ {
+  "id": "com-lang-vong",
+  "name": "Cốm làng Vòng",
+  "nameEn": "Lang Vong green rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "vi:Cốm",
+  "img": "lang vong green rice vietnam",
+  "desc": "Cốm làng Vòng xanh mướt, thơm lá sen, hương thu Hà Nội.",
+  "emoji": "🌾"
+ },
+ {
+  "id": "com-rang-dua-bo",
+  "name": "Cơm rang dưa bò",
+  "nameEn": "Fried rice with pickled mustard and beef",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fried rice with pickled mustard and beef vietnam",
+  "desc": "Cơm rang dưa bò thơm khói, chua nhẹ, nhanh gọn mà ngon.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "com-binh-dan",
+  "name": "Cơm bình dân Hà Nội",
+  "nameEn": "Hanoi home-style rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hanoi home-style rice vietnam",
+  "desc": "Mâm cơm bình dân thịt kho, canh rau, trứng rán đủ cả.",
+  "emoji": "🍱"
+ },
+ {
+  "id": "com-nieu",
+  "name": "Cơm niêu",
+  "nameEn": "Clay-pot rice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "clay-pot rice vietnam",
+  "desc": "Cơm niêu nóng giòn cháy cạnh, ăn kèm món mặn đậm đà.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "vit-quay-lang-son",
+  "name": "Vịt quay Lạng Sơn",
+  "nameEn": "Lang Son roast duck",
+  "region": "bac",
+  "cuisine": "Lạng Sơn",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "lang son roast duck vietnam",
+  "desc": "Vịt quay da giòn thịt mềm, thơm lá mắc mật, mê là phải.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "lon-quay-lang-son",
+  "name": "Lợn quay Lạng Sơn",
+  "nameEn": "Lang Son roast pork",
+  "region": "bac",
+  "cuisine": "Lạng Sơn",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "lang son roast pork vietnam",
+  "desc": "Lợn quay da giòn rụm, thịt thơm lá mắc mật, đặc sản xứ Lạng.",
+  "emoji": "🐖"
+ },
+ {
+  "id": "thit-trau-gac-bep",
+  "name": "Thịt trâu gác bếp",
+  "nameEn": "Smoked buffalo meat",
+  "region": "bac",
+  "cuisine": "Tây Bắc",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "smoked buffalo meat vietnam",
+  "desc": "Thịt trâu gác bếp thơm khói, dai ngọt, nhâm nhi cùng rượu ngô.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "thang-co",
+  "name": "Thắng cố",
+  "nameEn": "Thang co stew",
+  "region": "bac",
+  "cuisine": "Hà Giang",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "vi:Thắng cố",
+  "img": "thang co stew vietnam",
+  "desc": "Thắng cố nóng hổi của người Mông, đậm đà vị núi cao.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "thang-den",
+  "name": "Thắng dền",
+  "nameEn": "Thang den sweet dumplings",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "thang den sweet dumplings vietnam",
+  "desc": "Thắng dền ngọt dịu, nước đường gừng ấm, hợp ngày giá rét.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "thit-lon-man",
+  "name": "Thịt lợn mán",
+  "nameEn": "Black pig meat",
+  "region": "bac",
+  "cuisine": "Sơn La",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "black pig meat vietnam",
+  "desc": "Thịt lợn mán thơm ngọt chắc thịt, nướng hay luộc đều ngon.",
+  "emoji": "🐖"
+ },
+ {
+  "id": "thit-hun-khoi",
+  "name": "Thịt hun khói",
+  "nameEn": "Smoked pork",
+  "region": "bac",
+  "cuisine": "Lào Cai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "smoked pork vietnam",
+  "desc": "Thịt hun khói treo gác bếp, thơm đậm, dai ngọt.",
+  "emoji": "🥓"
+ },
+ {
+  "id": "ca-suoi-nuong",
+  "name": "Cá suối nướng",
+  "nameEn": "Grilled stream fish",
+  "region": "bac",
+  "cuisine": "Sơn La",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "grilled stream fish vietnam",
+  "desc": "Cá suối nướng lá rừng, chấm chẳm chéo, chuẩn Tây Bắc.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "pa-pinh-top",
+  "name": "Pa pỉnh tộp",
+  "nameEn": "Grilled flattened fish",
+  "region": "bac",
+  "cuisine": "Sơn La",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "grilled flattened fish vietnam",
+  "desc": "Pa pỉnh tộp cá kẹp nướng than hồng, thơm cay của người Thái.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "cham-cheo",
+  "name": "Chẳm chéo",
+  "nameEn": "Cham cheo dipping sauce",
+  "region": "bac",
+  "cuisine": "Sơn La",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "cay",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "cham cheo dipping sauce vietnam",
+  "desc": "Chẳm chéo cay thơm mắc khén, chấm gì cũng ngon xuất sắc.",
+  "emoji": "🌶️"
+ },
+ {
+  "id": "lau-ca-tam",
+  "name": "Lẩu cá tầm Sa Pa",
+  "nameEn": "Sa Pa sturgeon hotpot",
+  "region": "bac",
+  "cuisine": "Lào Cai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "sa pa sturgeon hotpot vietnam",
+  "desc": "Lẩu cá tầm Sa Pa ngọt mát, ăn giữa sương lạnh ấm lòng.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "lau-ca-hoi",
+  "name": "Lẩu cá hồi Sa Pa",
+  "nameEn": "Sa Pa salmon hotpot",
+  "region": "bac",
+  "cuisine": "Lào Cai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "sa pa salmon hotpot vietnam",
+  "desc": "Cá hồi Sa Pa tươi béo ngọt, nhúng lẩu nóng ngày sương mù.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "lon-cap-nach-nuong",
+  "name": "Lợn cắp nách nướng",
+  "nameEn": "Grilled mini pig",
+  "region": "bac",
+  "cuisine": "Lào Cai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "grilled mini pig vietnam",
+  "desc": "Lợn cắp nách nướng thơm lừng, da giòn thịt ngọt, món Sa Pa.",
+  "emoji": "🐖"
+ },
+ {
+  "id": "trung-nuong",
+  "name": "Trứng nướng than",
+  "nameEn": "Charcoal grilled eggs",
+  "region": "bac",
+  "cuisine": "Lào Cai",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "charcoal grilled eggs vietnam",
+  "desc": "Trứng nướng than hồng nóng hổi, chống rét ngày sương Sa Pa.",
+  "emoji": "🥚"
+ },
+ {
+  "id": "ngo-nuong",
+  "name": "Ngô nướng",
+  "nameEn": "Grilled corn",
+  "region": "bac",
+  "cuisine": "Lào Cai",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "grilled corn vietnam",
+  "desc": "Ngô nướng thơm lừng, dẻo bùi, ăn vặt mùa lạnh chuẩn bài.",
+  "emoji": "🌽"
+ },
+ {
+  "id": "khoai-lang-nuong",
+  "name": "Khoai lang nướng",
+  "nameEn": "Roasted sweet potato",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "re",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "roasted sweet potato vietnam",
+  "desc": "Khoai lang nướng ngọt bùi, hơi khói thơm nức ngày đông.",
+  "emoji": "🍠"
+ },
+ {
+  "id": "hat-de-rang",
+  "name": "Hạt dẻ rang Trùng Khánh",
+  "nameEn": "Trung Khanh roasted chestnuts",
+  "region": "bac",
+  "cuisine": "Cao Bằng",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "mua-lanh",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "trung khanh roasted chestnuts vietnam",
+  "desc": "Hạt dẻ Trùng Khánh rang nóng bùi ngọt, ngày thu đông nhấm nháp vui.",
+  "emoji": "🌰"
+ },
+ {
+  "id": "men-men",
+  "name": "Mèn mén",
+  "nameEn": "Hmong cornmeal",
+  "region": "bac",
+  "cuisine": "Hà Giang",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hmong cornmeal vietnam",
+  "desc": "Mèn mén hấp từ bột ngô, đặc sản người Mông, ăn kèm canh rau.",
+  "emoji": "🌽"
+ },
+ {
+  "id": "chao-au-tau",
+  "name": "Cháo ấu tẩu",
+  "nameEn": "Au tau porridge",
+  "region": "bac",
+  "cuisine": "Hà Giang",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "au tau porridge vietnam",
+  "desc": "Cháo ấu tẩu nồng ấm vùng cao đá, thơm ngon khó quên.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "ruou-ngo",
+  "name": "Rượu ngô",
+  "nameEn": "Corn wine",
+  "region": "bac",
+  "cuisine": "Hà Giang",
+  "meals": [
+   "toi"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "corn wine vietnam",
+  "desc": "Rượu ngô vùng cao thơm nồng ấm, ai uống cũng nhớ.",
+  "emoji": "🥃"
+ },
+ {
+  "id": "canh-mang-chua",
+  "name": "Canh măng chua",
+  "nameEn": "Sour bamboo shoot soup",
+  "region": "bac",
+  "cuisine": "Sơn La",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sour bamboo shoot soup vietnam",
+  "desc": "Canh măng chua thanh, thơm mùi rừng, đậm đà vị núi cao.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "de-nui-hap",
+  "name": "Dê núi hấp tía tô",
+  "nameEn": "Steamed mountain goat",
+  "region": "bac",
+  "cuisine": "Ninh Bình",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "steamed mountain goat vietnam",
+  "desc": "Dê núi Ninh Bình hấp tía tô thơm lừng, thịt mềm săn chắc.",
+  "emoji": "🐐"
+ },
+ {
+  "id": "de-tai-chanh",
+  "name": "Dê tái chanh",
+  "nameEn": "Goat salad with lime",
+  "region": "bac",
+  "cuisine": "Ninh Bình",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "goat salad with lime vietnam",
+  "desc": "Dê tái chanh mềm ngọt, chua chua cay cay, nhâm nhi cực cuốn.",
+  "emoji": "🐐"
+ },
+ {
+  "id": "lau-de",
+  "name": "Lẩu dê",
+  "nameEn": "Goat hotpot",
+  "region": "bac",
+  "cuisine": "Ninh Bình",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "goat hotpot vietnam",
+  "desc": "Lẩu dê thơm sả gừng, thịt mềm ấm bụng, ngày lạnh rất đã.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "lau-ech",
+  "name": "Lẩu ếch",
+  "nameEn": "Frog hotpot",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "frog hotpot vietnam",
+  "desc": "Lẩu ếch ngọt thịt, nước chua nhẹ, nhúng rau ăn mê.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "lau-cua-dong",
+  "name": "Lẩu riêu cua đồng",
+  "nameEn": "Field crab hotpot",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "field crab hotpot vietnam",
+  "desc": "Lẩu riêu cua đồng ngọt nước, rau tươi, bún mềm, quá đã.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "lau-ga-la-e",
+  "name": "Lẩu gà lá é",
+  "nameEn": "Chicken hotpot with e leaf",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "chicken hotpot with e leaf vietnam",
+  "desc": "Lẩu gà lá é thơm nức, nước dùng đậm đà, nhúng rau cực khoái.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "lau-ca-keo",
+  "name": "Lẩu cá kèo",
+  "nameEn": "Goby fish hotpot",
+  "region": "bac",
+  "cuisine": "Nam Định",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "goby fish hotpot vietnam",
+  "desc": "Lẩu cá kèo lá giang chua thanh, cá ngọt thịt, đặc sản miền Bắc.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "lau-nam",
+  "name": "Lẩu nấm",
+  "nameEn": "Mushroom hotpot",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "chay",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "mushroom hotpot vietnam",
+  "desc": "Lẩu nấm ngọt thanh, tươi mát, hợp người ăn chay nhẹ bụng.",
+  "emoji": "🍄"
+ },
+ {
+  "id": "lau-vit-nau-chao",
+  "name": "Vịt nấu chao",
+  "nameEn": "Duck cooked with fermented tofu",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "duck cooked with fermented tofu vietnam",
+  "desc": "Vịt nấu chao thơm béo, thịt mềm, chấm bún ngon khó cưỡng.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "vit-om-sau",
+  "name": "Vịt om sấu",
+  "nameEn": "Duck braised with sau fruit",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "mua-nong",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "duck braised with sau fruit vietnam",
+  "desc": "Vịt om sấu chua thanh, béo mềm, ăn với bún tuyệt vời.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "vit-van-dinh",
+  "name": "Vịt cỏ Vân Đình",
+  "nameEn": "Van Dinh duck",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "van dinh duck vietnam",
+  "desc": "Vịt cỏ Vân Đình thịt thơm chắc, luộc quay đều ngon.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "ga-dong-tao",
+  "name": "Gà Đông Tảo",
+  "nameEn": "Dong Tao chicken",
+  "region": "bac",
+  "cuisine": "Hưng Yên",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "dong tao chicken vietnam",
+  "desc": "Gà Đông Tảo chân to thịt dai ngọt, món quý dịp trọng đại.",
+  "emoji": "🐔"
+ },
+ {
+  "id": "ga-luoc-la-chanh",
+  "name": "Gà luộc lá chanh",
+  "nameEn": "Boiled chicken with lime leaf",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "boiled chicken with lime leaf vietnam",
+  "desc": "Gà luộc da vàng giòn, chấm muối chanh, giản dị mà ngon.",
+  "emoji": "🐔"
+ },
+ {
+  "id": "ga-nuong-mat-ong",
+  "name": "Gà nướng mật ong",
+  "nameEn": "Honey roasted chicken",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "honey roasted chicken vietnam",
+  "desc": "Gà nướng mật ong thơm lừng, da giòn thịt mềm hấp dẫn.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "gia-cay",
+  "name": "Giả cầy",
+  "nameEn": "Imitation dog stew",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "imitation dog stew vietnam",
+  "desc": "Giả cầy mềm thơm riềng mẻ, ăn với bún lá cực mê.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "thit-dong",
+  "name": "Thịt đông",
+  "nameEn": "Pork aspic",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "pork aspic vietnam",
+  "desc": "Thịt đông trong vắt mát lạnh, món Tết ngày rét xưa.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "thit-kho-tau",
+  "name": "Thịt kho tàu",
+  "nameEn": "Braised pork with eggs",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "braised pork with eggs vietnam",
+  "desc": "Thịt kho đậm đà, trứng mềm, ăn cơm nóng thật là sướng.",
+  "emoji": "🍖"
+ },
+ {
+  "id": "ca-kho-vu-dai",
+  "name": "Cá kho làng Vũ Đại",
+  "nameEn": "Vu Dai braised fish",
+  "region": "bac",
+  "cuisine": "Hà Nam",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "vu dai braised fish vietnam",
+  "desc": "Cá kho làng Vũ Đại nhừ xương, đậm đà, nấu cả ngày mới ngon.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "ca-kho-rieng",
+  "name": "Cá kho riềng",
+  "nameEn": "Fish braised with galangal",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fish braised with galangal vietnam",
+  "desc": "Cá kho riềng thơm nồng, đậm đà, chan cơm trắng tuyệt vời.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "canh-ca-ro-dong",
+  "name": "Canh cá rô đồng",
+  "nameEn": "Field perch soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "field perch soup vietnam",
+  "desc": "Canh cá rô đồng nấu cải cúc, thanh ngọt dịu dàng nhà mình.",
+  "emoji": "🥬"
+ },
+ {
+  "id": "canh-cua-rau-day",
+  "name": "Canh cua rau đay",
+  "nameEn": "Crab and jute leaf soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "crab and jute leaf soup vietnam",
+  "desc": "Canh cua rau mồng tơi rau đay, mát lành giải nhiệt ngày hè.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "canh-bun",
+  "name": "Canh bún",
+  "nameEn": "Crab noodle soup",
+  "region": "bac",
+  "cuisine": "Thái Bình",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "crab noodle soup vietnam",
+  "desc": "Canh bún nấu cua đồng, nhiều rau, ngon dịu mát lòng.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "canh-rau-ngot",
+  "name": "Canh rau ngót thịt băm",
+  "nameEn": "Katuk leaf pork soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "katuk leaf pork soup vietnam",
+  "desc": "Canh rau ngót thịt băm xanh mát thanh ngọt, ăn là đã.",
+  "emoji": "🥬"
+ },
+ {
+  "id": "canh-khoai-so-suon",
+  "name": "Canh khoai sọ sườn",
+  "nameEn": "Taro and rib soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "taro and rib soup vietnam",
+  "desc": "Canh khoai sọ nấu sườn bùi béo, nước ngọt thanh ấm bụng.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "dau-phu-sot-ca-chua",
+  "name": "Đậu phụ sốt cà chua",
+  "nameEn": "Tofu in tomato sauce",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "chay",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "tofu in tomato sauce vietnam",
+  "desc": "Đậu phụ rán sốt cà chua chua ngọt, bữa cơm nhà nhẹ nhàng.",
+  "emoji": "🍅"
+ },
+ {
+  "id": "dau-phu-nhoi-thit",
+  "name": "Đậu phụ nhồi thịt",
+  "nameEn": "Tofu stuffed with pork",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "tofu stuffed with pork vietnam",
+  "desc": "Đậu phụ nhồi thịt sốt cà chua, bùi béo đưa cơm tuyệt vời.",
+  "emoji": "🍅"
+ },
+ {
+  "id": "rau-muong-luoc",
+  "name": "Rau muống luộc",
+  "nameEn": "Boiled morning glory",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "chay",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "boiled morning glory vietnam",
+  "desc": "Rau muống luộc xanh giòn, chấm nước mắm tương, giản dị quen thuộc.",
+  "emoji": "🥬"
+ },
+ {
+  "id": "trung-vit-lon",
+  "name": "Trứng vịt lộn",
+  "nameEn": "Balut",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "balut vietnam",
+  "desc": "Trứng vịt lộn nóng hổi với rau răm, ăn là ghiền.",
+  "emoji": "🥚"
+ },
+ {
+  "id": "oc-luoc",
+  "name": "Ốc luộc gừng sả",
+  "nameEn": "Boiled snails with ginger and lemongrass",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "hai-san",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "boiled snails with ginger and lemongrass vietnam",
+  "desc": "Ốc luộc gừng sả thơm nức, chấm mắm gừng chua cay xuýt xoa.",
+  "emoji": "🐌"
+ },
+ {
+  "id": "oc-nhoi-chuoi-dau",
+  "name": "Ốc nhồi chuối đậu",
+  "nameEn": "Snails with banana and tofu",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "snails with banana and tofu vietnam",
+  "desc": "Ốc nhồi chuối đậu om mẻ, đậm vị Bắc, ăn nóng thật hợp.",
+  "emoji": "🐌"
+ },
+ {
+  "id": "oc-xao-chuoi",
+  "name": "Ốc xào chuối",
+  "nameEn": "Snails with banana",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "snails with banana vietnam",
+  "desc": "Ốc xào chuối xanh thơm nghệ, béo bùi mê mẩn.",
+  "emoji": "🐌"
+ },
+ {
+  "id": "nom-hoa-chuoi",
+  "name": "Nộm hoa chuối",
+  "nameEn": "Banana blossom salad",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "banana blossom salad vietnam",
+  "desc": "Nộm hoa chuối giòn chua ngọt, ăn kèm đậu rang bùi bùi.",
+  "emoji": "🌸"
+ },
+ {
+  "id": "nom-bo-kho",
+  "name": "Nộm bò khô",
+  "nameEn": "Dried beef papaya salad",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "dried beef papaya salad vietnam",
+  "desc": "Nộm đu đủ bò khô chua ngọt cay, vị quen vỉa hè Hà Nội.",
+  "emoji": "🥗"
+ },
+ {
+  "id": "nom-tai-heo",
+  "name": "Nộm tai heo",
+  "nameEn": "Pig ear salad",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "pig ear salad vietnam",
+  "desc": "Nộm tai heo giòn sần sật, chua ngọt đậm đà, nhắm bia thích lắm.",
+  "emoji": "🥗"
+ },
+ {
+  "id": "nom-su-hao",
+  "name": "Nộm su hào",
+  "nameEn": "Kohlrabi salad",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "kohlrabi salad vietnam",
+  "desc": "Nộm su hào giòn mát, chua ngọt nhẹ, hợp mâm cơm Tết.",
+  "emoji": "🥗"
+ },
+ {
+  "id": "banh-da-tron",
+  "name": "Bánh đa trộn",
+  "nameEn": "Mixed rice cracker salad",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "mixed rice cracker salad vietnam",
+  "desc": "Bánh đa trộn giòn dai, chua cay, ăn vặt vỉa hè vui hết nấc.",
+  "emoji": "🥗"
+ },
+ {
+  "id": "bo-bia",
+  "name": "Bò bía",
+  "nameEn": "Jicama spring rolls",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "jicama spring rolls vietnam",
+  "desc": "Bò bía cuốn tươi, củ sắn giòn, chấm tương đậu phộng bùi béo.",
+  "emoji": "🌯"
+ },
+ {
+  "id": "muc-nuong-ha-long",
+  "name": "Mực nướng Hạ Long",
+  "nameEn": "Grilled Ha Long squid",
+  "region": "bac",
+  "cuisine": "Quảng Ninh",
+  "meals": [
+   "vat",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "grilled ha long squid vietnam",
+  "desc": "Mực nướng thơm than, dai ngọt, chấm tương ớt xuýt xoa.",
+  "emoji": "🦑"
+ },
+ {
+  "id": "sa-sung",
+  "name": "Sá sùng Vân Đồn",
+  "nameEn": "Peanut worm Van Don",
+  "region": "bac",
+  "cuisine": "Quảng Ninh",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "peanut worm van don vietnam",
+  "desc": "Sá sùng Vân Đồn giòn ngọt, nấu canh hay nướng đều đặc biệt.",
+  "emoji": "🪱"
+ },
+ {
+  "id": "tu-hai-nuong",
+  "name": "Tu hài nướng mỡ hành",
+  "nameEn": "Grilled razor clam",
+  "region": "bac",
+  "cuisine": "Quảng Ninh",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "grilled razor clam vietnam",
+  "desc": "Tu hài nướng mỡ hành thơm ngọt, đặc sản biển Vân Đồn.",
+  "emoji": "🦪"
+ },
+ {
+  "id": "ghe-hap",
+  "name": "Ghẹ hấp Hạ Long",
+  "nameEn": "Steamed Ha Long crab",
+  "region": "bac",
+  "cuisine": "Quảng Ninh",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "steamed ha long crab vietnam",
+  "desc": "Ghẹ hấp tươi ngọt thịt chắc, vị biển Hạ Long khó quên.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "goi-ca-sam-son",
+  "name": "Gỏi cá Sầm Sơn",
+  "nameEn": "Sam Son fish salad",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "mon-nhau",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "sam son fish salad vietnam",
+  "desc": "Gỏi cá Sầm Sơn chua ngọt tươi mát, đặc sản biển.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "mam-tep",
+  "name": "Mắm tép Thanh Hóa",
+  "nameEn": "Thanh Hoa shrimp paste",
+  "region": "bac",
+  "cuisine": "Thanh Hóa",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "thanh hoa shrimp paste vietnam",
+  "desc": "Mắm tép chua cay thơm lừng, ăn với bún hay cơm đều hợp.",
+  "emoji": "🦐"
+ },
+ {
+  "id": "mi-van-than",
+  "name": "Mì vằn thắn",
+  "nameEn": "Wonton noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "wonton noodle soup vietnam",
+  "desc": "Mì vằn thắn hoành thánh mềm, sợi mì dai, nước dùng ngọt.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "mien-ga",
+  "name": "Miến gà",
+  "nameEn": "Chicken glass noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "chicken glass noodle soup vietnam",
+  "desc": "Miến gà thơm ngọt, sợi miến dai, bữa ăn nhẹ nhàng ấm bụng.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "mien-xao-luon",
+  "name": "Miến xào lươn",
+  "nameEn": "Stir-fried eel glass noodles",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "stir-fried eel glass noodles vietnam",
+  "desc": "Miến xào lươn giòn thơm hành, ngon đặc biệt vị Bắc.",
+  "emoji": "🐍"
+ },
+ {
+  "id": "mien-ngan",
+  "name": "Miến ngan",
+  "nameEn": "Duck glass noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "duck glass noodle soup vietnam",
+  "desc": "Miến ngan thịt mềm ngọt, nước trong thanh, ăn mùa lạnh ấm bụng.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "mien-cua",
+  "name": "Miến cua",
+  "nameEn": "Crab glass noodle soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "crab glass noodle soup vietnam",
+  "desc": "Miến cua gạch béo thơm, nước dùng ngọt thanh, ăn ghiền.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "sup-luon-nghe-an",
+  "name": "Súp lươn Nghệ An",
+  "nameEn": "Nghe An eel soup",
+  "region": "bac",
+  "cuisine": "Nghệ An",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "nghe an eel soup vietnam",
+  "desc": "Súp lươn sánh ngọt, lươn giòn dai, thơm tiêu, hấp dẫn.",
+  "emoji": "🐍"
+ },
+ {
+  "id": "mien-luon-nghe-an",
+  "name": "Miến lươn Nghệ An",
+  "nameEn": "Nghe An eel glass noodle soup",
+  "region": "bac",
+  "cuisine": "Nghệ An",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "nghe an eel glass noodle soup vietnam",
+  "desc": "Miến lươn dai giòn, nước dùng ngọt, hành răm thơm nức.",
+  "emoji": "🐍"
+ },
+ {
+  "id": "chao-luon-nghe-an",
+  "name": "Cháo lươn Nghệ An",
+  "nameEn": "Nghe An eel porridge",
+  "region": "bac",
+  "cuisine": "Nghệ An",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "nghe an eel porridge vietnam",
+  "desc": "Cháo lươn cay ấm, lươn ngọt giòn, ăn nóng đã nghiền.",
+  "emoji": "🐍"
+ },
+ {
+  "id": "chao-canh",
+  "name": "Cháo canh",
+  "nameEn": "Thick noodle porridge soup",
+  "region": "bac",
+  "cuisine": "Nghệ An",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san",
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "thick noodle porridge soup vietnam",
+  "desc": "Cháo canh sền sệt ngon lạ, sợi bánh dai dai, hấp dẫn xứ Nghệ.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "chao-chim",
+  "name": "Cháo chim",
+  "nameEn": "Pigeon porridge",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "pigeon porridge vietnam",
+  "desc": "Cháo chim câu thơm ngọt, bổ dưỡng ngày lạnh.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "chao-suon-sun",
+  "name": "Cháo sườn sụn",
+  "nameEn": "Rib cartilage porridge",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh",
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "rib cartilage porridge vietnam",
+  "desc": "Cháo sườn sụn sần sật, quẩy giòn, ăn sáng ấm bụng.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "chao-long",
+  "name": "Cháo lòng",
+  "nameEn": "Offal porridge",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "offal porridge vietnam",
+  "desc": "Cháo lòng nóng hổi với tiết, lòng non giòn, thêm tía tô thơm.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "chao-trai",
+  "name": "Cháo trai",
+  "nameEn": "Mussel porridge",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "mussel porridge vietnam",
+  "desc": "Cháo trai ngọt thanh, trai giòn thơm, thêm hành răm là ngon.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "chao-ga",
+  "name": "Cháo gà",
+  "nameEn": "Chicken porridge",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "chicken porridge vietnam",
+  "desc": "Cháo gà thơm hành lá, thịt xé mềm, nhẹ bụng dễ ăn.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "chao-hau-ha-long",
+  "name": "Cháo hàu Hạ Long",
+  "nameEn": "Ha Long oyster porridge",
+  "region": "bac",
+  "cuisine": "Quảng Ninh",
+  "meals": [
+   "sang",
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "ha long oyster porridge vietnam",
+  "desc": "Cháo hàu ngọt thanh vị biển, thơm hành răm.",
+  "emoji": "🦪"
+ },
+ {
+  "id": "keo-cu-do",
+  "name": "Kẹo cu đơ",
+  "nameEn": "Cu do peanut candy",
+  "region": "bac",
+  "cuisine": "Hà Tĩnh",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "cu do peanut candy vietnam",
+  "desc": "Kẹo cu đơ Hà Tĩnh giòn dẻo, đậm lạc, quà quê mộc mạc.",
+  "emoji": "🍬"
+ },
+ {
+  "id": "keo-lac",
+  "name": "Kẹo lạc",
+  "nameEn": "Peanut candy",
+  "region": "bac",
+  "cuisine": "Nghệ An",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "peanut candy vietnam",
+  "desc": "Kẹo lạc vàng ươm dẻo thơm, vị ngọt tuổi thơ.",
+  "emoji": "🍬"
+ },
+ {
+  "id": "keo-vung",
+  "name": "Kẹo vừng Nghệ An",
+  "nameEn": "Nghe An sesame candy",
+  "region": "bac",
+  "cuisine": "Nghệ An",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "nghe an sesame candy vietnam",
+  "desc": "Kẹo vừng giòn thơm, ngọt đậm, quà quê xứ Nghệ.",
+  "emoji": "🍬"
+ },
+ {
+  "id": "keo-doi",
+  "name": "Kẹo dồi Hà Tĩnh",
+  "nameEn": "Ha Tinh peanut candy",
+  "region": "bac",
+  "cuisine": "Hà Tĩnh",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "ha tinh peanut candy vietnam",
+  "desc": "Kẹo dồi Hà Tĩnh thơm lạc, dẻo giòn, nhâm nhi vui miệng.",
+  "emoji": "🍬"
+ },
+ {
+  "id": "ca-phe-trung",
+  "name": "Cà phê trứng",
+  "nameEn": "Egg coffee",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "vi:Cà phê trứng",
+  "img": "egg coffee vietnam",
+  "desc": "Cà phê trứng béo bùi như kem, ngọt ngào, nhấp là yêu.",
+  "emoji": "☕"
+ },
+ {
+  "id": "ca-phe-muoi",
+  "name": "Cà phê muối",
+  "nameEn": "Salted coffee",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "salted coffee vietnam",
+  "desc": "Cà phê muối cân bằng mặn ngọt đắng, uống một lần là ghiền.",
+  "emoji": "☕"
+ },
+ {
+  "id": "ca-phe-nau-nong",
+  "name": "Cà phê nâu nóng",
+  "nameEn": "Hanoi hot milk coffee",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "hanoi hot milk coffee vietnam",
+  "desc": "Cà phê nâu nóng ngọt đậm, uống buổi sáng tỉnh táo hẳn.",
+  "emoji": "☕"
+ },
+ {
+  "id": "tra-chanh-via-he",
+  "name": "Trà chanh vỉa hè",
+  "nameEn": "Sidewalk lemon tea",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sidewalk lemon tea vietnam",
+  "desc": "Trà chanh vỉa hè mát lạnh, ngồi ghế nhựa tám chuyện vui ghê.",
+  "emoji": "🍋"
+ },
+ {
+  "id": "tra-da",
+  "name": "Trà đá",
+  "nameEn": "Iced tea",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "iced tea vietnam",
+  "desc": "Ly trà đá lạnh mát giải khát, ai cũng nghiện.",
+  "emoji": "🧊"
+ },
+ {
+  "id": "tra-sen-tay-ho",
+  "name": "Trà sen Tây Hồ",
+  "nameEn": "West Lake lotus tea",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": null,
+  "img": "west lake lotus tea vietnam",
+  "desc": "Trà ướp sen Tây Hồ thanh khiết, thơm ngát hương hè.",
+  "emoji": "🪷"
+ },
+ {
+  "id": "tra-gung",
+  "name": "Trà gừng",
+  "nameEn": "Ginger tea",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "ginger tea vietnam",
+  "desc": "Trà gừng ấm nồng, ngày lạnh nhấp một ngụm là tan giá.",
+  "emoji": "🍵"
+ },
+ {
+  "id": "nuoc-mia",
+  "name": "Nước mía",
+  "nameEn": "Sugarcane juice",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sugarcane juice vietnam",
+  "desc": "Nước mía ngọt thanh mát lạnh, giải nhiệt ngày hè.",
+  "emoji": "🥤"
+ },
+ {
+  "id": "nuoc-sau",
+  "name": "Nước sấu đá",
+  "nameEn": "Iced sau fruit drink",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-nong",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "iced sau fruit drink vietnam",
+  "desc": "Nước sấu chua ngọt thơm, mùa hè Hà Nội không thể thiếu.",
+  "emoji": "🥤"
+ },
+ {
+  "id": "nuoc-voi",
+  "name": "Nước vối",
+  "nameEn": "Vối leaf tea",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "sang",
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "vối leaf tea vietnam",
+  "desc": "Nước vối xanh nhẹ, thơm mát, quen thuộc chốn hè phố.",
+  "emoji": "🍵"
+ },
+ {
+  "id": "sua-chua-nep-cam",
+  "name": "Sữa chua nếp cẩm",
+  "nameEn": "Sticky rice yogurt",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "re",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sticky rice yogurt vietnam",
+  "desc": "Sữa chua nếp cẩm chua mát dẻo thơm, giải nhiệt cực đã.",
+  "emoji": "🍨"
+ },
+ {
+  "id": "sua-chua-ca-phe",
+  "name": "Sữa chua cà phê",
+  "nameEn": "Coffee yogurt",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "coffee yogurt vietnam",
+  "desc": "Sữa chua cà phê quyện đắng ngọt, kết hợp lạ mà thích.",
+  "emoji": "☕"
+ },
+ {
+  "id": "kem-trang-tien",
+  "name": "Kem Tràng Tiền",
+  "nameEn": "Trang Tien ice cream",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "trang tien ice cream vietnam",
+  "desc": "Kem Tràng Tiền mát lạnh, vị cốm xanh, nét xưa phố cổ.",
+  "emoji": "🍦"
+ },
+ {
+  "id": "kem-xoi",
+  "name": "Kem xôi",
+  "nameEn": "Sticky rice ice cream",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "sticky rice ice cream vietnam",
+  "desc": "Kem xôi dẻo thơm hòa mát lạnh, vị lạ mà hợp.",
+  "emoji": "🍨"
+ },
+ {
+  "id": "che-buoi",
+  "name": "Chè bưởi",
+  "nameEn": "Pomelo sweet soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "pomelo sweet soup vietnam",
+  "desc": "Chè bưởi thơm ngát, đậu xanh bùi, mát lành ngày nóng.",
+  "emoji": "🍈"
+ },
+ {
+  "id": "che-thai",
+  "name": "Chè thái",
+  "nameEn": "Thai-style fruit dessert",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "thai-style fruit dessert vietnam",
+  "desc": "Chè thái nhiều màu, trái cây dừa mát lạnh, ngọt vui miệng.",
+  "emoji": "🍧"
+ },
+ {
+  "id": "che-hat-sen",
+  "name": "Chè hạt sen",
+  "nameEn": "Lotus seed sweet soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "chay"
+  ],
+  "price": 2,
+  "wiki": null,
+  "img": "lotus seed sweet soup vietnam",
+  "desc": "Chè hạt sen bùi thơm, thanh đạm, ăn xong lòng nhẹ tênh.",
+  "emoji": "🪷"
+ },
+ {
+  "id": "che-troi-nuoc",
+  "name": "Chè trôi nước",
+  "nameEn": "Floating rice ball dessert",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-lanh",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "floating rice ball dessert vietnam",
+  "desc": "Chè trôi nước dẻo thơm nhân đậu, nước đường gừng ấm áp.",
+  "emoji": "🍡"
+ },
+ {
+  "id": "che-do-den",
+  "name": "Chè đỗ đen",
+  "nameEn": "Black bean sweet soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "black bean sweet soup vietnam",
+  "desc": "Chè đỗ đen thanh nhiệt, ngọt mát bùi béo, hợp mùa nắng.",
+  "emoji": "🫘"
+ },
+ {
+  "id": "che-kho",
+  "name": "Chè kho",
+  "nameEn": "Mung bean sweet cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "mung bean sweet cake vietnam",
+  "desc": "Chè kho đậu xanh khô mịn, ngọt bùi, đặc sản miền Bắc.",
+  "emoji": "🟡"
+ },
+ {
+  "id": "che-lam",
+  "name": "Chè lam",
+  "nameEn": "Lam ginger sweet cake",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "lam ginger sweet cake vietnam",
+  "desc": "Chè lam dẻo dai, ngọt gừng, nhâm nhi bên tách trà.",
+  "emoji": "🍬"
+ },
+ {
+  "id": "che-hoa-qua",
+  "name": "Chè hoa quả",
+  "nameEn": "Fruit sweet dessert",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "fruit sweet dessert vietnam",
+  "desc": "Chè hoa quả mát lạnh, trái cây tươi, sữa chua dừa thơm ngon.",
+  "emoji": "🍧"
+ },
+ {
+  "id": "che-khoai-mon",
+  "name": "Chè khoai môn",
+  "nameEn": "Taro sweet soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-lanh",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "taro sweet soup vietnam",
+  "desc": "Chè khoai môn dẻo bùi, ăn nóng hay lạnh đều đã miệng.",
+  "emoji": "🍠"
+ },
+ {
+  "id": "che-chuoi",
+  "name": "Chè chuối",
+  "nameEn": "Banana sweet soup",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-lanh",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "banana sweet soup vietnam",
+  "desc": "Chè chuối nước cốt dừa béo ngọt, nhẹ nhàng ấm bụng.",
+  "emoji": "🍌"
+ },
+ {
+  "id": "tao-pho",
+  "name": "Tào phớ",
+  "nameEn": "Silky tofu pudding",
+  "region": "bac",
+  "cuisine": "Hà Nội",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-lanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": null,
+  "img": "silky tofu pudding vietnam",
+  "desc": "Tào phớ mềm mịn, nước đường gừng thơm, ăn nóng hay lạnh đều đã.",
+  "emoji": "🥣"
+ }
+]

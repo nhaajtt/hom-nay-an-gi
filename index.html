@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hôm nay ăn gì? — để cái bát lo</title>
+<meta name="description" content="Không biết ăn gì? Bấm một nút, cái hộp chọn dùm bạn trong hơn 700 món ba miền và quốc tế.">
+<meta name="theme-color" content="#eeefec">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🥣</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&display=swap">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="skins.css">
+<script>try{var s=JSON.parse(localStorage.getItem("homnayangi:v1")||"{}");document.documentElement.dataset.skin=(s.skinRandom||s.skinV!==2)?"note":(s.skin||"note")}catch(e){document.documentElement.dataset.skin="note"}</script>
+</head>
+<body>
+<a class="skip" href="#pickBtn">Tới nút chọn món</a>
+
+<header class="bar">
+  <a class="brand" href="./">[hôm nay ăn gì?]</a>
+  <button class="menu-btn voice-btn" id="voiceBtn" aria-label="Hỏi bằng giọng nói" title="Hỏi bằng giọng nói">[🎙️]</button>
+  <button class="menu-btn" id="menuBtn" aria-expanded="false" aria-controls="menu">[tùy chọn]</button>
+</header>
+
+<main class="hero">
+  <div class="hero-copy">
+    <div class="cal-sheet" id="calSheet" aria-label="Tờ lịch hôm nay"></div>
+    <p class="eyebrow">tên tui là</p>
+    <h1 class="hero-title">cái bát<br>chọn món</h1>
+    <p class="aka">nhưng mọi người hay gọi tui là “ăn gì cũng được”.</p>
+    <p class="hero-sub">Tui biết <b id="total">700+</b> món ba miền với quốc tế. Bạn đói, tui chọn. Bạn chê, tui chọn lại. Bạn chê nữa thì… ăn mì gói.</p>
+    <button class="summary" id="summary" title="Bộ lọc món"></button>
+    <div class="ctx" id="ctx"></div>
+  </div>
+
+  <div class="hero-play">
+    <div class="mode-tabs" id="modeTabs" role="tablist" aria-label="Kiểu chọn món">
+      <button role="tab" data-mode="quiz"><b>🧩</b>Đố vui</button>
+      <button role="tab" data-mode="xam"><b>🎋</b>Xin xăm</button>
+      <button role="tab" data-mode="cup"><b>🏆</b>Đấu cúp</button>
+    </div>
+    <div class="window" id="stage">
+      <div class="stage-inner" id="stageInner"></div>
+    </div>
+    <div class="play-foot">
+      <div class="mascot" id="mascot" aria-hidden="true"></div>
+      <p class="bubble" id="bubble" aria-live="polite">— Đói chưa? Bấm cái nút kia đi.</p>
+      <button class="press" id="pickBtn"><span id="pickLabel">CHỌN DÙM</span><kbd>space</kbd></button>
+    </div>
+  </div>
+</main>
+
+<!-- options menu -->
+<div class="scrim" id="scrim" hidden></div>
+<aside class="menu board" id="menu" aria-label="Tùy chọn" hidden>
+  <div class="menu-head">
+    <h2>[tùy chọn]</h2>
+    <button class="icon" id="menuClose" aria-label="Đóng">✕</button>
+  </div>
+
+  <details class="m-sec" open>
+    <summary><h3>Bộ lọc <small id="poolTxt"></small></h3></summary>
+    <div class="f-group"><span>Miền</span><div class="chips" data-filter="region"></div></div>
+    <div class="f-group"><span>Bữa <em id="mealHint"></em></span><div class="chips" data-filter="meal"></div></div>
+    <div class="f-group"><span>Kiểu</span><div class="chips" data-filter="kind"></div></div>
+    <div class="f-group"><span>Thêm</span><div class="chips" data-filter="tag"></div></div>
+    <div class="f-group"><span>Ví tiền</span><div class="chips" data-filter="price"></div></div>
+    <label class="check"><input type="checkbox" id="noRepeat" checked> Không lặp món trong 7 ngày</label>
+    <button class="link" id="resetFilters">Xóa hết bộ lọc</button>
+  </details>
+
+  <details class="m-sec">
+    <summary><h3>Mấy bữa nay ăn</h3></summary>
+    <ol class="history" id="history"></ol>
+  </details>
+
+  <section class="m-sec m-row">
+    <button class="tile" id="dailyBtn"><small>Món của ngày</small><b id="dailyName">…</b></button>
+    <button class="tile" id="groupBtn"><small>Chơi nhóm</small><b>👥 Cả nhóm cùng vote</b></button>
+    <button class="tile" id="lbBtn"><small>Bảng xếp hạng</small><b>🏆 Ai sành ăn nhất tuần</b></button>
+    <button class="tile" id="ppBtn"><small>Hộ chiếu ẩm thực</small><b>📮 Đóng dấu từng tỉnh</b></button>
+    <button class="tile" id="dailyQuizBtn"><small>Đố hôm nay</small><b id="dailyQuizTxt">📅 5 câu chung cho cả nước</b></button>
+    <button class="tile" id="bookBtn"><small>Sổ tay</small><b>Xem hết <span id="bookTotal"></span> món</b></button>
+  </section>
+
+  <details class="m-sec">
+    <summary><h3>Giao diện <small id="skinName"></small></h3></summary>
+    <div class="skins" id="skins" role="radiogroup" aria-label="Giao diện"></div>
+    <label class="check"><input type="checkbox" id="skinRandom"> 🎲 Mỗi lần vào là một giao diện khác</label>
+  </details>
+
+  <section class="m-sec m-row">
+    <button class="pill ghost" id="soundBtn" aria-pressed="true">🔊 Âm thanh</button>
+    <button class="pill ghost" id="ambBtn" aria-pressed="false">🎧 Tiếng quán</button>
+    <label class="check"><input type="checkbox" id="fx3d" checked> 🥣 Bát 3D khi chốt món</label>
+    <label class="check"><input type="checkbox" id="pushOn"> 🔔 Nhắc ăn trưa lúc 11 giờ</label>
+  </section>
+  <p class="m-foot">Ảnh: Wikimedia Commons &amp; Openverse (CC). Âm thanh: Kenney, TinyWorlds, StarNinjas (CC0). Quán: © OpenStreetMap. Thời tiết: Open-Meteo. <a href="CREDITS.md" target="_blank" rel="noopener">Nguồn ảnh</a></p>
+</aside>
+
+<!-- result / dish card -->
+<div class="overlay" id="overlay" hidden>
+  <article class="card board" role="dialog" aria-modal="true" aria-labelledby="mName">
+    <button class="icon close" id="closeModal" aria-label="Đóng">✕</button>
+    <div class="card-photo window" id="mPhoto"></div>
+    <div class="card-body">
+      <p class="kicker" id="mKicker"></p>
+      <h3 class="card-name" id="mName"></h3>
+      <button class="icon say" id="mSay" aria-label="Nghe cách đọc tên món" title="Nghe cách đọc">🔊</button>
+      <p class="card-en" id="mEn"></p>
+      <p class="joke" id="mJoke"></p>
+      <p class="desc" id="mDesc"></p>
+      <div class="history-box" id="mHistory"><h4>📜 Lịch sử ra đời</h4><p></p></div>
+      <div class="more-box" id="mMore" hidden></div>
+      <div class="tags" id="mTags"></div>
+      <div class="actions" id="mActions"></div>
+      <p class="credit" id="mCredit"></p>
+    </div>
+  </article>
+</div>
+
+<!-- notebook -->
+<div class="overlay book-ov" id="book" hidden>
+  <section class="book board" aria-label="Sổ tay món ăn">
+    <div class="book-head">
+      <h2>sổ tay <small id="bookCount"></small></h2>
+      <input class="search" id="search" type="search" placeholder="Tìm món… phở, taco, chè…" autocomplete="off">
+      <button class="icon" id="bookClose" aria-label="Đóng">✕</button>
+    </div>
+    <div class="chips tabs" id="bookTabs"></div>
+    <div class="grid" id="grid"></div>
+    <button class="pill" id="moreBtn">Lật thêm trang</button>
+  </section>
+</div>
+
+<!-- group play -->
+<div class="overlay g-ov" id="group" hidden>
+  <section class="group board" role="dialog" aria-modal="true" aria-label="Chơi nhóm">
+    <div class="book-head"><h2>chơi nhóm</h2><button class="icon" id="groupClose" aria-label="Đóng">✕</button></div>
+    <div class="g-body" id="groupBody"></div>
+  </section>
+</div>
+
+<!-- weekly leaderboard -->
+<div class="overlay" id="lb" hidden>
+  <section class="group board lb" role="dialog" aria-modal="true" aria-label="Bảng xếp hạng tuần">
+    <div class="book-head"><h2>bảng xếp hạng tuần</h2><button class="icon" id="lbClose" aria-label="Đóng">✕</button></div>
+    <div class="g-body" id="lbBody"></div>
+  </section>
+</div>
+
+<!-- food passport -->
+<div class="overlay pp-ov" id="passport" hidden>
+  <section class="passport board" role="dialog" aria-modal="true" aria-label="Hộ chiếu ẩm thực">
+    <div class="book-head"><h2>hộ chiếu ẩm thực</h2><button class="icon" id="ppClose" aria-label="Đóng">✕</button></div>
+    <div class="pp-body"><div class="pp-map" aria-label="Bản đồ các tỉnh"></div><div class="pp-side"></div></div>
+  </section>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<div class="confetti-layer" id="confetti" aria-hidden="true"></div>
+
+<script src="vendor/rough.js"></script>
+<script src="vendor/gsap.min.js"></script>
+<script src="vendor/qrcode.js" defer></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>

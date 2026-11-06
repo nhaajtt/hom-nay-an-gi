@@ -1,0 +1,12 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "homnayangi",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "./", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
+  "durable_objects": { "bindings": [{ "name": "ROOM", "class_name": "Room" }, { "name": "BOARD", "class_name": "Board" }] },
+  "migrations": [{ "tag": "v1", "new_sqlite_classes": ["Room", "Board"] }],
+  "triggers": { "crons": ["0 * * * *"] },
+  "routes": [{ "pattern": "angi.nhaajt.com", "custom_domain": true }],
+  "observability": { "enabled": true }
+}

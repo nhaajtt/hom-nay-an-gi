@@ -1,0 +1,618 @@
+{
+ "bun-bo-hue": {
+  "history": "Món đặc sản cố đô Huế, thường được kể là có từ thời các chúa Nguyễn, gắn với vùng Phú Bài. Chưa có tài liệu chắc chắn về người đầu tiên nấu; thành danh nhờ các quán bình dân ở Huế.",
+  "joke": "Ăn bún bò Huế xong, ớt cay làm mình khóc, sếp tưởng mình xúc động vì deadline."
+ },
+ "com-hen": {
+  "history": "Món dân dã của người Huế, làm từ hến sông Hương, xưa là bữa của người lao động nghèo. Không rõ ai nghĩ ra đầu tiên, chỉ biết ngon, rẻ và đậm vị.",
+  "joke": "Hến bé xíu mà cay xé lưỡi, y như đồng nghiệp nhỏ con mà dí deadline cực gắt."
+ },
+ "bun-hen": {
+  "history": "Biến thể của cơm hến, dùng bún thay cơm, cũng từ vùng sông Hương, Huế. Món dân dã có từ lâu, không rõ người sáng tạo.",
+  "joke": "Bún hến: tô nhỏ, hến nhỏ, ví thì còn nhỏ hơn vào cuối tháng."
+ },
+ "banh-beo-hue": {
+  "history": "Món bánh dân gian lẫn cung đình xứ Huế, tên gọi bắt nguồn từ hình chiếc bánh nhỏ như lá bèo nổi. Chưa rõ thời điểm ra đời cụ thể.",
+  "joke": "Bánh bèo phải ăn cả chục chén mới no, tên bèo mà không bèo ví tiền nha."
+ },
+ "banh-nam-hue": {
+  "history": "Bánh gói lá dong của Huế, làm từ bột gạo, nhân tôm thịt. Là món dân gian lâu đời; nguồn gốc cụ thể chưa có tài liệu rõ ràng.",
+  "joke": "Bóc lá bánh nậm như bóc phong bì lương: hồi hộp xong thấy nhân hơi mỏng."
+ },
+ "banh-loc-hue": {
+  "history": "Bánh bột sắn dai trong, nhân tôm thịt, đặc sản Huế. Món dân gian có từ lâu, không rõ người đầu tiên làm ra.",
+  "joke": "Bánh lọc dai như deadline, nhai mãi mà vẫn chưa xong."
+ },
+ "banh-khoai-hue": {
+  "history": "Bánh giòn nhân tôm thịt, ăn kèm nước lèo, có nguồn gốc ở Huế; có người xem là họ hàng với bánh xèo. Thời điểm ra đời chưa được ghi chép rõ.",
+  "joke": "Bánh khoái, nghe tên là khoái liền, ăn xong khoái thật còn ví thì hơi đau."
+ },
+ "banh-ep-hue": {
+  "history": "Bánh ép nhân tôm thịt kiểu Huế, nướng vàng giòn. Là món ăn vặt dân gian, nguồn gốc chính xác không được ghi lại rõ ràng.",
+  "joke": "Bánh ép Huế bị ép cả ngày giống mình, nhưng nó giòn còn mình thì rã."
+ },
+ "nem-lui-hue": {
+  "history": "Thịt heo xay quấn sả nướng, nổi tiếng ở Huế, thường được kể là có từ thời triều Nguyễn. Chi tiết nguồn gốc chưa được xác thực rõ ràng.",
+  "joke": "Nem lụi nướng xong thơm tới mức cả văn phòng quay sang nhìn mình ăn trưa."
+ },
+ "tom-chua-hue": {
+  "history": "Món tôm ủ chua ngọt, gắn với ẩm thực Huế và mâm cỗ truyền thống. Không có tài liệu chắc chắn về thời điểm hay người sáng tạo.",
+  "joke": "Tôm chua Huế chua ngọt y như crush: khó đoán nhưng cứ muốn thử."
+ },
+ "com-am-phu": {
+  "history": "Món cơm trộn nhiều thứ ăn nguội của Huế, tên nghe lạ vì ăn đơn giản như đồ cúng. Chưa rõ nguồn gốc chính xác, chỉ biết đây là món Huế được yêu thích.",
+  "joke": "Cơm âm phủ nghe rợn nhưng ăn vào là lên thiên đường, trừ lúc trả tiền."
+ },
+ "banh-phu-the": {
+  "history": "Bánh cưới truyền thống của người Huế, tượng trưng cho tình vợ chồng (phu thê). Gắn với lễ cưới từ lâu; năm ra đời cụ thể không rõ.",
+  "joke": "Ăn bánh phu thê một mình là cách chúc mừng độc thân vui vẻ nhất."
+ },
+ "me-xung-hue": {
+  "history": "Kẹo mè dẻo, đặc sản Huế, thường được mua làm quà. Là món truyền thống lâu đời; người đầu tiên làm ra thì không rõ.",
+  "joke": "Mè xửng dính răng mãi không thôi, giống kỷ niệm với người yêu cũ vậy."
+ },
+ "banh-tom-ho-tay": {
+  "history": "Bánh tôm chiên giòn vốn gắn với vùng Hồ Tây, Hà Nội, và cũng có bản địa phương ở Huế. Nguồn gốc bản Huế chưa được ghi chép rõ ràng.",
+  "joke": "Bánh tôm: tôm thì ít, dầu thì nhiều, y như hợp đồng của mình."
+ },
+ "bun-thit-nuong-hue": {
+  "history": "Bún ăn với thịt heo nướng kiểu Huế, nước mắm đậm vị riêng. Là món bình dân; không rõ thời điểm và người phổ biến đầu tiên.",
+  "joke": "Bún thịt nướng: ăn xong mới biết mình hết calories để burn cho cả tuần."
+ },
+ "banh-canh-nam-pho": {
+  "history": "Bánh canh sợi bột gạo gắn với làng Nam Phổ ở ngoại ô Huế, nổi tiếng với nước lèo sánh và chả tôm. Chưa rõ năm ra đời.",
+  "joke": "Bánh canh Nam Phổ: nước sánh như tâm trạng sáng thứ Hai, ăn xong mới tỉnh."
+ },
+ "banh-canh-cua-hue": {
+  "history": "Bánh canh nấu với cua, phổ biến ở Huế. Món dân dã, nguồn gốc cụ thể không được ghi lại rõ ràng.",
+  "joke": "Bánh canh cua: ăn xong tay dính, miệng dính, ví thì dính nợ."
+ },
+ "bun-rieu-hue": {
+  "history": "Bún riêu cua đồng kiểu Huế, thường nêm mắm ruốc đặc trưng. Món dân gian; chưa có ghi chép về nguồn gốc cụ thể.",
+  "joke": "Bún riêu Huế nhớ mùi mắm ruốc như nhớ người yêu cũ: ám ảnh nhưng thương."
+ },
+ "banh-bot-loc-la-hue": {
+  "history": "Bánh ít Huế gói lá, nhân tôm thịt hoặc đậu xanh. Là món bánh dân gian lâu đời; năm tháng ra đời thì không rõ.",
+  "joke": "Bánh ít, ăn ít thôi... nói vậy chứ ai nhịn nổi ba cái."
+ },
+ "chao-ca-hue": {
+  "history": "Cháo cá nấu theo kiểu Huế, nêm gia vị đậm và ăn kèm rau thơm. Món dân dã, nguồn gốc chưa được ghi chép chính xác.",
+  "joke": "Cháo cá ăn cho ấm bụng, vì lòng đã nguội từ lúc đọc tin nhắn sếp."
+ },
+ "che-hue-thap-cam": {
+  "history": "Chè nhiều loại hạt, đậu, trái cây, đặc trưng của ẩm thực chè xứ Huế vốn nổi tiếng đa dạng. Chưa rõ ai sáng tạo đầu tiên.",
+  "joke": "Chè thập cẩm: chọn hoài không được nên lấy hết, giống cách mình xử lý to-do list."
+ },
+ "che-bap-hue": {
+  "history": "Chè bắp nấu từ bắp non và nếp dẻo, phổ biến khắp Huế. Món dân gian; không rõ thời điểm xuất hiện.",
+  "joke": "Chè bắp ngọt nhẹ, hợp để an ủi bản thân sau cuộc họp dài 3 tiếng."
+ },
+ "che-hat-sen-hue": {
+  "history": "Chè hạt sen gắn với Huế, nơi có nhiều đầm sen và truyền thống ẩm thực cầu kỳ. Thời điểm ra đời cụ thể chưa rõ.",
+  "joke": "Chè hạt sen thanh tâm, ăn xong thấy bình yên, cho đến khi mở Slack."
+ },
+ "che-dau-ngu": {
+  "history": "Chè nấu từ đậu ngự, loại đậu đặc sản Huế, theo lời kể dân gian từng dành cho vua chúa. Chi tiết lịch sử cụ thể khó kiểm chứng.",
+  "joke": "Chè đậu ngự: ăn như vua, trả tiền như dân thường."
+ },
+ "che-hem-hue": {
+  "history": "Chè hẻm là cách gọi những quán chè bình dân nằm trong hẻm nhỏ ở Huế, nổi tiếng với chè thập cẩm giá rẻ. Không rõ thời điểm bắt đầu.",
+  "joke": "Quán chè nằm sâu trong hẻm, giống đồng nghiệp ngồi sâu trong góc trốn họp."
+ },
+ "che-bot-loc-heo-quay": {
+  "history": "Món chè lạ ở Huế, ăn với bột lọc bọc thịt quay, vị ngọt mặn đặc trưng. Không có tài liệu về người nghĩ ra.",
+  "joke": "Chè mà có thịt quay, vừa ngọt vừa mặn, đúng chất cuộc đời mình."
+ },
+ "che-ba-mau-hue": {
+  "history": "Chè bánh lọt kiểu Huế, thường có nước cốt dừa và đá bào. Là món chè dân gian; nguồn gốc không được ghi chép rõ.",
+  "joke": "Chè bánh lọt trượt tuột, y như mục tiêu giảm cân của mình."
+ },
+ "banh-tet-la-cam": {
+  "history": "Bánh tét nhuộm tím bằng lá cẩm, quen thuộc ở Quảng Nam và miền Trung. Thường gắn với Tết, chưa rõ người sáng tạo.",
+  "joke": "Bánh tét lá cẩm tím như mặt mình lúc đọc báo cáo cuối tháng."
+ },
+ "bun-bo-gio-heo-hue": {
+  "history": "Bún bò Huế dùng giò heo làm nhân chính, rất phổ biến. Chưa rõ ai bắt đầu và năm nào, chỉ biết nó gắn với bún bò Huế truyền thống.",
+  "joke": "Bún giò heo to như cái chậu, ăn xong ngủ luôn, đừng ai gọi họp."
+ },
+ "banh-canh-ca-loc-quang-tri": {
+  "history": "Bánh canh nấu với cá lóc, món quen thuộc ở Quảng Trị, nơi nhiều sông ngòi ao hồ. Chi tiết nguồn gốc không được ghi chép rõ.",
+  "joke": "Bánh canh cá lóc: ăn xong khỏi cần lóc cóc đi tìm gì khác, no là chính."
+ },
+ "banh-uot-thit-nuong-quang-tri": {
+  "history": "Bánh ướt cuốn thịt nướng kiểu Quảng Trị, dân dã, ăn kèm nước chấm riêng. Không rõ ai sáng tạo đầu tiên.",
+  "joke": "Bánh ướt thịt nướng ăn nhanh quá, chưa kịp đăng story thì đã hết."
+ },
+ "bun-bo-quang-tri": {
+  "history": "Mì Quảng phiên bản Quảng Trị, mang nét riêng của vùng đất này. Nguồn gốc chi tiết chưa được ghi lại chính xác.",
+  "joke": "Mì Quảng Trị: gần Huế nhưng đừng gọi nhầm là bún bò, quán sẽ nhìn mình lạ lắm."
+ },
+ "banh-xeo-quang-tri": {
+  "history": "Bánh xèo kiểu Quảng Trị, giòn rụm, cuốn rau sống ăn kèm. Món dân dã, không rõ thời điểm ra đời.",
+  "joke": "Bánh xèo kêu xèo xèo, y chang tiếng thở dài của mình trước deadline."
+ },
+ "mi-quang": {
+  "history": "Món đặc trưng của Quảng Nam, sợi mì dày, nước dùng ít, ăn kèm bánh tráng nướng. Không ai nhớ ai nghĩ ra, chỉ nhớ là ngon.",
+  "joke": "Mì Quảng ít nước nhưng nhiều drama, hỏi ai cũng cãi nhau nên cho thêm đậu phộng."
+ },
+ "mi-quang-ga": {
+  "history": "Biến thể mì Quảng nấu với gà ta, rất phổ biến ở Quảng Nam. Món dân dã, nguồn gốc cụ thể chưa rõ.",
+  "joke": "Mì Quảng gà: gà đi bộ cả đời, mình ngồi bàn làm việc cả ngày, cùng một mệt."
+ },
+ "mi-quang-tom-thit": {
+  "history": "Phiên bản mì Quảng truyền thống với tôm và thịt heo, được xem là kiểu cơ bản nhất. Chưa có tài liệu rõ về người đầu tiên nấu.",
+  "joke": "Mì Quảng tôm thịt: tôm chưa kịp nói gì thì đã nằm trong bụng."
+ },
+ "mi-quang-ech": {
+  "history": "Biến thể mì Quảng nấu với ếch đồng, vị ngọt thịt ếch, quen thuộc ở vùng quê Quảng Nam. Không rõ thời điểm ra đời.",
+  "joke": "Mì Quảng ếch, nghe lạ nhưng ngon, như người mới vào công ty mà đã nghỉ trưa chuẩn."
+ },
+ "mi-quang-ca-loc": {
+  "history": "Mì Quảng nấu với cá lóc, quen thuộc ở vùng sông nước Quảng Nam. Món dân dã, không rõ nguồn gốc cụ thể.",
+  "joke": "Mì Quảng cá lóc: cá lóc nhảy vào tô, mình nhảy vào bàn ăn luôn."
+ },
+ "cao-lau": {
+  "history": "Mì đặc sản Hội An, tương truyền sợi mì ngâm nước giếng Bá Lễ và tro cây địa phương. Nhiều người cho là chịu ảnh hưởng thương nhân Nhật, Hoa; chưa có kết luận rõ ràng.",
+  "joke": "Cao lầu chính hiệu khó nấu ngoài Hội An, cũng như khó tìm lý do để không đi du lịch."
+ },
+ "com-ga-hoi-an": {
+  "history": "Cơm nấu bằng nước luộc gà, trộn hành, gà xé và rau răm, nổi tiếng ở Hội An. Không rõ người sáng tạo đầu tiên.",
+  "joke": "Cơm gà Hội An thơm tới mức bỏ quên cả story đang quay."
+ },
+ "com-ga-tam-ky": {
+  "history": "Cơm gà đặc sản thành phố Tam Kỳ, Quảng Nam, nấu cơm bằng nước luộc gà. Chưa rõ thời điểm ra đời và người sáng tạo.",
+  "joke": "Cơm gà Tam Kỳ: gà luộc vàng ươm, đẹp hơn ảnh đại diện LinkedIn của mình."
+ },
+ "banh-mi-phuong": {
+  "history": "Tiệm bánh mì nổi tiếng ở Hội An, được đầu bếp Anthony Bourdain khen năm 2011, nên nổi tiếng với khách quốc tế. Tiệm đã có từ trước đó.",
+  "joke": "Bánh mì Phượng: xếp hàng 20 phút vì một ổ bánh mì, và mình không hối hận."
+ },
+ "banh-bao-banh-vac": {
+  "history": "Bánh trắng trong nhân tôm thịt, đặc sản Hội An, còn gọi là hoa hồng trắng. Món có từ lâu, nguồn gốc cụ thể không rõ.",
+  "joke": "Bánh vạc đẹp như hoa nhưng ăn một cái là hết, giống tiền lương vậy."
+ },
+ "hoanh-thanh-chien-hoi-an": {
+  "history": "Hoành thánh chiên giòn kiểu Hội An, ăn kèm sốt chua ngọt, chịu ảnh hưởng ẩm thực người Hoa. Không rõ năm ra đời.",
+  "joke": "Hoành thánh chiên giòn tan, kêu rôm rốp, hơn cả cái tai nghe không dây của mình."
+ },
+ "che-bap-hoi-an": {
+  "history": "Chè bắp ở Hội An, ngọt thanh và dẻo, là món quà vặt quen thuộc. Không rõ nguồn gốc cụ thể.",
+  "joke": "Chè bắp Hội An ngọt vừa phải, đúng chuẩn mục tiêu sống chill của mình."
+ },
+ "banh-bo-hoi-an": {
+  "history": "Bánh đập Hội An gồm bánh tráng nướng giòn đập lên bánh ướt, chấm nước mắm, là món dân dã quen thuộc. Chưa rõ thời điểm ra đời.",
+  "joke": "Bánh đập: đập đập mới ngon, giống cách mình đập laptop khi nó đơ."
+ },
+ "bo-thui-cau-mong": {
+  "history": "Bê thui đặc sản gần cầu Mống, Quảng Nam, thịt bê thui vàng thái mỏng ăn kèm rau thơm. Món có từ lâu; chi tiết nguồn gốc chưa rõ.",
+  "joke": "Bê thui Cầu Mống: ăn xong cũng muốn thui luôn deadline cho gọn."
+ },
+ "banh-trang-cuon-thit-heo": {
+  "history": "Món đặc trưng Đà Nẵng và miền Trung: thịt heo luộc cuốn bánh tráng với rau sống, chấm mắm nêm. Không rõ ai nghĩ ra, chỉ biết món này đã gắn với đất Quảng Đà từ lâu.",
+  "joke": "Bánh tráng cuốn thịt heo: tự cuốn, tự ăn, tự thấy mình là đầu bếp."
+ },
+ "bun-cha-ca-da-nang": {
+  "history": "Bún chả cá nước dùng ngọt từ cá biển, nổi tiếng ở Đà Nẵng vốn gần biển. Món bình dân; không rõ thời điểm và người sáng tạo.",
+  "joke": "Bún chả cá sáng sớm là liều thuốc cứu mình trước khi vào họp."
+ },
+ "bun-mam-nem": {
+  "history": "Bún ăn với mắm nêm, thịt heo, rau sống, đặc trưng Đà Nẵng. Không có ghi chép rõ về nguồn gốc cụ thể.",
+  "joke": "Bún mắm nêm: mùi đủ làm cả văn phòng biết hôm nay mình ăn gì."
+ },
+ "banh-xeo-da-nang": {
+  "history": "Bánh xèo Đà Nẵng nhỏ, giòn, ăn kèm nem lụi và rau sống, chấm tương đậu phộng. Món dân dã, nguồn gốc chưa rõ.",
+  "joke": "Bánh xèo cuốn rau xong tay đầy dầu, bàn phím cũng hưởng phước."
+ },
+ "goi-ca-nam-o": {
+  "history": "Gỏi cá sống làng Nam Ô, nay thuộc quận Liên Chiểu, Đà Nẵng, làm từ cá trích tươi, nổi tiếng gắn với làng nước mắm Nam Ô. Chưa rõ năm ra đời.",
+  "joke": "Gỏi cá Nam Ô tươi rói, còn mình thì héo vì đợi lương."
+ },
+ "banh-xeo-tom-nhay": {
+  "history": "Bánh xèo tôm nhảy là đặc sản Bình Định, dùng tôm đất còn nhảy tanh tách bỏ vào chảo. Món dân dã, chưa rõ người đầu tiên làm.",
+  "joke": "Tôm còn nhảy trong bánh, mình còn nhảy việc, cả hai đều hơi tội."
+ },
+ "banh-canh-cha-ca-da-nang": {
+  "history": "Bánh canh chả cá nước trong, ngọt cá biển, quen thuộc ở Đà Nẵng. Món dân gian; không rõ nguồn gốc cụ thể.",
+  "joke": "Bánh canh chả cá húp xoạt xoạt, bạn bè bảo ăn bốc nhưng mình bảo đang no."
+ },
+ "banh-trang-nuong-da-lat": {
+  "history": "Bánh tráng nướng là món ăn vặt nổi tiếng của Đà Lạt, thường gọi là pizza Việt. Nguồn gốc và thời gian ra đời chưa được ghi chép rõ.",
+  "joke": "Bánh tráng nướng Đà Lạt: pizza dân tộc, giá học sinh, ăn xong thành người lớn no nê."
+ },
+ "banh-ep-da-nang": {
+  "history": "Bánh tráng kẹp là món ăn vặt Đà Nẵng, kẹp bánh tráng nướng với dừa, đường, mè. Nguồn gốc cụ thể chưa có tài liệu rõ.",
+  "joke": "Bánh tráng kẹp: ăn vặt mà hết cả túi, vặt bản thân luôn."
+ },
+ "banh-tam-bi": {
+  "history": "Món bánh tằm trộn với bì, rau thơm và nước cốt dừa, xuất phát từ vùng Quảng Nam. Chưa rõ thời gian và người sáng tạo.",
+  "joke": "Bánh tằm bì: sợi thì dài, deadline thì ngắn, cuộc đời bất công."
+ },
+ "oc-hap-da-nang": {
+  "history": "Ốc hút, tức ốc luộc hoặc hấp ăn bằng cách hút, là món nhậu quen thuộc ở Đà Nẵng. Nguồn gốc cụ thể không được ghi chép.",
+  "joke": "Ốc hút Đà Nẵng: hút cạn nước ốc, hút luôn cả ngân sách cuối tuần."
+ },
+ "mi-quang-cua-da-nang": {
+  "history": "Bê tái chanh là món gỏi bê thái mỏng trộn chanh, phổ biến ở Quảng Nam. Chưa rõ người nghĩ ra và thời gian ra đời.",
+  "joke": "Bê tái chanh chua nhẹ, giúp mình tỉnh táo hơn ly cà phê thứ ba."
+ },
+ "banh-xeo-quy-nhon": {
+  "history": "Bánh xèo Quy Nhơn nhỏ, giòn, thường ăn kèm bánh tráng và rau sống. Không rõ nguồn gốc cụ thể.",
+  "joke": "Bánh xèo Quy Nhơn nhỏ gọn, nhưng ăn một lúc cả đĩa vẫn hết, ngạc nhiên chưa."
+ },
+ "bun-ca-quy-nhon": {
+  "history": "Bún cá Quy Nhơn dùng cá biển, nước dùng ngọt, là món đặc trưng thành phố biển Bình Định. Không có ghi chép rõ về ai nấu đầu tiên.",
+  "joke": "Bún cá Quy Nhơn: ăn sáng xong cảm giác như đi biển, chỉ thiếu cái nắng."
+ },
+ "banh-hoi-heo-quay": {
+  "history": "Bánh hỏi ăn với heo quay là món đặc sản Bình Định, thường xuất hiện trong tiệc và quán ăn. Chưa rõ nguồn gốc chính xác.",
+  "joke": "Bánh hỏi heo quay: hỏi ăn bao nhiêu thì mình trả lời, bao nhiêu cũng được."
+ },
+ "banh-it-la-gai": {
+  "history": "Bánh ít lá gai là đặc sản Bình Định, vỏ đen từ lá gai, nhân đậu xanh, dừa. Món truyền thống lâu đời; nguồn gốc cụ thể chưa rõ.",
+  "joke": "Bánh ít lá gai đen thui, như màn hình lúc mình quên sạc laptop."
+ },
+ "banh-it-ram": {
+  "history": "Bánh ít ram là món ăn vặt Bình Định gồm bánh ít chiên giòn ăn cùng ram. Chưa có tài liệu rõ về nguồn gốc.",
+  "joke": "Bánh ít ram: ăn cho vui, ai ngờ hết cả đĩa."
+ },
+ "nem-chua-chao-binh-dinh": {
+  "history": "Nem chợ Huyện là đặc sản Bình Định, gắn với chợ Huyện ở Tuy Phước, nổi tiếng với nem chua cay. Chưa rõ năm ra đời cụ thể.",
+  "joke": "Nem chợ Huyện chua cay như đòn đau của deadline, nhưng vẫn muốn thêm một xiên."
+ },
+ "banh-canh-he": {
+  "history": "Bánh canh hẹ là món nước dân dã của Bình Định, có hẹ làm gia vị chủ đạo. Không rõ nguồn gốc cụ thể.",
+  "joke": "Bánh canh hẹ thơm nồng, ăn xong hơi thở có mùi, nhưng bụng thì vui."
+ },
+ "bun-song-than": {
+  "history": "Bún song thần là món đặc sản Bình Định, nấu với hai loại chả khác nhau, nên có tên song thần. Không rõ ai đặt tên.",
+  "joke": "Bún song thần: hai loại chả trong một tô, y như mình có hai việc trong một ngày."
+ },
+ "bun-tuong-binh-dinh": {
+  "history": "Bún tưới là bún trộn kiểu Bình Định, ăn với nước tưới và đồ ăn kèm. Chưa rõ nguồn gốc rõ ràng.",
+  "joke": "Bún tưới: tưới nước mắm, tưới ớt, tưới cả ý chí sống tiếp."
+ },
+ "banh-xeo-ca-kinh": {
+  "history": "Bánh xèo cá kình là món lạ ở Bình Định, nhân cá kình (tên gọi địa phương). Chưa có nguồn xác nhận về thời điểm ra đời.",
+  "joke": "Bánh xèo cá kình: nghe lạ lắm nhưng ăn thử mới biết mình có gu ẩm thực."
+ },
+ "tai-heo-ngam-chao": {
+  "history": "Bò nướng ngói là món đặc sản Bình Định, bò nướng trên viên ngói nóng. Chưa rõ nguồn gốc lịch sử cụ thể.",
+  "joke": "Bò nướng ngói: nướng thịt trên ngói, còn mình thì nướng deadline trên kệ."
+ },
+ "ruou-bau-da": {
+  "history": "Rượu Bàu Đá là rượu gạo nổi tiếng ở Cù Lao, Bình Định, gắn với nguồn nước giếng Bàu Đá. Thời điểm hình thành chưa rõ ràng.",
+  "joke": "Rượu Bàu Đá uống ít thôi, mai còn họp lúc 9 giờ nhé."
+ },
+ "banh-xeo-quang-ngai": {
+  "history": "Bánh xèo Quảng Ngãi giòn, nhỏ, cuốn rau ăn kèm mắm. Món dân gian; nguồn gốc chưa rõ.",
+  "joke": "Bánh xèo Quảng Ngãi giòn rụm, mình cắn một cái là bye bye ăn kiêng."
+ },
+ "com-ga-quang-ngai": {
+  "history": "Cơm gà Quảng Ngãi dùng gà ta và nước luộc nấu cơm, một món quen thuộc ở địa phương. Chưa rõ người đầu tiên làm.",
+  "joke": "Cơm gà Quảng Ngãi: gà luộc, cơm vàng, ví thì lỏng."
+ },
+ "don-quang-ngai": {
+  "history": "Don là loại nhuyễn thể nhỏ ở sông, đặc sản Quảng Ngãi, thường xào hoặc nấu canh. Chưa có tài liệu rõ về nguồn gốc món ăn.",
+  "joke": "Don nhỏ xíu, bóc hoài mới đủ một chén, kiên nhẫn như đi làm lương thấp."
+ },
+ "banh-xeo-ram-cuon-cai": {
+  "history": "Ram cuốn cải là món ăn Quảng Ngãi, ram chiên giòn cuốn cải xanh với rau sống. Chưa rõ nguồn gốc cụ thể.",
+  "joke": "Ram cuốn cải: cuốn rau để tự nhủ mình đang ăn healthy."
+ },
+ "cha-ca-quang-ngai": {
+  "history": "Cá bống sông Trà là đặc sản Quảng Ngãi, cá nhỏ kho tiêu hoặc nấu canh, gắn với sông Trà Khúc. Chưa rõ thời điểm.",
+  "joke": "Cá bống sông Trà kho tiêu cay xè, ăn một miếng là cạn hết nồi cơm."
+ },
+ "keo-guong": {
+  "history": "Kẹo gương Quảng Ngãi là kẹo mạch nha dẻo, kẹp bánh tráng mỏng, là đặc sản địa phương. Thời điểm xuất hiện chưa được ghi chép rõ.",
+  "joke": "Kẹo gương ngọt tới mức soi vào là thấy mình đang cười ngu ngơ."
+ },
+ "mach-nha": {
+  "history": "Mạch nha là kẹo hay đường mạch nha nấu từ lúa mạch, đặc sản Quảng Ngãi. Có từ lâu đời; người đầu tiên làm ra thì không rõ.",
+  "joke": "Mạch nha dẻo quánh, ăn xong dính răng giống drama tối qua."
+ },
+ "banh-bong-lan": {
+  "history": "Bánh bột lọc Quảng Ngãi dai trong, nhân tôm thịt, là món ăn quen thuộc. Nguồn gốc chưa được ghi chép rõ.",
+  "joke": "Bánh bột lọc dai quá, cắn xong tưởng đang nhai deadline."
+ },
+ "mi-phu-yen": {
+  "history": "Mì Phú Yên là món mì nước dân dã của vùng đất này, vị ngọt từ xương và hải sản. Chưa rõ nguồn gốc cụ thể.",
+  "joke": "Mì Phú Yên ăn xong thấy tâm hồn như cánh đồng hoa vàng cỏ xanh."
+ },
+ "banh-canh-he-phu-yen": {
+  "history": "Bánh canh hẹ Phú Yên là món nước đặc trưng với rau hẹ, nấu nước dùng ngọt. Không rõ người sáng tạo.",
+  "joke": "Bánh canh hẹ Phú Yên: một tô là đủ ấm bụng khi gió biển thổi."
+ },
+ "ca-ngu-dai-duong": {
+  "history": "Cá ngừ đại dương được đánh bắt ở vùng biển Phú Yên, thịt đỏ tươi, ăn kiểu sashimi hoặc nướng. Nghề đánh bắt phát triển mạnh trong những thập niên gần đây.",
+  "joke": "Cá ngừ đại dương tươi quá, nhìn mình bơi ngoài kia mới thấy mình lạc lõng."
+ },
+ "so-huyet-o-loan": {
+  "history": "Sò huyết đầm Ô Loan (Phú Yên) là đặc sản nổi tiếng, nuôi trong đầm nước lợ. Chưa rõ thời điểm bắt đầu khai thác.",
+  "joke": "Sò huyết Ô Loan ăn xong tay dính huyết, nhìn như phim kinh dị hài hước."
+ },
+ "banh-hoi-long-heo": {
+  "history": "Bánh hỏi lòng heo là món dân dã Phú Yên, bánh hỏi ăn kèm lòng heo và nước mắm. Nguồn gốc chưa rõ.",
+  "joke": "Bánh hỏi lòng heo: nghe lạ lùng nhưng ăn là nghiện, chuẩn kiểu Gen Z."
+ },
+ "banh-xeo-phu-yen": {
+  "history": "Bánh xèo Phú Yên giòn, nhỏ, ăn kèm rau sống và mắm. Món dân dã; không rõ thời điểm ra đời.",
+  "joke": "Bánh xèo Phú Yên: ăn xong tay dầu, môi dầu, lòng đầy yêu thương."
+ },
+ "bun-ca-nha-trang": {
+  "history": "Bún cá Nha Trang dùng cá biển như cá thu, cá dầm, nước dùng ngọt thanh, là món sáng quen thuộc của thành phố biển. Chưa rõ người nấu đầu tiên.",
+  "joke": "Bún cá Nha Trang ăn sáng xong, cả ngày chỉ muốn nghỉ mát chứ không muốn họp."
+ },
+ "bun-cha-ca-nha-trang": {
+  "history": "Bún chả cá Nha Trang có chả cá chiên hoặc hấp, nước dùng ngọt cá. Món bình dân; không rõ thời điểm ra đời.",
+  "joke": "Bún chả cá: chả cá chiên giòn, mình thì chiên cả ngày dưới điều hòa mà vẫn mệt."
+ },
+ "bun-sua-nha-trang": {
+  "history": "Bún sứa là món độc đáo của Nha Trang, dùng sứa biển giòn sần sật, ăn với bún và nước dùng cá. Chưa có ghi chép rõ về nguồn gốc.",
+  "joke": "Bún sứa giòn sần sật, ăn xong mới biết biển cũng có người lo cho dân văn phòng."
+ },
+ "banh-canh-cha-ca-nha-trang": {
+  "history": "Bánh canh chả cá Nha Trang nước dùng thanh, có chả cá tươi. Món dân gian; nguồn gốc cụ thể không rõ.",
+  "joke": "Bánh canh chả cá húp nóng thế này, quên luôn ví tiền vợi dần."
+ },
+ "banh-canh-cha-ca-cu": {
+  "history": "Bánh canh Ninh Hòa nấu nước dùng ngọt, ăn kèm chả cá hoặc giò, quen thuộc ở thị xã Ninh Hòa, Khánh Hòa. Chưa rõ năm ra đời.",
+  "joke": "Bánh canh Ninh Hòa: tô bự, nước nóng, và mình tự dưng hết buồn."
+ },
+ "nem-nuong-ninh-hoa": {
+  "history": "Nem nướng Ninh Hòa là đặc sản nổi tiếng của vùng này, cuốn bánh tráng với rau sống, chấm nước tương đặc biệt. Nguồn gốc cụ thể chưa được ghi chép rõ.",
+  "joke": "Nem nướng Ninh Hòa cuốn bánh tráng, cuốn cả nỗi buồn lẫn deadline."
+ },
+ "banh-xeo-nha-trang": {
+  "history": "Bánh xèo Nha Trang nhỏ, vàng giòn, thường ăn kèm nem nướng. Món dân dã, không rõ nguồn gốc cụ thể.",
+  "joke": "Bánh xèo Nha Trang nhỏ xinh nhưng ăn 6 cái mới đủ no, giống KPI."
+ },
+ "banh-uot-cha-ram": {
+  "history": "Bánh ướt chả ram là món phổ biến ở Nha Trang, bánh ướt mỏng ăn với chả ram giòn. Chưa có tài liệu rõ về nguồn gốc.",
+  "joke": "Bánh ướt chả ram: bánh mềm, chả giòn, giống ngày làm việc có lúc êm lúc dữ."
+ },
+ "banh-mi-chao": {
+  "history": "Bánh mì chảo gồm trứng ốp la, pate, xúc xích trên chảo nóng ăn kèm bánh mì, phổ biến ở Nha Trang. Nguồn gốc cụ thể chưa rõ.",
+  "joke": "Bánh mì chảo nóng hổi, trứng ốp la nhìn mình trìu mến như crush chưa seen."
+ },
+ "banh-can-nha-trang": {
+  "history": "Bánh căn Nha Trang nướng trong khuôn đất nhỏ, ăn với nước mắm hoặc nước lèo. Món dân dã, thời điểm ra đời không rõ.",
+  "joke": "Bánh căn Nha Trang nhỏ xinh, ăn cả khay mà vẫn đòi thêm một khay nữa."
+ },
+ "banh-tam-nha-trang": {
+  "history": "Bánh tằm Nha Trang với nước cốt dừa, nước mắm và đồ ăn kèm. Chưa có ghi chép rõ về nguồn gốc.",
+  "joke": "Bánh tằm mềm mềm trơn trơn, ăn xong trượt luôn cái ý định diet."
+ },
+ "oc-huong-nha-trang": {
+  "history": "Ốc hương Nha Trang rang muối ớt hoặc hấp, là món hải sản nổi tiếng. Chưa rõ thời điểm ra đời.",
+  "joke": "Ốc hương rang muối ớt: cay xé lưỡi, nhưng tay vẫn bốc tiếp."
+ },
+ "tom-hum-nha-trang": {
+  "history": "Tôm hùm Nha Trang được nuôi ở các vịnh, đảo như Bình Ba, Bình Hưng, là đặc sản đắt giá. Nghề nuôi phát triển mạnh từ khoảng thập niên 1990.",
+  "joke": "Tôm hùm Nha Trang đắt tiền đến mức mình chỉ dám ngắm rồi khoe với bạn bè."
+ },
+ "ca-nuc-nuong": {
+  "history": "Cá nục nướng là món dân dã của vùng biển Khánh Hòa. Chưa rõ nguồn gốc cụ thể, chỉ biết nó gắn với bữa cơm ngư dân.",
+  "joke": "Cá nục nướng thơm lừng, mùi khói cuốn mình về tuổi thơ."
+ },
+ "cha-ca-nha-trang": {
+  "history": "Chả cá Nha Trang làm từ cá tươi giã nhuyễn, chiên hoặc hấp, là đặc sản vùng biển này. Chưa rõ người đầu tiên làm.",
+  "joke": "Chả cá Nha Trang ăn không cũng đã ngon, ăn với bún thì vô đối."
+ },
+ "chao-vit-nha-trang": {
+  "history": "Cháo vịt Nha Trang nấu từ vịt, nêm gia vị đậm, thường ăn khuya hoặc sáng sớm. Chưa có tài liệu rõ về nguồn gốc.",
+  "joke": "Cháo vịt ăn khuya xong mới hiểu mình cô đơn mà bụng ấm."
+ },
+ "sua-chua-nha-trang": {
+  "history": "Sữa chua Nha Trang là món tráng miệng nổi tiếng với vị chua ngọt, thường làm quà. Chưa rõ nguồn gốc chính xác.",
+  "joke": "Sữa chua Nha Trang chua chua ngọt ngọt, giống tình cảm tuổi mới lớn."
+ },
+ "yen-sao-khanh-hoa": {
+  "history": "Yến sào Khánh Hòa nổi tiếng với tổ yến ở các đảo ngoài khơi Nha Trang. Nghề khai thác yến có lịch sử lâu đời, chi tiết thời điểm cụ thể không rõ.",
+  "joke": "Yến sào bổ dưỡng thật, nhưng đắt cỡ tháng lương của mình."
+ },
+ "nem-nuong-nha-trang": {
+  "history": "Nem nướng Nha Trang cuốn bánh tráng cùng rau sống, chấm nước tương đặc trưng. Món gắn với nem nướng Ninh Hòa; không rõ nguồn gốc riêng.",
+  "joke": "Nem nướng Nha Trang cuốn cả bó rau, vì nghĩ mình đang ăn lành mạnh."
+ },
+ "banh-xeo-ninh-thuan": {
+  "history": "Bánh xèo Ninh Thuận giòn, vàng, ăn kèm rau và nước mắm. Món dân dã; chưa rõ nguồn gốc cụ thể.",
+  "joke": "Bánh xèo Ninh Thuận nắng gió, ăn một cái là xèo luôn nỗi buồn."
+ },
+ "banh-can-phan-rang": {
+  "history": "Bánh căn Phan Rang nướng trong khuôn đất, ăn với nước mắm, trứng, hải sản. Chưa có tài liệu rõ về nguồn gốc.",
+  "joke": "Bánh căn Phan Rang: ăn một mâm là thấy đời tươi sáng."
+ },
+ "ga-nuong-ninh-thuan": {
+  "history": "Cơm gà Ninh Thuận nấu cơm bằng nước luộc gà, ăn với gà xé và rau. Món dân dã; không rõ người sáng tạo.",
+  "joke": "Cơm gà Ninh Thuận: ăn xong nắng gắt cũng thành dễ thương."
+ },
+ "de-nuong-ninh-thuan": {
+  "history": "Dê nướng là món đặc sản vùng khô hạn Ninh Thuận, nơi nuôi dê nhiều. Không rõ ai chế biến đầu tiên.",
+  "joke": "Dê nướng Ninh Thuận: ăn xong thấy mình cứng cáp, sẵn sàng đối đầu với sếp."
+ },
+ "cuu-nuong-ninh-thuan": {
+  "history": "Cừu nướng là đặc sản Ninh Thuận, nơi có đồng cỏ nuôi cừu hiếm gặp ở Việt Nam. Thịt cừu được chế biến thành nhiều món.",
+  "joke": "Cừu nướng Ninh Thuận: ăn xong đếm cừu mãi vẫn không ngủ được, no quá."
+ },
+ "tom-hum-vinh-hy": {
+  "history": "Tôm hùm Vĩnh Hy được nuôi ở vịnh Vĩnh Hy, Ninh Thuận, nước trong. Nghề nuôi phát triển từ thập niên 1990.",
+  "joke": "Tôm hùm Vĩnh Hy: ăn xong bụng nở, ví thì teo, nhưng mà đáng."
+ },
+ "banh-canh-cha-ca-phan-rang": {
+  "history": "Bánh canh chả cá Phan Rang có nước dùng ngọt từ cá biển. Món dân gian; thời điểm xuất hiện không rõ.",
+  "joke": "Bánh canh chả cá Phan Rang húp xì xụp, quên luôn bài thuyết trình."
+ },
+ "nho-ninh-thuan": {
+  "history": "Nho là đặc sản trồng nhiều ở Ninh Thuận nhờ khí hậu khô nóng. Nước ép nho thường làm từ nho tươi. Thời điểm phổ biến không rõ chính xác.",
+  "joke": "Nước ép nho Ninh Thuận chua ngọt vừa, hợp để mừng sống sót qua thứ Hai."
+ },
+ "banh-xeo-phan-thiet": {
+  "history": "Bánh xèo Phan Thiết nhỏ, giòn, ăn kèm rau sống và nước mắm. Món dân dã; không rõ nguồn gốc cụ thể.",
+  "joke": "Bánh xèo Phan Thiết: nước mắm ngon, ăn xong chỉ còn nhớ mỗi mắm."
+ },
+ "banh-beo-phan-thiet": {
+  "history": "Bánh bèo Phan Thiết nhỏ, mềm, ăn với tôm cháy, mỡ hành và nước mắm. Chưa có tài liệu rõ về nguồn gốc.",
+  "joke": "Bánh bèo Phan Thiết nhỏ xíu, một mình ăn hết 20 chén cũng không ngại."
+ },
+ "banh-can-phan-thiet": {
+  "history": "Bánh căn Phan Thiết nướng khuôn đất, ăn với nước mắm và đồ kèm. Món dân dã; thời điểm xuất hiện không rõ.",
+  "joke": "Bánh căn Phan Thiết nhỏ, nóng, ăn ngay để khỏi nguội, y như đam mê."
+ },
+ "banh-hoi-phan-thiet": {
+  "history": "Bánh hỏi Phan Thiết ăn với nhiều loại thịt nướng và rau. Món dân gian; chưa có ghi chép cụ thể về nguồn gốc.",
+  "joke": "Bánh hỏi Phan Thiết: hỏi ăn gì cũng được, miễn có bánh hỏi."
+ },
+ "goi-ca-mai": {
+  "history": "Gỏi cá mai là đặc sản Bình Thuận, dùng cá mai nhỏ trộn chua ngọt, ăn kèm bánh tráng và rau. Chưa rõ thời điểm ra đời.",
+  "joke": "Gỏi cá mai cuốn bánh tráng, chấm mắm, ăn xong thấy đời lên hương."
+ },
+ "lau-tha-phan-thiet": {
+  "history": "Lẩu thả là món lẩu hải sản của Phan Thiết, nấu nước dùng chua ngọt, thả đồ vào ăn. Chưa có ghi chép rõ về nguồn gốc.",
+  "joke": "Lẩu thả: thả hải sản vào, thả hồn theo, thả cả deadline xuống nồi."
+ },
+ "oc-mui-ne": {
+  "history": "Ốc Mũi Né là món hải sản quen thuộc ở vùng biển Mũi Né, Phan Thiết, nấu nhiều kiểu. Không rõ thời điểm bắt đầu.",
+  "joke": "Ốc Mũi Né ăn xong, hướng gió đổi, và tâm trạng mình cũng thế."
+ },
+ "nem-nuong-phan-thiet": {
+  "history": "Nem nướng Phan Thiết cuốn bánh tráng, rau sống, chấm nước tương. Món dân dã; nguồn gốc không rõ.",
+  "joke": "Nem nướng Phan Thiết: cuốn một cuốn, rồi cuốn thêm mười cuốn nữa."
+ },
+ "banh-canh-phan-thiet": {
+  "history": "Bánh canh Phan Thiết nước dùng ngọt, ăn với chả cá hoặc hải sản. Chưa có tài liệu rõ về nguồn gốc.",
+  "joke": "Bánh canh Phan Thiết: húp một ngụm là hết stress."
+ },
+ "banh-hoi-chao-phan-thiet": {
+  "history": "Bánh tráng nước dừa là đặc sản Bình Thuận, bánh tráng nhào với nước dừa, nướng giòn thơm. Chưa rõ người nghĩ ra.",
+  "joke": "Bánh tráng nước dừa: bẻ kêu rôm rốp, giòn hơn cả lời hứa của sếp."
+ },
+ "nuoc-mam-phan-thiet": {
+  "history": "Nước mắm Phan Thiết nổi tiếng, được làm từ cá cơm ủ muối tại vùng ven biển này, có truyền thống lâu đời. Thời điểm bắt đầu cụ thể chưa rõ.",
+  "joke": "Nước mắm Phan Thiết thơm tới nỗi một giọt cũng đủ cứu cả bữa cơm."
+ },
+ "banh-uot-long-ga-da-lat": {
+  "history": "Bánh ướt lòng gà là món ăn sáng và ăn vặt nổi tiếng ở Đà Lạt, gắn với những quán nhỏ ở khu chợ. Chưa rõ thời điểm ra đời.",
+  "joke": "Bánh ướt lòng gà Đà Lạt: trời lạnh, bụng nóng, tâm trạng được cứu."
+ },
+ "lau-ga-la-e": {
+  "history": "Lẩu gà lá é là đặc sản Đà Lạt, nước dùng thơm mùi lá é, ăn khi trời lạnh. Món xuất hiện trong khoảng vài chục năm gần đây; không rõ người sáng tạo.",
+  "joke": "Lẩu gà lá é: trời lạnh mà ăn nóng, mình quên luôn việc mai phải dậy sớm."
+ },
+ "nem-nuong-da-lat": {
+  "history": "Nem nướng Đà Lạt có thể mang phong cách nem nướng miền Trung cuốn rau Đà Lạt tươi. Món phổ biến ở thành phố cao nguyên; nguồn gốc riêng không rõ.",
+  "joke": "Nem nướng Đà Lạt cuốn rau tươi, cảm giác healthy cho tới khi gọi thêm phần hai."
+ },
+ "bo-la-lot-da-lat": {
+  "history": "Bò nướng lá lốt là món quen thuộc ở các quán nướng Đà Lạt, dùng rau Đà Lạt ăn kèm. Không có nguồn gốc cụ thể.",
+  "joke": "Bò nướng lá lốt: thơm cả con hẻm, khiến mình dừng xe không cần suy nghĩ."
+ },
+ "sua-dau-nanh-da-lat": {
+  "history": "Sữa đậu nành nóng là thức uống ăn vặt Đà Lạt buổi tối se lạnh, thường ăn kèm bánh tráng nướng. Chưa rõ thời gian phổ biến.",
+  "joke": "Sữa đậu nành nóng Đà Lạt: giá rẻ mà ấm lòng, hơn cả lời hứa tăng lương."
+ },
+ "kem-bo-da-lat": {
+  "history": "Kem bơ Đà Lạt làm từ bơ chín nghiền, nổi tiếng ở các quán nhỏ trong thành phố. Không rõ người sáng tạo.",
+  "joke": "Kem bơ Đà Lạt béo ngậy, ăn xong tự tin nói mình chưa từng diet."
+ },
+ "dau-tay-da-lat": {
+  "history": "Dâu tây được trồng nhiều ở Đà Lạt từ khoảng giữa thế kỷ 20 nhờ khí hậu mát. Hiện là đặc sản và là điểm đến tham quan.",
+  "joke": "Dâu tây Đà Lạt ngọt tới mức mình quên cả tin nhắn của sếp."
+ },
+ "tra-atiso-da-lat": {
+  "history": "Trà atiso Đà Lạt nấu từ hoa và thân cây atiso, đặc sản Đà Lạt, được người Pháp du nhập cây atiso vào Việt Nam. Chưa rõ thời điểm cụ thể.",
+  "joke": "Trà atiso Đà Lạt thanh mát, uống xong thấy mình thanh lọc, ít nhất là trong 5 phút."
+ },
+ "lau-rau-da-lat": {
+  "history": "Lẩu rau Đà Lạt tận dụng rau củ tươi trồng tại cao nguyên, là món ăn quen thuộc cho khách du lịch. Chưa có thông tin về người sáng tạo.",
+  "joke": "Lẩu rau Đà Lạt: ăn đủ rau để mẹ gọi điện khen, rồi quên mất mình có nghe lời."
+ },
+ "banh-mi-xiu-mai-da-lat": {
+  "history": "Bánh mì xíu mại là món ăn đường phố Đà Lạt, xíu mại sốt cà chua ăn với bánh mì giòn. Chưa rõ nguồn gốc cụ thể.",
+  "joke": "Bánh mì xíu mại: chấm nước sốt ngập ngụa, tay áo cũng góp vui."
+ },
+ "banh-bot-loc-da-lat": {
+  "history": "Bánh bột lọc Đà Lạt ăn kèm nước mắm cay, là món ăn vặt phổ biến. Không có nguồn gốc cụ thể.",
+  "joke": "Bánh bột lọc Đà Lạt chấm nước mắm cay xé lưỡi, ăn xong tỉnh người."
+ },
+ "khoai-lang-nuong": {
+  "history": "Khoai lang nướng là món ăn vặt buổi tối lạnh ở Đà Lạt, bán nhiều ở chợ đêm. Không có nguồn gốc cụ thể.",
+  "joke": "Khoai lang nướng Đà Lạt ấm tay ấm bụng, thay luôn cái lò sưởi."
+ },
+ "hat-de-nuong": {
+  "history": "Hạt dẻ nướng bán nhiều trên vỉa hè Đà Lạt vào mùa lạnh, quen thuộc với du khách. Chưa rõ nguồn gốc.",
+  "joke": "Hạt dẻ nướng: bóc từng hạt chậm rãi, đúng kiểu sống chậm mà đời không cho."
+ },
+ "mut-da-lat": {
+  "history": "Mứt Đà Lạt làm từ dâu, hồng, atiso, là món quà đặc trưng của thành phố. Nghề làm mứt phát triển cùng du lịch; chưa rõ thời điểm.",
+  "joke": "Mứt Đà Lạt mua làm quà, nhưng mình ăn hết trước khi về tới nhà."
+ },
+ "sua-bo-da-lat": {
+  "history": "Sữa tươi nóng là món uống buổi tối quen thuộc ở Đà Lạt, nhờ có nhiều trang trại bò sữa trên cao nguyên. Chưa rõ thời điểm phổ biến.",
+  "joke": "Sữa tươi nóng Đà Lạt: ấm như cái ôm mà mình chưa nhận được từ đầu tuần."
+ },
+ "ga-nuong-com-lam": {
+  "history": "Gà nướng cơm lam là món đặc sản của người dân tộc thiểu số Tây Nguyên, nay phổ biến ở Đắk Lắk. Có từ lâu đời, không rõ người sáng tạo.",
+  "joke": "Gà nướng cơm lam: ăn xong thấy mình như người rừng, nhưng là người rừng đã no."
+ },
+ "com-lam": {
+  "history": "Cơm lam là món truyền thống của nhiều dân tộc ở Tây Nguyên và miền núi, nấu gạo nếp trong ống tre. Có từ rất lâu đời, không thể xác định thời điểm cụ thể.",
+  "joke": "Cơm lam ống tre: ăn xong mới biết đời còn ý nghĩa hơn ống nhựa."
+ },
+ "canh-thut": {
+  "history": "Canh thụt là món truyền thống của người Tây Nguyên, nấu rau rừng với gạo giã và thịt trong ống nứa, thụt bằng que. Có từ lâu đời, không rõ cụ thể.",
+  "joke": "Canh thụt nghe lạ tai, ăn thử mới biết nghe đâu cũng hợp lý."
+ },
+ "bun-do": {
+  "history": "Bún đỏ là món ăn của Đắk Lắk, sợi bún có màu đỏ nhẹ và nước dùng ngọt. Nguồn gốc cụ thể chưa rõ.",
+  "joke": "Bún đỏ ăn xong nhìn tô cũng đỏ như mặt mình khi bị sếp hỏi bài."
+ },
+ "bun-bo-buon-ma-thuot": {
+  "history": "Bún bò Buôn Ma Thuột là món đặc trưng Đắk Lắk, nước dùng thanh, ăn kèm bò và rau. Chưa rõ nguồn gốc cụ thể.",
+  "joke": "Bún bò Buôn Ma Thuột ăn xong, cà phê cũng chưa kịp tỉnh mà mình đã tỉnh trước."
+ },
+ "pho-kho-buon-ma-thuot": {
+  "history": "Phở khô Buôn Ma Thuột là phở trộn ăn kèm nước dùng riêng, phổ biến ở Tây Nguyên. Không rõ người sáng tạo.",
+  "joke": "Phở khô Buôn Ma Thuột: khô nhưng không khô khan, vì có nước chấm."
+ },
+ "ca-phe-buon-ma-thuot": {
+  "history": "Cà phê Buôn Ma Thuột nổi tiếng, vì Đắk Lắk là vùng trồng cà phê lớn nhất Việt Nam. Cây cà phê được trồng ở Tây Nguyên từ thời Pháp thuộc.",
+  "joke": "Cà phê Buôn Ma Thuột: một ly là tỉnh, hai ly là run, ba ly là xin nghỉ việc."
+ },
+ "thit-nuong-ong-tre": {
+  "history": "Thịt nướng ống tre là món nướng đặc trưng của Tây Nguyên, thịt được ướp rồi nướng trong ống tre. Có từ lâu, không rõ người nghĩ ra.",
+  "joke": "Thịt nướng ống tre: thơm khói, vừa ăn vừa tưởng mình là người rừng sành điệu."
+ },
+ "pho-kho-gia-lai": {
+  "history": "Phở khô Gia Lai là đặc sản Pleiku, ăn kèm nước dùng riêng, thịt, rau thơm. Có từ khoảng nửa sau thế kỷ 20, chi tiết nguồn gốc chưa rõ.",
+  "joke": "Phở khô Gia Lai: ăn là ghiền, ghiền là quay lại, quay lại là hết tiền."
+ },
+ "banh-uot-long-ga-gia-lai": {
+  "history": "Bánh ướt lòng gà Gia Lai có phong cách giống Đà Lạt, bán nhiều ở Pleiku. Không rõ thời điểm ra đời.",
+  "joke": "Bánh ướt lòng gà Gia Lai: lạnh lùng bên ngoài nhưng nóng hổi bên trong như mình."
+ },
+ "bo-mot-nang": {
+  "history": "Bò một nắng là thịt bò phơi một nắng, đặc sản Gia Lai, nướng ăn với muối kiến vàng. Chưa rõ người sáng tạo.",
+  "joke": "Bò một nắng: phơi một nắng mà mình thì phơi bày cả ngày ở văn phòng."
+ },
+ "ruou-can": {
+  "history": "Rượu cần là rượu truyền thống của nhiều dân tộc Tây Nguyên, uống bằng cần trúc quanh ché. Có từ rất lâu đời, không thể xác định thời điểm.",
+  "joke": "Rượu cần uống bằng cần trúc, uống nhanh xỉn nhanh, mai nhớ xin nghỉ."
+ },
+ "goi-la-kon-tum": {
+  "history": "Gỏi lá là món đặc sản Kon Tum, cuốn nhiều loại lá rừng cùng thịt, cá hoặc tôm. Món có từ lâu đời, chưa rõ nguồn gốc cụ thể.",
+  "joke": "Gỏi lá Kon Tum: cuốn mười loại lá trong một miếng, như mình làm mười việc một lúc."
+ },
+ "heo-rung-nuong": {
+  "history": "Heo rừng nướng là món đặc sản ở Tây Nguyên, nơi có săn bắt và nuôi heo rừng lai. Có nguồn gốc từ lâu đời, không rõ chi tiết.",
+  "joke": "Heo rừng nướng thơm lừng, mình ngồi ăn mà cứ nhìn chằm chằm không ai dám xin."
+ },
+ "muoi-kien-vang": {
+  "history": "Muối kiến vàng là gia vị đặc sản của Tây Nguyên, giã từ kiến vàng cùng ớt, sả. Có từ lâu đời, người đầu tiên làm ra thì không rõ.",
+  "joke": "Muối kiến vàng chấm gì cũng ngon, kể cả deadline cũng thấy bớt mặn."
+ },
+ "rau-rung-kon-tum": {
+  "history": "Rau rừng Kon Tum gồm nhiều loại rau hái trên rừng như rau dớn, môn thục, là nét ẩm thực dân gian của vùng cao nguyên. Có từ lâu đời, không rõ cụ thể.",
+  "joke": "Rau rừng Kon Tum: ăn xong thấy mình thanh khiết, đến khi mở điện thoại thấy tin nhắn."
+ }
+}

@@ -1,0 +1,239 @@
+/* =========================================================
+   Skins. Selected with <html data-skin="...">.
+   ========================================================= */
+
+/* ---------- 8. Tờ lịch bóc (default) ---------- */
+[data-skin="lich"] {
+  --bg: #e7e1d6; --bg-img: repeating-linear-gradient(90deg, rgba(120, 90, 50, .05) 0 2px, transparent 2px 46px);
+  --surface: #fffdf6; --surface-2: #f3ecdc; --ink: #1d1b19; --ink-2: #3d3833; --ink-3: #8a8178; --accent: #d0261d;
+  --display: "Playfair Display", Georgia, serif; --text: "Be Vietnam Pro", system-ui, sans-serif; --dw: 900;
+  --r: 3px; --r-lg: 4px; --shadow: 0 10px 24px rgba(60, 40, 20, .18), 0 2px 0 rgba(0,0,0,.05); --shadow-sm: 0 3px 8px rgba(60, 40, 20, .15); --bw: 1.5px;
+}
+[data-skin="lich"] .bar { border-bottom: 3px double var(--ink); }
+[data-skin="lich"] .eyebrow, [data-skin="lich"] .hero-title, [data-skin="lich"] .aka, [data-skin="lich"] .hero-sub { display: none; }
+[data-skin="lich"] .cal-sheet {
+  display: block; position: relative; background: var(--surface); padding: 34px 26px 22px; margin-bottom: 16px; text-align: center;
+  box-shadow: 0 1px 0 #e8e0cf, 0 3px 0 #f6f0e2, 0 4px 0 #e8e0cf, 0 6px 0 #f6f0e2, 0 7px 0 #e1d8c5, 0 14px 30px rgba(60, 40, 20, .22);
+  border-top: 16px solid var(--accent);
+}
+[data-skin="lich"] .cal-sheet::before { content: ""; position: absolute; top: -26px; left: 18%; right: 18%; height: 22px; background: radial-gradient(circle at 10px 11px, #444 0 4px, transparent 5px) 0 0 / 40px 22px repeat-x; }
+.cal-top { display: flex; justify-content: space-between; font: 700 14px/1 var(--text); letter-spacing: .14em; text-transform: uppercase; }
+.cal-day { font: 900 clamp(120px, 15vw, 190px)/.9 var(--display); color: var(--accent); margin: 6px 0 0; }
+.cal-dow { margin-top: 10px; font: 900 clamp(26px, 3vw, 36px)/1 var(--display); text-transform: uppercase; color: var(--accent); }
+.cal-row { display: grid; grid-template-columns: 1fr auto 1fr; gap: 12px; align-items: center; margin: 14px 0 10px; border-top: 1px solid var(--ink-3); border-bottom: 1px solid var(--ink-3); padding: 8px 0; font-size: 14px; }
+.cal-lunar b { display: block; font: 900 34px/1 var(--display); }
+.cal-quote { font: italic 600 17px/1.35 var(--display); margin: 8px 0 0; color: var(--ink-2); }
+.cal-quote small { display: block; font: 400 12px var(--text); font-style: normal; color: var(--ink-3); margin-top: 4px; }
+[data-skin="lich"] .press { border-radius: 2px; }
+
+/* ---------- 4. Hộp cơm bento ---------- */
+[data-skin="bento"] {
+  --bg: #f1ede4; --surface: #fffaf0; --surface-2: #f5e9d4; --ink: #23201c; --ink-2: #4a443c; --ink-3: #8c8476; --accent: #e2552d;
+  --display: "Be Vietnam Pro", system-ui, sans-serif; --text: "Be Vietnam Pro", system-ui, sans-serif; --dw: 800;
+  --bw: 0px; --r: 18px; --r-lg: 26px; --shadow: 0 1px 0 rgba(255,255,255,.8) inset, 0 8px 22px rgba(60, 40, 20, .12); --shadow-sm: 0 4px 12px rgba(60, 40, 20, .1);
+}
+[data-skin="bento"] .bar { border: 0; background: transparent; }
+[data-skin="bento"] .hero-copy { display: grid; gap: 12px; }
+[data-skin="bento"] .hero-copy > * { margin: 0; background: var(--surface); border-radius: 22px; padding: 16px 18px; box-shadow: var(--shadow-sm); }
+[data-skin="bento"] .hero-title { background: #2f4b3a !important; color: #fdf6e6; padding: 22px !important; }
+[data-skin="bento"] .eyebrow { background: #f6c945 !important; }
+[data-skin="bento"] .aka { background: #e9d7f5 !important; }
+[data-skin="bento"] .play-foot { background: var(--surface); border-radius: 22px; padding: 10px 12px; box-shadow: var(--shadow-sm); }
+[data-skin="bento"] .chip, [data-skin="bento"] .summary span, [data-skin="bento"] .tag { border-color: transparent; background: var(--surface-2); }
+[data-skin="bento"] .pill, [data-skin="bento"] .modes button, [data-skin="bento"] .skins button, [data-skin="bento"] .tile, [data-skin="bento"] .icon { border: 0; background: var(--surface-2); color: var(--ink); }
+[data-skin="bento"] .modes button[aria-checked="true"], [data-skin="bento"] .skins button[aria-checked="true"], [data-skin="bento"] .chip[aria-pressed="true"] { background: var(--ink); color: var(--surface); }
+[data-skin="bento"] .pill:not(.ghost) { background: var(--ink); color: var(--surface); }
+
+/* ---------- 7. Hóa đơn ---------- */
+[data-skin="bill"] {
+  --bg: #d9d6cf; --bg-img: radial-gradient(rgba(0,0,0,.05) 1px, transparent 1px) 0 0 / 6px 6px;
+  --surface: #fdfdfb; --surface-2: #f1f0ec; --ink: #222; --ink-2: #444; --ink-3: #888; --accent: #222; --on-accent: #fff;
+  --display: "IBM Plex Mono", ui-monospace, monospace; --text: "IBM Plex Mono", ui-monospace, monospace; --dw: 700; --case: uppercase; --track: .02em; --d: .9;
+  --bw: 1px; --r: 0; --r-lg: 0; --shadow: 0 6px 18px rgba(0,0,0,.15); --shadow-sm: none;
+  --zz: conic-gradient(from -45deg at bottom, #0000, #000 1deg 89deg, #0000 90deg) 50% / 14px 100%;
+}
+[data-skin="bill"] body { font-size: 15px; }
+[data-skin="bill"] .bar { border-bottom: 1px dashed var(--ink); }
+[data-skin="bill"] .window, [data-skin="bill"] .card, [data-skin="bill"] .menu, [data-skin="bill"] .book { border: 0; -webkit-mask: var(--zz); mask: var(--zz); padding-bottom: 30px; }
+[data-skin="bill"] .card { animation: print 1.4s steps(18) both; }
+@keyframes print { from { clip-path: inset(0 0 100% 0); } to { clip-path: inset(0 0 0 0); } }
+[data-skin="bill"] .hero-copy { background: var(--surface); padding: 22px; box-shadow: var(--shadow); -webkit-mask: var(--zz); mask: var(--zz); }
+[data-skin="bill"] .hero-copy::after { content: "*** CẢM ƠN QUÝ KHÁCH ***\A ||| |||| || ||||| | ||| ||"; white-space: pre; display: block; text-align: center; margin-top: 14px; border-top: 1px dashed var(--ink); padding-top: 10px; font-size: 13px; letter-spacing: .1em; }
+[data-skin="bill"] .press { background: var(--ink); }
+[data-skin="bill"] .m-sec, [data-skin="bill"] .lane { border-color: var(--ink); }
+[data-skin="bill"] .ph img { filter: grayscale(.25) contrast(1.05); }
+
+/* ---------- 1. Neubrutalism ---------- */
+[data-skin="neo"] {
+  --bg: #fff4d6; --surface: #ffffff; --surface-2: #c4f0ff; --ink: #000; --ink-2: #111; --ink-3: #555; --accent: #ff5ca8; --on-accent: #000;
+  --display: "Space Grotesk", system-ui, sans-serif; --text: "Space Grotesk", system-ui, sans-serif; --dw: 700; --track: -.02em;
+  --bw: 3px; --r: 10px; --r-lg: 14px; --shadow: 8px 8px 0 #000; --shadow-sm: 4px 4px 0 #000;
+}
+[data-skin="neo"] .bar { background: #b8ff5c; border-bottom: 3px solid #000; }
+[data-skin="neo"] .hero-title { background: #ffe14d; display: inline; box-decoration-break: clone; -webkit-box-decoration-break: clone; padding: 0 10px; border: 3px solid #000; line-height: 1.12; }
+[data-skin="neo"] .eyebrow { display: inline-block; background: #c4f0ff; border: 3px solid #000; padding: 4px 10px; margin-bottom: 10px; transform: rotate(-3deg); }
+[data-skin="neo"] .chip[aria-pressed="true"], [data-skin="neo"] .modes button[aria-checked="true"], [data-skin="neo"] .skins button[aria-checked="true"] { background: #b8ff5c; color: #000; }
+[data-skin="neo"] .pill:not(.ghost) { background: #ffe14d; color: #000; }
+[data-skin="neo"] .window { background: #c4f0ff; }
+
+/* ---------- 2. Đất sét 3D ---------- */
+[data-skin="clay"] {
+  --bg: #f4e9ff; --bg-img: radial-gradient(60% 50% at 10% 0%, #ffe3f0 0, transparent 60%), radial-gradient(50% 50% at 100% 100%, #dff6ff 0, transparent 60%);
+  --surface: #fff7fd; --surface-2: #f3e6ff; --ink: #4a3a63; --ink-2: #5f4f7a; --ink-3: #9a8db0; --accent: #ff7eb6; --on-accent: #fff;
+  --display: "Baloo 2", system-ui, sans-serif; --text: "Baloo 2", system-ui, sans-serif; --dw: 800; --d: 1.05;
+  --bw: 0px; --r: 22px; --r-lg: 34px;
+  --shadow: 12px 14px 28px rgba(140, 100, 190, .28), inset -6px -8px 14px rgba(140, 100, 190, .16), inset 6px 8px 14px rgba(255,255,255,.9);
+  --shadow-sm: 6px 8px 16px rgba(140, 100, 190, .25), inset -3px -4px 8px rgba(140, 100, 190, .14), inset 3px 4px 8px rgba(255,255,255,.9);
+}
+[data-skin="clay"] body { font-size: 18px; }
+[data-skin="clay"] .bar { border: 0; background: transparent; }
+[data-skin="clay"] .hero-title { color: #7b5cd6; text-shadow: 0 6px 0 #d9c9ff, 0 12px 18px rgba(120, 80, 200, .25); }
+[data-skin="clay"] .chip, [data-skin="clay"] .summary span, [data-skin="clay"] .tag, [data-skin="clay"] .icon { border: 0; box-shadow: var(--shadow-sm); }
+[data-skin="clay"] .press { border: 0; background: linear-gradient(#ff9fc8, #ff6fae); }
+[data-skin="clay"] .press:active { box-shadow: inset 6px 8px 14px rgba(150, 40, 90, .35); }
+[data-skin="clay"] .pill:not(.ghost), [data-skin="clay"] .chip[aria-pressed="true"], [data-skin="clay"] .modes button[aria-checked="true"], [data-skin="clay"] .skins button[aria-checked="true"] { background: #a98bff; color: #fff; }
+[data-skin="clay"] .ava, [data-skin="clay"] .die, [data-skin="clay"] .ph { border: 0; box-shadow: var(--shadow-sm); }
+
+/* ---------- 3. Y2K lấp lánh ---------- */
+[data-skin="y2k"] {
+  --bg: #e6ecff; --bg-img: radial-gradient(circle at 20% 20%, #ffd6ff 0, transparent 35%), radial-gradient(circle at 80% 10%, #c8f7ff 0, transparent 35%), radial-gradient(circle at 70% 90%, #fff3b0 0, transparent 40%), linear-gradient(135deg, #e3e8ff, #f6e8ff);
+  --surface: rgba(255,255,255,.75); --surface-2: #eef2ff; --ink: #1d1b4b; --ink-2: #39367a; --ink-3: #7b78b8; --accent: #ff3fbf; --on-accent: #fff;
+  --display: "Chakra Petch", system-ui, sans-serif; --text: "Nunito", system-ui, sans-serif; --dw: 700; --case: uppercase; --track: .02em; --d: .95;
+  --bw: 2px; --r: 999px; --r-lg: 22px; --shadow: 0 0 0 4px rgba(255,255,255,.7), 0 10px 30px rgba(80, 60, 200, .25); --shadow-sm: 0 4px 12px rgba(80, 60, 200, .2);
+}
+[data-skin="y2k"] .hero-title { background: linear-gradient(180deg, #fff 0%, #c9d2ff 30%, #6b6fd8 52%, #fff 56%, #b8c2ff 80%, #fff 100%); -webkit-background-clip: text; background-clip: text; color: transparent; -webkit-text-stroke: 1.5px #1d1b4b; filter: drop-shadow(3px 4px 0 #ff3fbf); }
+[data-skin="y2k"] .press, [data-skin="y2k"] .pill:not(.ghost) { background: linear-gradient(180deg, #ff9be4, #ff3fbf 55%, #d6009b); box-shadow: inset 0 3px 0 rgba(255,255,255,.7), 0 6px 16px rgba(214, 0, 155, .35); color: #fff; }
+[data-skin="y2k"] .window, [data-skin="y2k"] .card, [data-skin="y2k"] .menu, [data-skin="y2k"] .book { backdrop-filter: blur(12px); background: linear-gradient(160deg, rgba(255,255,255,.9), rgba(235,240,255,.75)); }
+[data-skin="y2k"] .bar { background: linear-gradient(90deg, #c8f7ff, #ffd6ff, #fff3b0); }
+[data-skin="y2k"] .hero-copy::before { content: "✦ ✧ ✦"; position: absolute; top: -20px; right: 10px; font-size: 26px; color: #ff3fbf; animation: twinkle 1.6s steps(2) infinite; }
+@keyframes twinkle { 50% { opacity: .3; transform: scale(.85); } }
+
+/* ---------- 5. In risograph ---------- */
+[data-skin="riso"] {
+  --bg: #f6f0e4; --bg-img: radial-gradient(rgba(0,0,0,.09) .7px, transparent .8px) 0 0 / 4px 4px;
+  --surface: #fbf6ec; --surface-2: #ffd8e4; --ink: #1b3b8f; --ink-2: #26408f; --ink-3: #6f7fb3; --accent: #ff4f7b; --on-accent: #fff;
+  --display: "Bricolage Grotesque", system-ui, sans-serif; --text: "Bricolage Grotesque", system-ui, sans-serif; --dw: 800; --track: -.02em;
+  --bw: 2px; --r: 0; --r-lg: 0; --shadow: 6px 6px 0 #ff4f7b; --shadow-sm: 3px 3px 0 #ff4f7b;
+}
+[data-skin="riso"] .hero-title, [data-skin="riso"] .card-name, [data-skin="riso"] .brand { color: #1b3b8f; text-shadow: 4px 3px 0 rgba(255, 79, 123, .85); mix-blend-mode: multiply; }
+[data-skin="riso"] .ph img { filter: contrast(1.15) saturate(.8) sepia(.15); mix-blend-mode: multiply; }
+[data-skin="riso"] .window { background-image: radial-gradient(rgba(255, 79, 123, .18) 1px, transparent 1.2px); background-size: 7px 7px; }
+[data-skin="riso"] .press { background: #ffd23f; color: #1b3b8f; }
+
+/* ---------- 6. Bảng phấn quán ---------- */
+[data-skin="chalk"] {
+  --bg: #5b3d26; --bg-img: repeating-linear-gradient(90deg, rgba(0,0,0,.12) 0 3px, transparent 3px 60px);
+  --surface: #2f3a33; --surface-2: #3a473f; --stage-bg: #2a332d; --ink: #f4f1e6; --ink-2: #dcd8c8; --ink-3: #a9b0a3; --accent: #ffd36b; --on-accent: #2a332d;
+  --display: "Itim", "Patrick Hand", cursive; --text: "Itim", "Patrick Hand", cursive; --dw: 400; --d: 1.08;
+  --bw: 2px; --r: 6px; --r-lg: 8px; --shadow: 0 0 0 8px #7a5232, 0 0 0 10px #3d2614, 0 14px 30px rgba(0,0,0,.4); --shadow-sm: none;
+}
+[data-skin="chalk"] .hero-copy { background: var(--surface); padding: 26px; border-radius: 6px; box-shadow: var(--shadow); }
+[data-skin="chalk"] .hero-title, [data-skin="chalk"] .card-name, [data-skin="chalk"] .eyebrow, [data-skin="chalk"] .aka { text-shadow: 0 0 2px rgba(255,255,255,.55), 1px 1px 0 rgba(255,255,255,.15); }
+[data-skin="chalk"] .hero-title { color: #fff; }
+[data-skin="chalk"] .eyebrow { color: #9fe3c4; }
+[data-skin="chalk"] .aka { color: #ffb7c5; }
+[data-skin="chalk"] .bar { background: #3d2614; border-bottom: 0; }
+[data-skin="chalk"] .window, [data-skin="chalk"] .card, [data-skin="chalk"] .menu, [data-skin="chalk"] .book { border-color: rgba(255,255,255,.5); }
+[data-skin="chalk"] .press { color: #2a332d; border-color: #2a332d; }
+[data-skin="chalk"] .xam-paper, [data-skin="chalk"] .xam-stick { color: #1a1714; }
+
+/* ---------- 9. Neon phố đêm ---------- */
+[data-skin="neon"] {
+  --bg: #0b0716; --bg-img: radial-gradient(80% 60% at 50% 120%, rgba(255, 0, 140, .25), transparent 60%), radial-gradient(40% 40% at 0% 0%, rgba(0, 220, 255, .18), transparent 60%);
+  --surface: #160f29; --surface-2: #22183d; --stage-bg: #120b22; --ink: #f2ecff; --ink-2: #d8cfff; --ink-3: #8f84b8; --accent: #ff2e88; --on-accent: #fff;
+  --display: "Pacifico", cursive; --text: "Be Vietnam Pro", system-ui, sans-serif; --dw: 400; --d: .92;
+  --bw: 2px; --r: 12px; --r-lg: 16px; --shadow: 0 0 0 1px #ff2e88, 0 0 18px rgba(255, 46, 136, .55), inset 0 0 18px rgba(255, 46, 136, .2); --shadow-sm: 0 0 10px rgba(0, 229, 255, .5);
+}
+[data-skin="neon"] .hero-title { color: #fff; text-shadow: 0 0 6px #fff, 0 0 14px #ff2e88, 0 0 28px #ff2e88, 0 0 52px #ff2e88; animation: neonflick 5s infinite; }
+[data-skin="neon"] .eyebrow, [data-skin="neon"] .brand { color: #9ff8ff; text-shadow: 0 0 8px #00e5ff, 0 0 20px #00e5ff; }
+[data-skin="neon"] .aka { color: #fff36b; text-shadow: 0 0 10px #ffc400; }
+@keyframes neonflick { 0%, 18%, 22%, 64%, 66%, 100% { opacity: 1; } 20%, 65% { opacity: .45; } }
+[data-skin="neon"] .bar { background: rgba(11, 7, 22, .85); border-bottom: 1px solid #ff2e88; }
+[data-skin="neon"] .window, [data-skin="neon"] .card, [data-skin="neon"] .menu, [data-skin="neon"] .book { border-color: #ff2e88; }
+[data-skin="neon"] .press { box-shadow: 0 0 12px #ff2e88, 0 0 30px rgba(255, 46, 136, .6); border-color: #fff; }
+
+/* ---------- 10. Game 8-bit ---------- */
+[data-skin="pixel"] {
+  --bg: #1b1f3b; --bg-img: linear-gradient(rgba(255,255,255,.04) 1px, transparent 1px) 0 0 / 100% 4px;
+  --surface: #f4f4e8; --surface-2: #d8d8c4; --stage-bg: #9bbc0f; --ink: #0f380f; --ink-2: #1f4f1f; --ink-3: #306230; --accent: #e43b44; --on-accent: #fff;
+  --display: "VT323", ui-monospace, monospace; --text: "VT323", ui-monospace, monospace; --dw: 400; --case: uppercase; --d: 1.45;
+  --bw: 4px; --r: 0; --r-lg: 0; --shadow: 6px 6px 0 #000; --shadow-sm: 4px 4px 0 #000;
+}
+[data-skin="pixel"] body { font-size: 22px; color: #f4f4e8; }
+[data-skin="pixel"] .hero-copy { color: #f4f4e8; }
+[data-skin="pixel"] .hero-title { color: #feae34; text-shadow: 4px 4px 0 #e43b44, 8px 8px 0 #000; }
+[data-skin="pixel"] .hero-sub, [data-skin="pixel"] .aka { color: #c0cbdc; }
+[data-skin="pixel"] .bar { background: #262b44; border-bottom: 4px solid #000; }
+[data-skin="pixel"] .brand, [data-skin="pixel"] .menu-btn { color: #feae34; }
+[data-skin="pixel"] .bubble { color: #f4f4e8; }
+[data-skin="pixel"] img { image-rendering: pixelated; }
+[data-skin="pixel"] .press { animation: blinkbtn 1.2s steps(2) infinite; }
+@keyframes blinkbtn { 50% { box-shadow: 6px 6px 0 #feae34; } }
+[data-skin="pixel"] .hero-title::after { content: "▮"; animation: blink 1s steps(2) infinite; }
+
+/* ---------- 11. Lễ hội màu (kiểu Gourou) ---------- */
+[data-skin="gourou"] {
+  --bg: #fff1a8; --surface: #fff8d6; --surface-2: #ffe680; --ink: #14238c; --ink-2: #22339c; --ink-3: #5a68b8; --accent: #ff4d2e; --on-accent: #fff;
+  --display: "Bricolage Grotesque", system-ui, sans-serif; --text: "Be Vietnam Pro", system-ui, sans-serif; --dw: 800; --track: -.03em; --d: 1.08;
+  --bw: 3px; --r: 999px; --r-lg: 40px; --shadow: 0 0 0 3px var(--ink); --shadow-sm: none;
+}
+[data-skin="gourou"] .bar { background: var(--ink); }
+[data-skin="gourou"] .brand, [data-skin="gourou"] .menu-btn { color: #fff1a8; }
+[data-skin="gourou"] .hero-title { color: var(--ink); }
+[data-skin="gourou"] .hero-copy::before { content: ""; position: absolute; z-index: -1; right: -10%; top: -12%; width: 70%; aspect-ratio: 1; border-radius: 50%; background: #ff9b6a; opacity: .55; animation: float 6s ease-in-out infinite; }
+@keyframes float { 50% { transform: translate(-10px, 14px) scale(1.04); } }
+[data-skin="gourou"] .window { border-radius: 40px; }
+[data-skin="gourou"] .press { background: var(--ink); color: #fff1a8; }
+
+/* ---------- 12. Fiesta sticker (kiểu Tigermilk) ---------- */
+[data-skin="tiger"] {
+  --bg: #ff7a59; --bg-img: repeating-conic-gradient(from 0deg at 50% 50%, rgba(255,255,255,.08) 0 15deg, transparent 15deg 30deg);
+  --surface: #fff6e9; --surface-2: #c9f2d6; --ink: #24123a; --ink-2: #3b2357; --ink-3: #7a6390; --accent: #00a676; --on-accent: #fff;
+  --display: "Baloo 2", system-ui, sans-serif; --text: "Baloo 2", system-ui, sans-serif; --dw: 800; --d: 1.05;
+  --bw: 3px; --r: 16px; --r-lg: 24px; --shadow: 6px 6px 0 var(--ink); --shadow-sm: 3px 3px 0 var(--ink);
+}
+[data-skin="tiger"] .bar { background: #ffd23f; }
+[data-skin="tiger"] .hero-copy { background: var(--surface); border: 3px solid var(--ink); border-radius: 28px; padding: 26px; box-shadow: var(--shadow); transform: rotate(-1.5deg); }
+[data-skin="tiger"] .hero-title { color: #ff3d7f; -webkit-text-stroke: 2px var(--ink); text-shadow: 4px 4px 0 var(--ink); }
+[data-skin="tiger"] .eyebrow { display: inline-block; background: #ffd23f; border: 3px solid var(--ink); border-radius: 999px; padding: 4px 14px; transform: rotate(-4deg); }
+[data-skin="tiger"] .aka { color: #7a2fd1; }
+[data-skin="tiger"] .press { background: #7a2fd1; }
+[data-skin="tiger"] .window { background: #c9f2d6; }
+
+/* ---------- Mực đen truyện tranh (tiagofragoso) ---------- */
+[data-skin="ink"] {
+  --bg: #eeefec; --surface: #fbfaf7; --surface-2: #e6e5e1; --ink: #1a1714; --ink-2: #3b352e; --ink-3: #7a736a; --accent: #cc2018;
+  --display: "Amatic SC", "Patrick Hand", cursive; --text: "Patrick Hand", "Comic Sans MS", cursive; --dw: 700; --d: 1.45;
+  --bw: 2px; --r: 2px; --r-lg: 2px; --shadow: 6px 6px 0 var(--ink); --shadow-sm: 3px 3px 0 var(--ink);
+}
+[data-skin="ink"] body { font-size: 19px; }
+[data-skin="ink"] .hero-title { font-weight: 400; }
+[data-skin="ink"] .hero-sub { font: 700 calc(22px * var(--d))/1.1 var(--display); }
+[data-skin="ink"] .bar { border-bottom: 0; box-shadow: 0 2px 10px rgba(0,0,0,.08); }
+
+/* ---------- Bìa carton dập nổi (relevovinco) ---------- */
+[data-skin="carton"] {
+  --bg: #d4b08f; --bg-img: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .2 0 0 0 0 .13 0 0 0 0 .07 0 0 0 1.6 -.95'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --surface: #ddbd9e; --surface-2: #c9a37f; --stage-bg: #b8936f; --ink: #36261a; --ink-2: #47331f; --ink-3: #6b4c34; --accent: #36261a; --on-accent: #ddbd9e;
+  --display: "Be Vietnam Pro", system-ui, sans-serif; --text: "Be Vietnam Pro", system-ui, sans-serif; --dw: 900; --case: uppercase; --track: -.01em;
+  --bw: 0px; --r: 999px; --r-lg: 28px;
+  --shadow: inset 5px 7px 12px rgba(31,20,11,.45), inset -1px -1px 0 rgba(247,232,210,.5); --shadow-sm: 2px 3px 0 rgba(31,20,11,.25), inset -1px -1px 0 rgba(247,232,210,.7);
+}
+[data-skin="carton"] .hero-title { color: #47331f; text-shadow: -1px -1px 0 rgba(31,20,11,.55), 1px 1px 0 rgba(247,232,210,.6); }
+[data-skin="carton"] .eyebrow { color: #d4b08f; text-shadow: -1px -1px 0 rgba(247,232,210,.85), 2px 2px 0 rgba(31,20,11,.22), 4px 5px 7px rgba(31,20,11,.3); }
+[data-skin="carton"] .bar { background: transparent; }
+[data-skin="carton"] .card, [data-skin="carton"] .menu, [data-skin="carton"] .book { box-shadow: 10px 16px 24px rgba(31,20,11,.3), inset 0 1px 0 rgba(247,232,210,.7); }
+[data-skin="carton"] .press { box-shadow: 0 7px 0 #1f140b, 6px 16px 22px rgba(31,20,11,.4); }
+
+/* ---------- Giấy kẻ vẽ tay (chess.nhaajt) ---------- */
+[data-skin="note"] {
+  --bg: #f3eee2; --bg-img: linear-gradient(90deg, transparent 54px, rgba(200, 69, 46, .25) 55px, transparent 57px), repeating-linear-gradient(0deg, rgba(60, 79, 184, .09) 0 1px, transparent 1px 32px);
+  --surface: #fffdf7; --surface-2: #fff6c9; --ink: #2b2f3a; --ink-2: #4a4f5c; --ink-3: #5d6170; --accent: #c8452e;
+  --display: "Pangolin", "Patrick Hand", cursive; --text: "Patrick Hand", cursive; --dw: 400; --d: 1.1;
+  --bw: 2px; --r: 255px 15px 225px 15px / 15px 225px 15px 255px; --r-lg: 18px 225px 18px 255px / 255px 18px 225px 18px; --shadow: 4px 5px 0 var(--ink); --shadow-sm: 2px 3px 0 var(--ink);
+}
+[data-skin="note"] body { font-size: 18px; }
+[data-skin="note"] .hero-title .hl, [data-skin="note"] .hero-title { color: var(--ink); }
+[data-skin="note"] .aka { background: linear-gradient(transparent 55%, #ffe066 55% 90%, transparent 90%); display: inline; }
+[data-skin="note"] .bar { background: transparent; border-bottom: 2px dashed var(--ink-3); }
+[data-skin="note"] .hero-copy { transform: rotate(-.8deg); }

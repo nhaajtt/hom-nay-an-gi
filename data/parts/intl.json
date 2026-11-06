@@ -1,0 +1,2767 @@
+[
+ {
+  "id": "tacos-al-pastor",
+  "name": "Tacos al pastor",
+  "nameEn": "Tacos al pastor",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Tacos al pastor",
+  "img": "tacos al pastor",
+  "desc": "Thịt heo ướp quay xiên, thêm miếng dứa ngọt, ăn một cái là ghiền!",
+  "emoji": "🌮"
+ },
+ {
+  "id": "birria-tacos",
+  "name": "Birria tacos",
+  "nameEn": "Birria tacos",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Birria",
+  "img": "birria tacos consome",
+  "desc": "Taco thịt dê hầm giòn rụm, chấm nước consomé đỏ óng thơm lừng.",
+  "emoji": "🌮"
+ },
+ {
+  "id": "burrito",
+  "name": "Burrito",
+  "nameEn": "Burrito",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 2,
+  "wiki": "en:Burrito",
+  "img": "burrito",
+  "desc": "Bánh tortilla cuộn tròn đầy ú nụ cơm, đậu và thịt, no căng bụng!",
+  "emoji": "🌯"
+ },
+ {
+  "id": "enchiladas",
+  "name": "Enchiladas",
+  "nameEn": "Enchiladas",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Enchilada",
+  "img": "enchiladas",
+  "desc": "Bánh tortilla cuộn nhân phủ sốt ớt và phô mai chảy, nướng nóng hổi.",
+  "emoji": "🫔"
+ },
+ {
+  "id": "tamales",
+  "name": "Tamales",
+  "nameEn": "Tamales",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Tamale",
+  "img": "tamales",
+  "desc": "Bánh bột bắp gói lá hấp mềm thơm, mở ra như mở quà vậy!",
+  "emoji": "🫔"
+ },
+ {
+  "id": "pozole",
+  "name": "Pozole",
+  "nameEn": "Pozole",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Pozole",
+  "img": "pozole",
+  "desc": "Món canh bắp hominy với thịt heo, ăn nóng ấm bụng ngày se lạnh.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "quesadilla",
+  "name": "Quesadilla",
+  "nameEn": "Quesadilla",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Quesadilla",
+  "img": "quesadilla",
+  "desc": "Bánh tortilla kẹp phô mai nướng vàng, kéo sợi dài cực đã mắt.",
+  "emoji": "🧀"
+ },
+ {
+  "id": "elote",
+  "name": "Elote",
+  "nameEn": "Elote",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re",
+   "mua-nong",
+   "chay"
+  ],
+  "price": 1,
+  "wiki": "en:Elote (food)",
+  "img": "elote street corn",
+  "desc": "Bắp nướng phết mayo, phô mai và ớt bột, ngon khó cưỡng!",
+  "emoji": "🌽"
+ },
+ {
+  "id": "chilaquiles",
+  "name": "Chilaquiles",
+  "nameEn": "Chilaquiles",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "sang"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Chilaquiles",
+  "img": "chilaquiles",
+  "desc": "Bánh tortilla chiên giòn sốt salsa, trứng ốp la, bữa sáng siêu cuốn.",
+  "emoji": "🍳"
+ },
+ {
+  "id": "carnitas",
+  "name": "Carnitas",
+  "nameEn": "Carnitas",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Carnitas",
+  "img": "carnitas",
+  "desc": "Thịt heo om mềm rục rồi áp chảo vàng giòn, ăn kèm tortilla.",
+  "emoji": "🐖"
+ },
+ {
+  "id": "mole-poblano",
+  "name": "Mole poblano",
+  "nameEn": "Mole poblano",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "en:Mole sauce",
+  "img": "mole poblano",
+  "desc": "Sốt mole sô-cô-la và ớt đậm đà phủ gà, vị lạ mà nghiện.",
+  "emoji": "🍫"
+ },
+ {
+  "id": "nachos",
+  "name": "Nachos",
+  "nameEn": "Nachos",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Nachos",
+  "img": "nachos",
+  "desc": "Chip bắp phủ phô mai chảy, đậu, jalapeño, vừa xem phim vừa chén.",
+  "emoji": "🧀"
+ },
+ {
+  "id": "guacamole-chips",
+  "name": "Guacamole",
+  "nameEn": "Guacamole",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "chay",
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Guacamole",
+  "img": "guacamole",
+  "desc": "Bơ nghiền với chanh và hành, chấm chip giòn là hết nấc.",
+  "emoji": "🥑"
+ },
+ {
+  "id": "fish-tacos",
+  "name": "Fish tacos",
+  "nameEn": "Fish tacos",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "hai-san",
+   "mua-nong"
+  ],
+  "price": 2,
+  "wiki": "en:Fish taco",
+  "img": "fish tacos",
+  "desc": "Taco cá chiên giòn kiểu Baja, thêm bắp cải và sốt kem mát lạnh.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "carne-asada",
+  "name": "Carne asada",
+  "nameEn": "Carne asada",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Carne asada",
+  "img": "carne asada",
+  "desc": "Bò nướng ướp chanh tỏi thơm lừng, cuốn tortilla là hết sảy.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "tortas",
+  "name": "Torta",
+  "nameEn": "Torta",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Torta",
+  "img": "torta mexican sandwich",
+  "desc": "Bánh mì kiểu Mexico kẹp thịt, bơ, đậu, phô mai, to bự chảng.",
+  "emoji": "🥪"
+ },
+ {
+  "id": "horchata",
+  "name": "Horchata",
+  "nameEn": "Horchata",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "re",
+   "mua-nong"
+  ],
+  "price": 1,
+  "wiki": "en:Horchata",
+  "img": "horchata",
+  "desc": "Nước gạo quế ngọt mát, uống một ly là dịu cả ngày nắng.",
+  "emoji": "🥛"
+ },
+ {
+  "id": "churros",
+  "name": "Churros",
+  "nameEn": "Churros",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Churro",
+  "img": "churros",
+  "desc": "Bánh chiên giòn lăn đường quế, chấm sô-cô-la ngọt ngào.",
+  "emoji": "🍩"
+ },
+ {
+  "id": "menudo",
+  "name": "Menudo",
+  "nameEn": "Menudo",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "sang"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Menudo (soup)",
+  "img": "menudo soup",
+  "desc": "Món lòng bò hầm ớt cay nồng, giải rượu cuối tuần cực hiệu quả.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "huevos-rancheros",
+  "name": "Huevos rancheros",
+  "nameEn": "Huevos rancheros",
+  "region": "intl",
+  "cuisine": "mexican",
+  "meals": [
+   "sang"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 1,
+  "wiki": "en:Huevos rancheros",
+  "img": "huevos rancheros",
+  "desc": "Trứng ốp la trên tortilla với sốt cà chua cay, sáng nào cũng vui.",
+  "emoji": "🍳"
+ },
+ {
+  "id": "orange-chicken",
+  "name": "Orange chicken",
+  "nameEn": "Orange chicken",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Orange chicken",
+  "img": "orange chicken",
+  "desc": "Gà chiên giòn sốt cam ngọt chua, món quốc dân của tiệm Tàu Mỹ.",
+  "emoji": "🍊"
+ },
+ {
+  "id": "general-tsos-chicken",
+  "name": "General Tso's chicken",
+  "nameEn": "General Tso's chicken",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:General Tso's chicken",
+  "img": "general tso chicken",
+  "desc": "Gà chiên sốt ngọt cay đậm đà, ăn với cơm trắng là chuẩn bài.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "kung-pao-chicken",
+  "name": "Kung pao chicken",
+  "nameEn": "Kung pao chicken",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Kung Pao chicken",
+  "img": "kung pao chicken",
+  "desc": "Gà xào đậu phộng và ớt khô, cay tê đầu lưỡi mà dễ ghiền.",
+  "emoji": "🌶️"
+ },
+ {
+  "id": "xiaolongbao",
+  "name": "Xiaolongbao",
+  "nameEn": "Xiaolongbao",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Xiaolongbao",
+  "img": "xiaolongbao",
+  "desc": "Bánh bao nhỏ đầy nước súp nóng, cắn nhẹ kẻo phỏng miệng nha!",
+  "emoji": "🥟"
+ },
+ {
+  "id": "mapo-tofu",
+  "name": "Mapo tofu",
+  "nameEn": "Mapo tofu",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Mapo doufu",
+  "img": "mapo tofu",
+  "desc": "Đậu hũ mềm sốt cay tê kiểu Tứ Xuyên, chan cơm ngon nhức nách.",
+  "emoji": "🌶️"
+ },
+ {
+  "id": "chow-mein",
+  "name": "Chow mein",
+  "nameEn": "Chow mein",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Chow mein",
+  "img": "chow mein",
+  "desc": "Mì xào rau thịt dai giòn, hộp mì mang đi quen thuộc của dân Mỹ.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "peking-duck",
+  "name": "Peking duck",
+  "nameEn": "Peking duck",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "en:Peking duck",
+  "img": "peking duck",
+  "desc": "Vịt quay da giòn rụm cuốn bánh tráng mỏng, ăn là mê.",
+  "emoji": "🦆"
+ },
+ {
+  "id": "hot-pot",
+  "name": "Hot pot",
+  "nameEn": "Hot pot",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "toi"
+  ],
+  "kind": "lau",
+  "tags": [
+   "cay",
+   "mua-lanh"
+  ],
+  "price": 3,
+  "wiki": "en:Hot pot",
+  "img": "hot pot",
+  "desc": "Nồi lẩu sôi bùng, cả nhóm nhúng thịt rau vui như đi hội.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "beef-noodle-soup",
+  "name": "Taiwanese beef noodle soup",
+  "nameEn": "Taiwanese beef noodle soup",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Beef noodle soup",
+  "img": "taiwanese beef noodle soup",
+  "desc": "Mì bò hầm Đài Loan nước đậm đà, thịt mềm tan trong miệng.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "har-gow",
+  "name": "Har gow",
+  "nameEn": "Har gow",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 2,
+  "wiki": "en:Har gow",
+  "img": "har gow dim sum",
+  "desc": "Há cảo tôm vỏ trong veo, nhìn thôi đã thấy đẹp mắt.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "siu-mai",
+  "name": "Siu mai",
+  "nameEn": "Siu mai",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Shaomai",
+  "img": "siu mai",
+  "desc": "Xíu mại thịt heo tôm hấp, món dim sum không thể thiếu.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "char-siu-bao",
+  "name": "Char siu bao",
+  "nameEn": "Char siu bao",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Char siu bao",
+  "img": "char siu bao",
+  "desc": "Bánh bao xá xíu mềm xốp, nhân ngọt mặn thơm phức.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "egg-rolls",
+  "name": "Egg rolls",
+  "nameEn": "Egg rolls",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re",
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Egg roll",
+  "img": "egg roll",
+  "desc": "Chả giò kiểu Mỹ vỏ dày giòn, nhân rau thịt, chấm sốt chua ngọt.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "sweet-and-sour-pork",
+  "name": "Sweet and sour pork",
+  "nameEn": "Sweet and sour pork",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 1,
+  "wiki": "en:Sweet and sour pork",
+  "img": "sweet and sour pork",
+  "desc": "Thịt heo chiên sốt chua ngọt đỏ au, trẻ con nào cũng khoái.",
+  "emoji": "🍖"
+ },
+ {
+  "id": "beef-broccoli",
+  "name": "Beef and broccoli",
+  "nameEn": "Beef and broccoli",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Beef and broccoli",
+  "img": "beef and broccoli",
+  "desc": "Bò xào bông cải xanh sốt hào, đơn giản mà đưa cơm hết ý.",
+  "emoji": "🥦"
+ },
+ {
+  "id": "fried-rice-yangzhou",
+  "name": "Yangzhou fried rice",
+  "nameEn": "Yangzhou fried rice",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Yangzhou fried rice",
+  "img": "yangzhou fried rice",
+  "desc": "Cơm chiên Dương Châu với tôm, xá xíu và trứng, hạt cơm tơi vàng.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "wonton-soup",
+  "name": "Wonton soup",
+  "nameEn": "Wonton soup",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": "en:Wonton",
+  "img": "wonton soup",
+  "desc": "Hoành thánh nhân thịt tôm trong nước dùng trong veo, ấm bụng liền.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "dan-dan-noodles",
+  "name": "Dan dan noodles",
+  "nameEn": "Dan dan noodles",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Dandan noodles",
+  "img": "dan dan noodles",
+  "desc": "Mì trộn sốt mè cay tê Tứ Xuyên, trộn đều rồi húp xì xụp.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "crab-rangoon",
+  "name": "Crab rangoon",
+  "nameEn": "Crab rangoon",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 1,
+  "wiki": "en:Crab rangoon",
+  "img": "crab rangoon",
+  "desc": "Bánh chiên giòn nhân phô mai kem và cua, đúng chuẩn Tàu Mỹ.",
+  "emoji": "🦀"
+ },
+ {
+  "id": "hand-pulled-noodles",
+  "name": "Lanzhou hand-pulled noodles",
+  "nameEn": "Lanzhou hand-pulled noodles",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Lanzhou beef noodles",
+  "img": "lanzhou lamian",
+  "desc": "Mì kéo tay dai ngon trong nước bò thơm, xem kéo mì cũng vui mắt.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "egg-tart",
+  "name": "Egg tart",
+  "nameEn": "Egg tart",
+  "region": "intl",
+  "cuisine": "chinese",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Egg tart",
+  "img": "egg tart",
+  "desc": "Bánh tart trứng vỏ giòn nhân trứng mịn béo, nướng nóng là nhất.",
+  "emoji": "🥧"
+ },
+ {
+  "id": "korean-bbq",
+  "name": "Korean BBQ",
+  "nameEn": "Korean BBQ",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "en:Korean barbecue",
+  "img": "korean barbecue",
+  "desc": "Tự nướng thịt tại bàn cuốn rau xà lách, vui miệng vui bụng.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "bibimbap",
+  "name": "Bibimbap",
+  "nameEn": "Bibimbap",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Bibimbap",
+  "img": "bibimbap",
+  "desc": "Cơm trộn rau, trứng, thịt với tương ớt gochujang, trộn lên là mê.",
+  "emoji": "🍚"
+ },
+ {
+  "id": "kimchi-jjigae",
+  "name": "Kimchi jjigae",
+  "nameEn": "Kimchi jjigae",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Kimchi-jjigae",
+  "img": "kimchi jjigae",
+  "desc": "Canh kim chi sôi sùng sục, cay chua ấm bụng ngày lạnh.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "tteokbokki",
+  "name": "Tteokbokki",
+  "nameEn": "Tteokbokki",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "vat",
+   "trua"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "cay",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Tteokbokki",
+  "img": "tteokbokki",
+  "desc": "Bánh gạo dai dai sốt ớt cay ngọt, món ăn vặt quốc dân Hàn.",
+  "emoji": "🌶️"
+ },
+ {
+  "id": "korean-fried-chicken",
+  "name": "Korean fried chicken",
+  "nameEn": "Korean fried chicken",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Korean fried chicken",
+  "img": "korean fried chicken",
+  "desc": "Gà rán giòn hai lần, phủ sốt cay ngọt, nhâm nhi với bia lạnh.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "japchae",
+  "name": "Japchae",
+  "nameEn": "Japchae",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "chay"
+  ],
+  "price": 2,
+  "wiki": "en:Japchae",
+  "img": "japchae",
+  "desc": "Miến khoai lang xào rau củ bóng mượt, thơm dầu mè.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "kimbap",
+  "name": "Kimbap",
+  "nameEn": "Kimbap",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Gimbap",
+  "img": "kimbap",
+  "desc": "Cơm cuộn rong biển nhân đầy màu sắc, cắt khoanh ăn tiện lợi.",
+  "emoji": "🍙"
+ },
+ {
+  "id": "soondubu-jjigae",
+  "name": "Soondubu jjigae",
+  "nameEn": "Soondubu jjigae",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Sundubu-jjigae",
+  "img": "soondubu jjigae",
+  "desc": "Canh đậu hũ non cay nóng sôi, đập thêm quả trứng là tuyệt.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "bulgogi",
+  "name": "Bulgogi",
+  "nameEn": "Bulgogi",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Bulgogi",
+  "img": "bulgogi",
+  "desc": "Bò thái mỏng ướp ngọt thơm nướng xém, ăn cùng cơm nóng.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "naengmyeon",
+  "name": "Naengmyeon",
+  "nameEn": "Naengmyeon",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-nong"
+  ],
+  "price": 2,
+  "wiki": "en:Naengmyeon",
+  "img": "naengmyeon",
+  "desc": "Mì lạnh Hàn Quốc nước băng sảng khoái, hè nóng mấy cũng chịu.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "korean-corn-dog",
+  "name": "Korean corn dog",
+  "nameEn": "Korean corn dog",
+  "region": "intl",
+  "cuisine": "korean",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Corn dog",
+  "img": "korean corn dog",
+  "desc": "Xúc xích phô mai bọc bột chiên giòn lăn khoai tây, kéo sợi phô mai.",
+  "emoji": "🌭"
+ },
+ {
+  "id": "sushi",
+  "name": "Sushi",
+  "nameEn": "Sushi",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 3,
+  "wiki": "en:Sushi",
+  "img": "sushi",
+  "desc": "Cơm giấm với cá tươi, từng miếng nhỏ xinh ăn mãi không chán.",
+  "emoji": "🍣"
+ },
+ {
+  "id": "ramen",
+  "name": "Ramen",
+  "nameEn": "Ramen",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Ramen",
+  "img": "ramen",
+  "desc": "Mì nước dùng xương đậm đà, thêm trứng lòng đào là chuẩn.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "california-roll",
+  "name": "California roll",
+  "nameEn": "California roll",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "hai-san",
+   "nhanh"
+  ],
+  "price": 2,
+  "wiki": "en:California roll",
+  "img": "california roll",
+  "desc": "Sushi cuộn ngược với cua, bơ, dưa leo, phát minh của người Mỹ.",
+  "emoji": "🍣"
+ },
+ {
+  "id": "teriyaki-chicken",
+  "name": "Teriyaki chicken",
+  "nameEn": "Teriyaki chicken",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Teriyaki",
+  "img": "teriyaki chicken",
+  "desc": "Gà nướng sốt teriyaki ngọt mặn bóng loáng, ăn với cơm trắng.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "tonkatsu",
+  "name": "Tonkatsu",
+  "nameEn": "Tonkatsu",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Tonkatsu",
+  "img": "tonkatsu",
+  "desc": "Thịt heo chiên xù giòn rụm, chấm sốt đặc, ăn kèm bắp cải.",
+  "emoji": "🍖"
+ },
+ {
+  "id": "udon",
+  "name": "Udon",
+  "nameEn": "Udon",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Udon",
+  "img": "udon",
+  "desc": "Sợi mì udon to dai trong nước dùng thanh, ăn là ấm lòng.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "tempura",
+  "name": "Tempura",
+  "nameEn": "Tempura",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 2,
+  "wiki": "en:Tempura",
+  "img": "tempura",
+  "desc": "Tôm và rau chiên bột mỏng giòn tan, chấm tương nhẹ nhàng.",
+  "emoji": "🍤"
+ },
+ {
+  "id": "takoyaki",
+  "name": "Takoyaki",
+  "nameEn": "Takoyaki",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 1,
+  "wiki": "en:Takoyaki",
+  "img": "takoyaki",
+  "desc": "Bánh viên bạch tuộc nóng hổi, rắc cá bào nhảy múa.",
+  "emoji": "🐙"
+ },
+ {
+  "id": "katsu-curry",
+  "name": "Katsu curry",
+  "nameEn": "Katsu curry",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Katsu curry",
+  "img": "katsu curry",
+  "desc": "Cơm cà ri Nhật với cốt lết chiên giòn, vị ngọt dịu dễ ăn.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "onigiri",
+  "name": "Onigiri",
+  "nameEn": "Onigiri",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "sang",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Onigiri",
+  "img": "onigiri",
+  "desc": "Nắm cơm tam giác bọc rong biển, nhân bên trong là bất ngờ nhỏ.",
+  "emoji": "🍙"
+ },
+ {
+  "id": "matcha-ice-cream",
+  "name": "Matcha ice cream",
+  "nameEn": "Matcha ice cream",
+  "region": "intl",
+  "cuisine": "japanese",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong"
+  ],
+  "price": 1,
+  "wiki": "en:Matcha",
+  "img": "matcha ice cream",
+  "desc": "Kem trà xanh đắng nhẹ ngọt dịu, mát lạnh dễ thương.",
+  "emoji": "🍵"
+ },
+ {
+  "id": "pad-thai",
+  "name": "Pad thai",
+  "nameEn": "Pad thai",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Pad thai",
+  "img": "pad thai",
+  "desc": "Phở xào kiểu Thái chua ngọt, rắc đậu phộng và vắt chanh.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "green-curry",
+  "name": "Thai green curry",
+  "nameEn": "Thai green curry",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Green curry",
+  "img": "thai green curry",
+  "desc": "Cà ri xanh nước cốt dừa béo thơm, cay vừa đủ đưa cơm.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "tom-yum",
+  "name": "Tom yum",
+  "nameEn": "Tom yum",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay",
+   "hai-san"
+  ],
+  "price": 2,
+  "wiki": "en:Tom yum",
+  "img": "tom yum soup",
+  "desc": "Canh chua cay Thái với tôm, sả, lá chanh thơm nức mũi.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "som-tam",
+  "name": "Som tam",
+  "nameEn": "Som tam",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "trua"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay",
+   "mua-nong"
+  ],
+  "price": 1,
+  "wiki": "en:Som tam",
+  "img": "som tam papaya salad",
+  "desc": "Gỏi đu đủ giã cay chua mặn ngọt, giòn sần sật.",
+  "emoji": "🥗"
+ },
+ {
+  "id": "pad-kra-pao",
+  "name": "Pad kra pao",
+  "nameEn": "Pad kra pao",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "cay",
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Phat kaphrao",
+  "img": "pad kra pao",
+  "desc": "Thịt xào lá húng quế cay nồng, thêm trứng ốp la là đỉnh.",
+  "emoji": "🌶️"
+ },
+ {
+  "id": "mango-sticky-rice",
+  "name": "Mango sticky rice",
+  "nameEn": "Mango sticky rice",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Mango sticky rice",
+  "img": "mango sticky rice",
+  "desc": "Xôi nếp nước cốt dừa ăn cùng xoài chín, ngọt ngào khó cưỡng.",
+  "emoji": "🥭"
+ },
+ {
+  "id": "massaman-curry",
+  "name": "Massaman curry",
+  "nameEn": "Massaman curry",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Massaman curry",
+  "img": "massaman curry",
+  "desc": "Cà ri Massaman béo bùi với khoai và đậu phộng, dịu cay.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "thai-iced-tea",
+  "name": "Thai iced tea",
+  "nameEn": "Thai iced tea",
+  "region": "intl",
+  "cuisine": "thai",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-nong",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Thai tea",
+  "img": "thai iced tea",
+  "desc": "Trà Thái cam óng ánh pha sữa đá, ngọt mát cực đã khát.",
+  "emoji": "🧋"
+ },
+ {
+  "id": "chicken-adobo",
+  "name": "Chicken adobo",
+  "nameEn": "Chicken adobo",
+  "region": "intl",
+  "cuisine": "filipino",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Adobo",
+  "img": "chicken adobo",
+  "desc": "Gà kho giấm xì dầu tỏi thơm, món quốc hồn quốc túy Philippines.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "lumpia",
+  "name": "Lumpia",
+  "nameEn": "Lumpia",
+  "region": "intl",
+  "cuisine": "filipino",
+  "meals": [
+   "vat",
+   "trua"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Lumpia",
+  "img": "lumpia",
+  "desc": "Chả giò Philippines nhỏ xinh giòn rụm, chấm sốt chua ngọt.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "pancit",
+  "name": "Pancit",
+  "nameEn": "Pancit",
+  "region": "intl",
+  "cuisine": "filipino",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 1,
+  "wiki": "en:Pancit",
+  "img": "pancit",
+  "desc": "Mì xào Philippines với rau và thịt, ăn mừng sinh nhật cho sống lâu.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "sinigang",
+  "name": "Sinigang",
+  "nameEn": "Sinigang",
+  "region": "intl",
+  "cuisine": "filipino",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Sinigang",
+  "img": "sinigang",
+  "desc": "Canh chua me Philippines, chua thanh dịu ấm bụng.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "halo-halo",
+  "name": "Halo-halo",
+  "nameEn": "Halo-halo",
+  "region": "intl",
+  "cuisine": "filipino",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "mua-nong",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Halo-halo",
+  "img": "halo-halo",
+  "desc": "Chè đá bào trộn đủ thứ, trộn lên vui như mở hội màu sắc.",
+  "emoji": "🍧"
+ },
+ {
+  "id": "sisig",
+  "name": "Sisig",
+  "nameEn": "Sisig",
+  "region": "intl",
+  "cuisine": "filipino",
+  "meals": [
+   "toi",
+   "vat"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Sisig",
+  "img": "sisig",
+  "desc": "Heo băm nướng xèo xèo trên chảo nóng, nhắm bia cực hợp.",
+  "emoji": "🔥"
+ },
+ {
+  "id": "chicken-tikka-masala",
+  "name": "Chicken tikka masala",
+  "nameEn": "Chicken tikka masala",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Chicken tikka masala",
+  "img": "chicken tikka masala",
+  "desc": "Gà sốt cà chua kem béo ngậy, chấm naan là hết ý.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "butter-chicken",
+  "name": "Butter chicken",
+  "nameEn": "Butter chicken",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Butter chicken",
+  "img": "butter chicken",
+  "desc": "Gà sốt bơ cà chua mềm mịn, thơm lừng nhớ mãi.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "naan",
+  "name": "Naan",
+  "nameEn": "Naan",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "chay"
+  ],
+  "price": 1,
+  "wiki": "en:Naan",
+  "img": "naan bread",
+  "desc": "Bánh mì nướng lò tandoor mềm thơm, phết bơ tỏi càng đã.",
+  "emoji": "🫓"
+ },
+ {
+  "id": "samosa",
+  "name": "Samosa",
+  "nameEn": "Samosa",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "chay",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Samosa",
+  "img": "samosa",
+  "desc": "Bánh chiên hình tam giác nhân khoai đậu, giòn tan chấm chutney.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "chana-masala",
+  "name": "Chana masala",
+  "nameEn": "Chana masala",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "chay",
+   "cay"
+  ],
+  "price": 1,
+  "wiki": "en:Chana masala",
+  "img": "chana masala",
+  "desc": "Đậu gà hầm gia vị masala thơm nồng, chay mà đậm đà.",
+  "emoji": "🫘"
+ },
+ {
+  "id": "biryani",
+  "name": "Biryani",
+  "nameEn": "Biryani",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "cay",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Biryani",
+  "img": "biryani",
+  "desc": "Cơm trộn gia vị hầm cùng thịt, mở nắp là thơm cả nhà.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "palak-paneer",
+  "name": "Palak paneer",
+  "nameEn": "Palak paneer",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "chay"
+  ],
+  "price": 2,
+  "wiki": "en:Palak paneer",
+  "img": "palak paneer",
+  "desc": "Phô mai paneer trong sốt rau chân vịt xanh mướt, béo dịu.",
+  "emoji": "🥬"
+ },
+ {
+  "id": "dosa",
+  "name": "Dosa",
+  "nameEn": "Dosa",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "chay"
+  ],
+  "price": 1,
+  "wiki": "en:Dosa",
+  "img": "dosa",
+  "desc": "Bánh crepe gạo giòn mỏng cuộn khoai, chấm sambar thơm.",
+  "emoji": "🫓"
+ },
+ {
+  "id": "chicken-karahi",
+  "name": "Chicken karahi",
+  "nameEn": "Chicken karahi",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Karahi",
+  "img": "chicken karahi",
+  "desc": "Gà xào chảo karahi kiểu Pakistan cay thơm gừng cà chua.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "mango-lassi",
+  "name": "Mango lassi",
+  "nameEn": "Mango lassi",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "vat"
+  ],
+  "kind": "do-uong",
+  "tags": [
+   "mua-nong"
+  ],
+  "price": 1,
+  "wiki": "en:Lassi",
+  "img": "mango lassi",
+  "desc": "Sữa chua xoài xay mát lạnh, ngọt mịn như mơ.",
+  "emoji": "🥭"
+ },
+ {
+  "id": "nihari",
+  "name": "Nihari",
+  "nameEn": "Nihari",
+  "region": "intl",
+  "cuisine": "indian",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Nihari",
+  "img": "nihari",
+  "desc": "Món bò hầm chậm đặc sánh kiểu Pakistan, ăn sáng cuối tuần.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "chicken-shawarma",
+  "name": "Chicken shawarma",
+  "nameEn": "Chicken shawarma",
+  "region": "intl",
+  "cuisine": "middle-eastern",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Shawarma",
+  "img": "chicken shawarma",
+  "desc": "Thịt quay xiên cắt mỏng cuộn bánh pita với sốt tỏi, ngon xuất sắc.",
+  "emoji": "🌯"
+ },
+ {
+  "id": "falafel",
+  "name": "Falafel",
+  "nameEn": "Falafel",
+  "region": "intl",
+  "cuisine": "middle-eastern",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "chay",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Falafel",
+  "img": "falafel",
+  "desc": "Viên đậu gà chiên giòn vàng, bên trong xanh thơm mềm.",
+  "emoji": "🧆"
+ },
+ {
+  "id": "gyro",
+  "name": "Gyro",
+  "nameEn": "Gyro",
+  "region": "intl",
+  "cuisine": "middle-eastern",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Gyros",
+  "img": "gyro sandwich",
+  "desc": "Thịt nướng xiên cuộn pita với tzatziki mát, món Hy Lạp thân thương.",
+  "emoji": "🥙"
+ },
+ {
+  "id": "hummus",
+  "name": "Hummus",
+  "nameEn": "Hummus",
+  "region": "intl",
+  "cuisine": "middle-eastern",
+  "meals": [
+   "vat",
+   "trua"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "chay"
+  ],
+  "price": 1,
+  "wiki": "en:Hummus",
+  "img": "hummus",
+  "desc": "Sốt đậu gà mịn béo thơm mè, chấm bánh pita là ghiền.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "kebab-platter",
+  "name": "Kebab platter",
+  "nameEn": "Kebab platter",
+  "region": "intl",
+  "cuisine": "middle-eastern",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Kebab",
+  "img": "kebab platter",
+  "desc": "Đĩa thịt nướng thơm lừng ăn kèm cơm, salad và bánh mì dẹt.",
+  "emoji": "🍢"
+ },
+ {
+  "id": "baklava",
+  "name": "Baklava",
+  "nameEn": "Baklava",
+  "region": "intl",
+  "cuisine": "middle-eastern",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Baklava",
+  "img": "baklava",
+  "desc": "Bánh ngàn lớp mật ong hạt óc chó giòn ngọt, một miếng là đủ vui.",
+  "emoji": "🍯"
+ },
+ {
+  "id": "shakshuka",
+  "name": "Shakshuka",
+  "nameEn": "Shakshuka",
+  "region": "intl",
+  "cuisine": "middle-eastern",
+  "meals": [
+   "sang"
+  ],
+  "kind": "nuoc",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Shakshuka",
+  "img": "shakshuka",
+  "desc": "Trứng chần trong sốt cà chua ớt thơm, chấm bánh mì ngon lành.",
+  "emoji": "🍳"
+ },
+ {
+  "id": "doro-wat",
+  "name": "Doro wat",
+  "nameEn": "Doro wat",
+  "region": "intl",
+  "cuisine": "ethiopian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "cay",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Doro wat",
+  "img": "doro wat",
+  "desc": "Gà hầm sốt ớt berbere cay thơm kèm trứng luộc, ăn bốc cùng injera.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "injera-combo",
+  "name": "Injera platter",
+  "nameEn": "Injera platter",
+  "region": "intl",
+  "cuisine": "ethiopian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "chay"
+  ],
+  "price": 2,
+  "wiki": "en:Injera",
+  "img": "injera platter",
+  "desc": "Bánh injera chua nhẹ trải đĩa đủ món, cả nhà ăn chung vui ghê.",
+  "emoji": "🫓"
+ },
+ {
+  "id": "kitfo",
+  "name": "Kitfo",
+  "nameEn": "Kitfo",
+  "region": "intl",
+  "cuisine": "ethiopian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "en:Kitfo",
+  "img": "kitfo",
+  "desc": "Bò băm trộn bơ gia vị mitmita, ăn sống hoặc tái đều lạ miệng.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "pupusas",
+  "name": "Pupusas",
+  "nameEn": "Pupusas",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "sang",
+   "trua",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Pupusa",
+  "img": "pupusa",
+  "desc": "Bánh bột bắp nhân phô mai Salvador, ăn kèm curtido chua giòn.",
+  "emoji": "🫓"
+ },
+ {
+  "id": "arepas",
+  "name": "Arepas",
+  "nameEn": "Arepas",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [],
+  "price": 1,
+  "wiki": "en:Arepa",
+  "img": "arepa",
+  "desc": "Bánh bột bắp nướng kẹp phô mai, thịt, bơ, cả Venezuela mê tít.",
+  "emoji": "🫓"
+ },
+ {
+  "id": "cuban-sandwich",
+  "name": "Cuban sandwich",
+  "nameEn": "Cuban sandwich",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 2,
+  "wiki": "en:Cuban sandwich",
+  "img": "cuban sandwich",
+  "desc": "Bánh mì ép nóng kẹp heo quay, giăm bông, phô mai và dưa chua.",
+  "emoji": "🥪"
+ },
+ {
+  "id": "jerk-chicken",
+  "name": "Jerk chicken",
+  "nameEn": "Jerk chicken",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Jamaican jerk",
+  "img": "jerk chicken",
+  "desc": "Gà nướng ướp ớt Jamaica cay nồng thơm khói, ăn là nhớ.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "lomo-saltado",
+  "name": "Lomo saltado",
+  "nameEn": "Lomo saltado",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Lomo saltado",
+  "img": "lomo saltado",
+  "desc": "Bò xào kiểu Peru với khoai chiên và cơm, hòa quyện Á và Nam Mỹ.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "ceviche",
+  "name": "Ceviche",
+  "nameEn": "Ceviche",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "trua"
+  ],
+  "kind": "kho",
+  "tags": [
+   "hai-san",
+   "mua-nong"
+  ],
+  "price": 2,
+  "wiki": "en:Ceviche",
+  "img": "ceviche",
+  "desc": "Cá sống ngâm chanh với hành tím, chua tươi mát lạnh.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "empanadas",
+  "name": "Empanadas",
+  "nameEn": "Empanadas",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "vat",
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Empanada",
+  "img": "empanadas",
+  "desc": "Bánh nướng nhân thịt giòn vỏ, cầm tay ăn tiện cực kỳ.",
+  "emoji": "🥟"
+ },
+ {
+  "id": "ropa-vieja",
+  "name": "Ropa vieja",
+  "nameEn": "Ropa vieja",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Ropa vieja",
+  "img": "ropa vieja",
+  "desc": "Bò xé sợi hầm cà chua ớt chuông kiểu Cuba, mềm thơm đậm đà.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "tostones",
+  "name": "Tostones",
+  "nameEn": "Tostones",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "vat"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "chay",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Tostones",
+  "img": "tostones",
+  "desc": "Chuối xanh chiên hai lần giòn rụm, rắc muối ăn vặt đã miệng.",
+  "emoji": "🍌"
+ },
+ {
+  "id": "feijoada",
+  "name": "Feijoada",
+  "nameEn": "Feijoada",
+  "region": "intl",
+  "cuisine": "latin",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Feijoada",
+  "img": "feijoada",
+  "desc": "Món đậu đen hầm thịt kiểu Brazil, no nê ngày cuối tuần.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "spaghetti-meatballs",
+  "name": "Spaghetti and meatballs",
+  "nameEn": "Spaghetti and meatballs",
+  "region": "intl",
+  "cuisine": "italian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Spaghetti with meatballs",
+  "img": "spaghetti and meatballs",
+  "desc": "Mì Ý sốt cà chua với thịt viên bự, đúng chất Ý kiểu Mỹ.",
+  "emoji": "🍝"
+ },
+ {
+  "id": "chicken-parmesan",
+  "name": "Chicken parmesan",
+  "nameEn": "Chicken parmesan",
+  "region": "intl",
+  "cuisine": "italian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Chicken parmigiana",
+  "img": "chicken parmesan",
+  "desc": "Gà tẩm bột chiên phủ sốt cà chua và phô mai chảy, quá đã.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "fettuccine-alfredo",
+  "name": "Fettuccine Alfredo",
+  "nameEn": "Fettuccine Alfredo",
+  "region": "intl",
+  "cuisine": "italian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Fettuccine Alfredo",
+  "img": "fettuccine alfredo",
+  "desc": "Mì sợi dẹt sốt kem bơ phô mai béo ngậy, mềm mượt.",
+  "emoji": "🍝"
+ },
+ {
+  "id": "baked-ziti",
+  "name": "Baked ziti",
+  "nameEn": "Baked ziti",
+  "region": "intl",
+  "cuisine": "italian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Baked ziti",
+  "img": "baked ziti",
+  "desc": "Mì ống nướng phô mai sốt cà chua, nóng hổi sủi bọt.",
+  "emoji": "🍝"
+ },
+ {
+  "id": "lasagna",
+  "name": "Lasagna",
+  "nameEn": "Lasagna",
+  "region": "intl",
+  "cuisine": "italian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Lasagna",
+  "img": "lasagna",
+  "desc": "Nhiều lớp mì, thịt bằm và phô mai xếp chồng, cắt ra thơm lừng.",
+  "emoji": "🍝"
+ },
+ {
+  "id": "cannoli",
+  "name": "Cannoli",
+  "nameEn": "Cannoli",
+  "region": "intl",
+  "cuisine": "italian",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Cannoli",
+  "img": "cannoli",
+  "desc": "Bánh ống giòn nhân kem ricotta ngọt, đặc sản tiệm bánh Ý.",
+  "emoji": "🍰"
+ },
+ {
+  "id": "italian-beef",
+  "name": "Italian beef sandwich",
+  "nameEn": "Italian beef sandwich",
+  "region": "intl",
+  "cuisine": "italian",
+  "meals": [
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Italian beef",
+  "img": "italian beef sandwich",
+  "desc": "Bánh mì bò thái mỏng nhúng nước jus, đặc sản Chicago.",
+  "emoji": "🥪"
+ },
+ {
+  "id": "fried-chicken",
+  "name": "Fried chicken",
+  "nameEn": "Fried chicken",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Fried chicken",
+  "img": "fried chicken",
+  "desc": "Gà rán vỏ giòn thịt ngọt mọng nước, ăn bốc mới đã.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "gumbo",
+  "name": "Gumbo",
+  "nameEn": "Gumbo",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "mua-lanh",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Gumbo",
+  "img": "gumbo",
+  "desc": "Món súp đặc Louisiana với xúc xích, tôm, ăn với cơm trắng.",
+  "emoji": "🍲"
+ },
+ {
+  "id": "jambalaya",
+  "name": "Jambalaya",
+  "nameEn": "Jambalaya",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "com",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Jambalaya",
+  "img": "jambalaya",
+  "desc": "Cơm nấu kiểu Cajun với tôm, xúc xích và gia vị cay nồng.",
+  "emoji": "🍛"
+ },
+ {
+  "id": "texas-brisket",
+  "name": "Texas brisket",
+  "nameEn": "Texas brisket",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "en:Brisket",
+  "img": "texas brisket",
+  "desc": "Bò ức hun khói mười mấy tiếng, mềm tan thơm lừng khói.",
+  "emoji": "🥩"
+ },
+ {
+  "id": "mac-and-cheese",
+  "name": "Mac and cheese",
+  "nameEn": "Mac and cheese",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "re",
+   "mua-lanh"
+  ],
+  "price": 1,
+  "wiki": "en:Macaroni and cheese",
+  "img": "mac and cheese",
+  "desc": "Nui sốt phô mai béo mịn, món comfort food ai cũng yêu.",
+  "emoji": "🧀"
+ },
+ {
+  "id": "hamburger",
+  "name": "Hamburger",
+  "nameEn": "Hamburger",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Hamburger",
+  "img": "hamburger",
+  "desc": "Bánh kẹp thịt bò nướng, phô mai, rau, xốt, quốc dân nước Mỹ.",
+  "emoji": "🍔"
+ },
+ {
+  "id": "new-york-pizza",
+  "name": "New York-style pizza",
+  "nameEn": "New York-style pizza",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:New York-style pizza",
+  "img": "new york style pizza slice",
+  "desc": "Miếng pizza đế mỏng to bự gấp đôi cầm tay, ăn đường phố.",
+  "emoji": "🍕"
+ },
+ {
+  "id": "buffalo-wings",
+  "name": "Buffalo wings",
+  "nameEn": "Buffalo wings",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "vat",
+   "toi"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "cay"
+  ],
+  "price": 2,
+  "wiki": "en:Buffalo wing",
+  "img": "buffalo wings",
+  "desc": "Cánh gà chiên sốt cay chua bơ, chấm sốt ranch mát lạnh.",
+  "emoji": "🍗"
+ },
+ {
+  "id": "philly-cheesesteak",
+  "name": "Philly cheesesteak",
+  "nameEn": "Philly cheesesteak",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Cheesesteak",
+  "img": "philly cheesesteak",
+  "desc": "Bánh mì bò thái mỏng xào hành với phô mai chảy, đặc sản Philly.",
+  "emoji": "🥪"
+ },
+ {
+  "id": "chicago-deep-dish",
+  "name": "Chicago deep dish pizza",
+  "nameEn": "Chicago deep dish pizza",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "en:Chicago-style pizza",
+  "img": "chicago deep dish pizza",
+  "desc": "Pizza đế dày như cái bánh, nhân phô mai ngập, ăn bằng dao nĩa.",
+  "emoji": "🍕"
+ },
+ {
+  "id": "pulled-pork-bbq",
+  "name": "Pulled pork BBQ",
+  "nameEn": "Pulled pork BBQ",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "banh",
+  "tags": [],
+  "price": 2,
+  "wiki": "en:Pulled pork",
+  "img": "pulled pork sandwich",
+  "desc": "Thịt heo nướng xé sợi mềm mọng, kẹp bánh với sốt BBQ.",
+  "emoji": "🐖"
+ },
+ {
+  "id": "shrimp-and-grits",
+  "name": "Shrimp and grits",
+  "nameEn": "Shrimp and grits",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "kho",
+  "tags": [
+   "hai-san"
+  ],
+  "price": 2,
+  "wiki": "en:Shrimp and grits",
+  "img": "shrimp and grits",
+  "desc": "Tôm xào đặt trên cháo bắp mịn béo, đặc sản miền Nam.",
+  "emoji": "🦐"
+ },
+ {
+  "id": "clam-chowder",
+  "name": "New England clam chowder",
+  "nameEn": "New England clam chowder",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "mua-lanh"
+  ],
+  "price": 2,
+  "wiki": "en:Clam chowder",
+  "img": "clam chowder bread bowl",
+  "desc": "Súp nghêu sánh kem đựng trong ổ bánh mì, nóng ấm áp.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "lobster-roll",
+  "name": "Lobster roll",
+  "nameEn": "Lobster roll",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua"
+  ],
+  "kind": "banh",
+  "tags": [
+   "hai-san",
+   "mua-nong",
+   "dac-san"
+  ],
+  "price": 3,
+  "wiki": "en:Lobster roll",
+  "img": "lobster roll",
+  "desc": "Tôm hùm trộn bơ kẹp bánh mì nướng, ngọt thơm đúng vị biển.",
+  "emoji": "🦞"
+ },
+ {
+  "id": "cornbread",
+  "name": "Cornbread",
+  "nameEn": "Cornbread",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Cornbread",
+  "img": "cornbread",
+  "desc": "Bánh bắp vàng ươm ngọt nhẹ, ăn kèm đồ miền Nam hợp lắm.",
+  "emoji": "🌽"
+ },
+ {
+  "id": "biscuits-gravy",
+  "name": "Biscuits and gravy",
+  "nameEn": "Biscuits and gravy",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "sang"
+  ],
+  "kind": "banh",
+  "tags": [],
+  "price": 1,
+  "wiki": "en:Biscuits and gravy",
+  "img": "biscuits and gravy",
+  "desc": "Bánh biscuit xốp phủ sốt xúc xích béo, bữa sáng no cả ngày.",
+  "emoji": "🥣"
+ },
+ {
+  "id": "hot-dog",
+  "name": "Hot dog",
+  "nameEn": "Hot dog",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "banh",
+  "tags": [
+   "nhanh",
+   "re"
+  ],
+  "price": 1,
+  "wiki": "en:Hot dog",
+  "img": "hot dog",
+  "desc": "Xúc xích kẹp bánh mì mềm, mù tạt kèm dưa chua, đậm chất xem bóng chày.",
+  "emoji": "🌭"
+ },
+ {
+  "id": "apple-pie",
+  "name": "Apple pie",
+  "nameEn": "Apple pie",
+  "region": "intl",
+  "cuisine": "american",
+  "meals": [
+   "vat"
+  ],
+  "kind": "che",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Apple pie",
+  "img": "apple pie",
+  "desc": "Bánh táo nướng thơm quế, ăn kèm kem vani là chuẩn nước Mỹ.",
+  "emoji": "🥧"
+ },
+ {
+  "id": "poke-bowl",
+  "name": "Poke bowl",
+  "nameEn": "Poke bowl",
+  "region": "intl",
+  "cuisine": "hawaiian",
+  "meals": [
+   "trua"
+  ],
+  "kind": "com",
+  "tags": [
+   "hai-san",
+   "mua-nong"
+  ],
+  "price": 2,
+  "wiki": "en:Poke (food)",
+  "img": "poke bowl",
+  "desc": "Cá ngừ tươi trộn xì dầu mè đặt trên cơm, tươi mát như biển.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "loco-moco",
+  "name": "Loco moco",
+  "nameEn": "Loco moco",
+  "region": "intl",
+  "cuisine": "hawaiian",
+  "meals": [
+   "sang",
+   "trua"
+  ],
+  "kind": "com",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Loco moco",
+  "img": "loco moco",
+  "desc": "Cơm, thịt bò viên, trứng ốp la và nước sốt, đậm đà kiểu Hawaii.",
+  "emoji": "🍳"
+ },
+ {
+  "id": "spam-musubi",
+  "name": "Spam musubi",
+  "nameEn": "Spam musubi",
+  "region": "intl",
+  "cuisine": "hawaiian",
+  "meals": [
+   "vat",
+   "sang"
+  ],
+  "kind": "an-vat",
+  "tags": [
+   "re",
+   "nhanh"
+  ],
+  "price": 1,
+  "wiki": "en:Spam musubi",
+  "img": "spam musubi",
+  "desc": "Cơm nắm với lát Spam áp chảo, bọc rong biển, đặc sản Hawaii.",
+  "emoji": "🍙"
+ },
+ {
+  "id": "amok-trey",
+  "name": "Fish amok",
+  "nameEn": "Fish amok",
+  "region": "intl",
+  "cuisine": "se-asian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "hai-san",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Amok trey",
+  "img": "fish amok cambodia",
+  "desc": "Cá hấp nước cốt dừa lá chuối kiểu Campuchia, mềm mịn thơm ngát.",
+  "emoji": "🐟"
+ },
+ {
+  "id": "larb",
+  "name": "Larb",
+  "nameEn": "Larb",
+  "region": "intl",
+  "cuisine": "se-asian",
+  "meals": [
+   "trua",
+   "toi"
+  ],
+  "kind": "kho",
+  "tags": [
+   "cay"
+  ],
+  "price": 1,
+  "wiki": "en:Larb",
+  "img": "larb lao",
+  "desc": "Gỏi thịt băm Lào trộn rau thơm, bột gạo rang, chua cay đưa cơm.",
+  "emoji": "🥗"
+ },
+ {
+  "id": "mohinga",
+  "name": "Mohinga",
+  "nameEn": "Mohinga",
+  "region": "intl",
+  "cuisine": "se-asian",
+  "meals": [
+   "sang"
+  ],
+  "kind": "nuoc",
+  "tags": [
+   "dac-san"
+  ],
+  "price": 1,
+  "wiki": "en:Mohinga",
+  "img": "mohinga",
+  "desc": "Bún cá Myanmar nước đặc sánh thơm sả, bữa sáng quốc dân.",
+  "emoji": "🍜"
+ },
+ {
+  "id": "tea-leaf-salad",
+  "name": "Tea leaf salad",
+  "nameEn": "Tea leaf salad",
+  "region": "intl",
+  "cuisine": "se-asian",
+  "meals": [
+   "trua",
+   "vat"
+  ],
+  "kind": "kho",
+  "tags": [
+   "chay",
+   "dac-san"
+  ],
+  "price": 2,
+  "wiki": "en:Lahpet",
+  "img": "burmese tea leaf salad",
+  "desc": "Gỏi lá trà Miến Điện giòn giòn lạ miệng, trộn vui tay.",
+  "emoji": "🥗"
+ }
+]

@@ -1,0 +1,1232 @@
+{
+ "units": {
+  "bùn": {
+   "say": "bùn (đất sình)",
+   "type": "pun",
+   "enwiki": "Mud",
+   "img": "img/rebus/bun.webp",
+   "credit": {
+    "file": "File:2003-11-27 Northerner boots in mud.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2003-11-27_Northerner_boots_in_mud.jpg",
+    "artist": "Ildar Sagdejev (Specious)",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "thang": {
+   "say": "cái thang",
+   "type": "literal",
+   "enwiki": "Ladder",
+   "img": "img/rebus/thang.webp",
+   "credit": {
+    "file": "File:Ladder.webp",
+    "page": "https://commons.wikimedia.org/wiki/File:Ladder.webp",
+    "artist": "Wikideas1",
+    "license": "CC0"
+   }
+  },
+  "bò": {
+   "say": "con bò",
+   "type": "literal",
+   "enwiki": "Cattle",
+   "img": "img/rebus/bo.webp",
+   "credit": {
+    "file": "File:Cow (Fleckvieh breed) Oeschinensee Slaunger 2009-07-07.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cow_(Fleckvieh_breed)_Oeschinensee_Slaunger_2009-07-07.jpg",
+    "artist": "Kim Hansen",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "gà": {
+   "say": "con gà",
+   "type": "literal",
+   "enwiki": "Chicken",
+   "img": "img/rebus/ga.webp",
+   "credit": {
+    "file": "File:Male and female chicken sitting together.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Male_and_female_chicken_sitting_together.jpg",
+    "artist": "Andrei Niemimäki from Turku, Finland",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  "cá": {
+   "say": "con cá",
+   "type": "literal",
+   "enwiki": "Fish",
+   "img": "img/rebus/ca.webp",
+   "credit": {
+    "file": "File:Balantiocheilos melanopterus - Karlsruhe Zoo 02 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Balantiocheilos_melanopterus_-_Karlsruhe_Zoo_02_(cropped).jpg",
+    "artist": "H. Zell",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "tôm": {
+   "say": "con tôm",
+   "type": "literal",
+   "enwiki": "Shrimp",
+   "img": "img/rebus/tom.webp",
+   "credit": {
+    "file": "File:Palaemon serratus Croazia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Palaemon_serratus_Croazia.jpg",
+    "artist": "Etrusko25",
+    "license": "Public domain"
+   }
+  },
+  "cua": {
+   "say": "con cua",
+   "type": "literal",
+   "enwiki": "Crab",
+   "img": "img/rebus/cua.webp",
+   "credit": {
+    "file": "File:Cancer pagurus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cancer_pagurus.jpg",
+    "artist": "Hans Hillewaert",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "trứng": {
+   "say": "quả trứng",
+   "type": "literal",
+   "enwiki": "Egg as food",
+   "img": "img/rebus/trung.webp",
+   "credit": {
+    "file": "File:Huevo frito.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Huevo_frito.jpg",
+    "artist": "Horacio Cambeiro",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "dừa": {
+   "say": "trái dừa",
+   "type": "literal",
+   "enwiki": "Coconut",
+   "img": "img/rebus/dua.webp",
+   "credit": {
+    "file": "File:Cocos nucifera - Köhler–s Medizinal-Pflanzen-187.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cocos_nucifera_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-187.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+   }
+  },
+  "ớt": {
+   "say": "trái ớt",
+   "type": "literal",
+   "enwiki": "Chili pepper",
+   "img": "img/rebus/ot.webp",
+   "credit": {
+    "file": "File:Madame Jeanette and other chillies.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Madame_Jeanette_and_other_chillies.jpg",
+    "artist": "Takeaway",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "nấm": {
+   "say": "cây nấm",
+   "type": "literal",
+   "enwiki": "Mushroom",
+   "img": "img/rebus/nam.webp",
+   "credit": {
+    "file": "File:Sparrige Schüppling (Pholiota squarrosa).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sparrige_Sch%C3%BCppling_(Pholiota_squarrosa).jpg",
+    "artist": "Holger Krisp",
+    "license": "CC BY 3.0"
+   }
+  },
+  "cơm": {
+   "say": "chén cơm",
+   "type": "literal",
+   "enwiki": "Cooked rice",
+   "img": "img/rebus/com.webp",
+   "credit": {
+    "file": "File:Meshi 001.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Meshi_001.jpg",
+    "artist": "Ocdp",
+    "license": "CC0"
+   }
+  },
+  "rau": {
+   "say": "rau xanh",
+   "type": "literal",
+   "enwiki": "Leaf vegetable",
+   "img": "img/rebus/rau.webp",
+   "credit": {
+    "file": "File:Spinach leaves.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spinach_leaves.jpg",
+    "artist": "Nillerdk",
+    "license": "CC BY 3.0"
+   }
+  },
+  "bánh": {
+   "say": "cái bánh (bánh ngọt)",
+   "type": "literal",
+   "enwiki": "Cake",
+   "img": "img/rebus/banh.webp",
+   "credit": {
+    "file": "File:Pound layer cake.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pound_layer_cake.jpg",
+    "artist": "Scheinwerfermann",
+    "license": "Public domain"
+   }
+  },
+  "nướng": {
+   "say": "nướng thịt trên vỉ",
+   "type": "literal",
+   "enwiki": "Barbecue",
+   "img": "img/rebus/nuong.webp",
+   "credit": {
+    "file": "File:Barbecued meats.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Barbecued_meats.jpg",
+    "artist": "vxla from Chicago, US",
+    "license": "CC BY 2.0"
+   }
+  },
+  "chiên": {
+   "say": "chiên ngập dầu",
+   "type": "literal",
+   "enwiki": "Deep fryer",
+   "img": "img/rebus/chien.webp",
+   "credit": {
+    "file": "File:Deepfryer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Deepfryer.jpg",
+    "artist": "User:Kristofer2",
+    "license": "Public domain"
+   }
+  },
+  "xào": {
+   "say": "xào trong chảo",
+   "type": "literal",
+   "enwiki": "Stir frying",
+   "img": "img/rebus/xao.webp",
+   "credit": {
+    "file": "File:Making Stir-Fry (3286445383).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Making_Stir-Fry_(3286445383).jpg",
+    "artist": "Mack Male from Edmonton, AB, Canada",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  "vịt": {
+   "say": "con vịt",
+   "type": "literal",
+   "enwiki": "Duck",
+   "img": "img/rebus/vit.webp",
+   "credit": {
+    "file": "File:Bucephala-albeola-010.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bucephala-albeola-010.jpg",
+    "artist": "Mdf",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "heo": {
+   "say": "con heo",
+   "type": "literal",
+   "enwiki": "Pig",
+   "img": "img/rebus/heo.webp",
+   "credit": {
+    "file": "File:Pig farm Vampula 1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_1.jpg",
+    "artist": "kallerna",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "mực": {
+   "say": "con mực",
+   "type": "literal",
+   "enwiki": "Squid",
+   "img": "img/rebus/muc.webp",
+   "credit": {
+    "file": "File:Sepioteuthis sepioidea (Caribbean Reef Squid).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sepioteuthis_sepioidea_(Caribbean_Reef_Squid).jpg",
+    "artist": "Nhobgood Nick Hobgood",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "ốc": {
+   "say": "con ốc",
+   "type": "literal",
+   "enwiki": "Snail",
+   "img": "img/rebus/oc.webp",
+   "credit": {
+    "file": "File:Snail.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snail.jpg",
+    "artist": "Geierunited",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "ếch": {
+   "say": "con ếch",
+   "type": "literal",
+   "enwiki": "Frog",
+   "img": "img/rebus/ech.webp",
+   "credit": {
+    "file": "File:Red-eyed Leaf Frog (49661076226).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red-eyed_Leaf_Frog_(49661076226).jpg",
+    "artist": "Charlie Jackson",
+    "license": "CC BY 2.0"
+   }
+  },
+  "dê": {
+   "say": "con dê",
+   "type": "literal",
+   "enwiki": "Goat",
+   "img": "img/rebus/de.webp",
+   "credit": {
+    "file": "File:Hausziege 04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hausziege_04.jpg",
+    "artist": "Kuebi = Armin Kübelbeck",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "chim": {
+   "say": "con chim",
+   "type": "literal",
+   "enwiki": "Bird",
+   "img": "img/rebus/chim.webp",
+   "credit": {
+    "file": "File:Kleiber Flug.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kleiber_Flug.jpg",
+    "artist": "C. Robiller / naturlichter.de (Hyla meridionalis)",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "hàu": {
+   "say": "con hàu",
+   "type": "literal",
+   "enwiki": "Oyster",
+   "img": "img/rebus/hau.webp",
+   "credit": {
+    "file": "File:Crassostrea gigas p1040848.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crassostrea_gigas_p1040848.jpg",
+    "artist": "David Monniaux",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "sứa": {
+   "say": "con sứa",
+   "type": "literal",
+   "enwiki": "Jellyfish",
+   "img": "img/rebus/sua.webp",
+   "credit": {
+    "file": "File:Jelly cc11.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jelly_cc11.jpg",
+    "artist": "Dan90266",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  "tôm hùm": {
+   "say": "con tôm hùm",
+   "type": "literal",
+   "enwiki": "Lobster",
+   "img": "img/rebus/tom-hum.webp",
+   "credit": {
+    "file": "File:KreeftbijDenOsse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:KreeftbijDenOsse.jpg",
+    "artist": "Bart Braun",
+    "license": "Public domain"
+   }
+  },
+  "cá hồi": {
+   "say": "cá hồi",
+   "type": "literal",
+   "enwiki": "Salmon",
+   "img": "img/rebus/ca-hoi.webp",
+   "credit": {
+    "file": "File:Salmo salar.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Salmo_salar.jpg",
+    "artist": "Knepp, Timothy",
+    "license": "Public domain"
+   }
+  },
+  "mía": {
+   "say": "cây mía",
+   "type": "literal",
+   "enwiki": "Sugarcane",
+   "img": "img/rebus/mia.webp",
+   "credit": {
+    "file": "File:Saccharum officinarum - Köhler–s Medizinal-Pflanzen-125.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Saccharum_officinarum_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-125.jpg",
+    "artist": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "license": "Public domain"
+   }
+  },
+  "chuối": {
+   "say": "trái chuối",
+   "type": "literal",
+   "enwiki": "Banana",
+   "img": "img/rebus/chuoi.webp",
+   "credit": {
+    "file": "File:Bananavarieties.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bananavarieties.jpg",
+    "artist": "TimothyPilgrim",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "quất": {
+   "say": "trái quất",
+   "type": "literal",
+   "enwiki": "Kumquat",
+   "img": "img/rebus/quat.webp",
+   "credit": {
+    "file": "File:Kumquat from Spain.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kumquat_from_Spain.jpg",
+    "artist": "Ivar Leidus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "cam": {
+   "say": "trái cam",
+   "type": "literal",
+   "enwiki": "Orange (fruit)",
+   "img": "img/rebus/cam.webp",
+   "credit": {
+    "file": "File:Oranges - whole-halved-segment.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg",
+    "artist": "Ivar Leidus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "muối": {
+   "say": "muối",
+   "type": "literal",
+   "enwiki": "Salt shaker",
+   "img": "img/rebus/muoi.webp",
+   "credit": {
+    "file": "File:Salt, sugar and pepper shakers.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Salt,_sugar_and_pepper_shakers.jpg",
+    "artist": "Paul Goyette",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  "mật ong": {
+   "say": "mật ong",
+   "type": "literal",
+   "enwiki": "Honey",
+   "img": "img/rebus/mat-ong.webp",
+   "credit": {
+    "file": "File:Runny hunny.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Runny_hunny.jpg",
+    "artist": "Scott Bauer, USDA ARS",
+    "license": "Public domain"
+   }
+  },
+  "dâu tây": {
+   "say": "trái dâu tây",
+   "type": "literal",
+   "enwiki": "Strawberry",
+   "img": "img/rebus/dau-tay.webp",
+   "credit": {
+    "file": "File:Garden strawberry (Fragaria × ananassa) single2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg",
+    "artist": "Ivar Leidus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "ngô": {
+   "say": "bắp ngô",
+   "type": "literal",
+   "enwiki": "Corn on the cob",
+   "img": "img/rebus/ngo.webp",
+   "credit": {
+    "file": "File:CookedCornOnTheCob.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:CookedCornOnTheCob.JPG",
+    "artist": "Jonathunder",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "khoai lang": {
+   "say": "khoai lang",
+   "type": "literal",
+   "enwiki": "Sweet potato",
+   "img": "img/rebus/khoai-lang.webp",
+   "credit": {
+    "file": "File:Ipomoea batatas 006.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_006.JPG",
+    "artist": "Llez",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "bí đỏ": {
+   "say": "trái bí đỏ",
+   "type": "literal",
+   "enwiki": "Pumpkin",
+   "img": "img/rebus/bi-do.webp",
+   "credit": {
+    "file": "File:FrenchMarketPumpkinsB.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FrenchMarketPumpkinsB.jpg",
+    "artist": "Infrogmation of New Orleans",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "rau muống": {
+   "say": "rau muống",
+   "type": "literal",
+   "enwiki": "Ipomoea aquatica",
+   "img": "img/rebus/rau-muong.webp",
+   "credit": {
+    "file": "File:N Ipoa D1600.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:N_Ipoa_D1600.JPG",
+    "artist": "Eric Guinther",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "atiso": {
+   "say": "hoa atiso",
+   "type": "literal",
+   "enwiki": "Artichoke",
+   "img": "img/rebus/atiso.webp",
+   "credit": {
+    "file": "File:Artichoke J1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Artichoke_J1.jpg",
+    "artist": "Jamain",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "đậu xanh": {
+   "say": "đậu xanh",
+   "type": "literal",
+   "enwiki": "Mung bean",
+   "img": "img/rebus/dau-xanh.webp",
+   "credit": {
+    "file": "File:Mung beans (Vigna radiata).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mung_beans_(Vigna_radiata).jpg",
+    "artist": "Ivar Leidus",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "sữa": {
+   "say": "ly sữa",
+   "type": "literal",
+   "enwiki": "Milk",
+   "img": "img/rebus/sua-2.webp",
+   "credit": {
+    "file": "File:Glass of Milk (33657535532).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glass_of_Milk_(33657535532).jpg",
+    "artist": "NIAID",
+    "license": "CC BY 2.0"
+   }
+  },
+  "sữa chua": {
+   "say": "hũ sữa chua",
+   "type": "literal",
+   "enwiki": "Yogurt",
+   "img": "img/rebus/sua-chua.webp",
+   "credit": {
+    "file": "File:Joghurt.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joghurt.jpg",
+    "artist": "No machine-readable author provided. Rainer Zenz assumed (based on copyright cla",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "kem": {
+   "say": "cây kem",
+   "type": "literal",
+   "enwiki": "Ice cream",
+   "img": "img/rebus/kem.webp",
+   "credit": {
+    "file": "File:Vanilla Ice Cream Cone at Camp Manitoulin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vanilla_Ice_Cream_Cone_at_Camp_Manitoulin.jpg",
+    "artist": "Steven Depolo",
+    "license": "CC BY 2.0"
+   }
+  },
+  "bơ": {
+   "say": "miếng bơ",
+   "type": "literal",
+   "enwiki": "Butter",
+   "img": "img/rebus/bo-2.webp",
+   "credit": {
+    "file": "File:Švédský koláč naruby 904 (cropped).JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:%C5%A0v%C3%A9dsk%C3%BD_kol%C3%A1%C4%8D_naruby_904_(cropped).JPG",
+    "artist": "Matěj Baťha",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "cà phê": {
+   "say": "ly cà phê",
+   "type": "literal",
+   "enwiki": "Coffee",
+   "img": "img/rebus/ca-phe.webp",
+   "credit": {
+    "file": "File:Latte and dark coffee.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Latte_and_dark_coffee.jpg",
+    "artist": "Bex Walton",
+    "license": "CC BY 2.0"
+   }
+  },
+  "trà": {
+   "say": "tách trà",
+   "type": "literal",
+   "enwiki": "Tea",
+   "img": "img/rebus/tra.webp",
+   "credit": {
+    "file": "File:Longjing tea steeping in gaiwan.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Longjing_tea_steeping_in_gaiwan.jpg",
+    "artist": "Difference engine",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "đá": {
+   "say": "đá lạnh",
+   "type": "literal",
+   "enwiki": "Ice cube",
+   "img": "img/rebus/da.webp",
+   "credit": {
+    "file": "File:Ice cubes openphoto.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ice_cubes_openphoto.jpg",
+    "artist": "Darren Hester",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  "canh": {
+   "say": "tô canh",
+   "type": "literal",
+   "enwiki": "Soup",
+   "img": "img/rebus/canh.webp",
+   "credit": {
+    "file": "File:Asparagus soup (spargelsuppe).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Asparagus_soup_(spargelsuppe).jpg",
+    "artist": "Petar Milošević",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "cháo": {
+   "say": "tô cháo",
+   "type": "literal",
+   "enwiki": "Congee",
+   "img": "img/rebus/chao.webp",
+   "credit": {
+    "file": "File:Chinese rice congee.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chinese_rice_congee.jpg",
+    "artist": "Daiju Azuma",
+    "license": "CC BY-SA 2.5"
+   }
+  },
+  "lẩu": {
+   "say": "nồi lẩu",
+   "type": "literal",
+   "enwiki": "Hot pot",
+   "img": "img/rebus/lau.webp",
+   "credit": {
+    "file": "File:Hot Pot.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_Pot.jpg",
+    "artist": "Praneeth Thalla",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "thịt": {
+   "say": "miếng thịt",
+   "type": "literal",
+   "enwiki": "Meat",
+   "img": "img/rebus/thit.webp",
+   "credit": {
+    "file": "File:FoodMeat.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:FoodMeat.jpg",
+    "artist": "Unknown photographer",
+    "license": "Public domain"
+   }
+  },
+  "hải sản": {
+   "say": "hải sản",
+   "type": "literal",
+   "enwiki": "Seafood",
+   "img": "img/rebus/hai-san.webp",
+   "credit": {
+    "file": "File:Plateau van zeevruchten.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plateau_van_zeevruchten.jpg",
+    "artist": "Frits Hoogesteger at nl.wikibooks",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "suối": {
+   "say": "con suối",
+   "type": "literal",
+   "enwiki": "Stream",
+   "img": "img/rebus/suoi.webp",
+   "credit": {
+    "file": "File:Цврцка 2 PPRP001.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%D0%A6%D0%B2%D1%80%D1%86%D0%BA%D0%B0_2_PPRP001.jpg",
+    "artist": "Svjetlopis, Vladimir Tadic",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "rừng": {
+   "say": "khu rừng",
+   "type": "literal",
+   "enwiki": "Forest",
+   "img": "img/rebus/rung.webp",
+   "credit": {
+    "file": "File:Aerial view of the Amazon Rainforest.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Amazon_Rainforest.jpg",
+    "artist": "lubasi",
+    "license": "CC BY-SA 2.0"
+   }
+  },
+  "than": {
+   "say": "than đá",
+   "type": "literal",
+   "enwiki": "Coal",
+   "img": "img/rebus/than.webp",
+   "credit": {
+    "file": "File:Bituminous Coal.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Bituminous_Coal.JPG",
+    "artist": "Amcyrus2012",
+    "license": "CC BY 4.0"
+   }
+  },
+  "sườn": {
+   "say": "sườn",
+   "type": "literal",
+   "enwiki": "Spare ribs",
+   "img": "img/rebus/suon.webp",
+   "credit": {
+    "file": "File:Spareribs 20160506 182617113.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spareribs_20160506_182617113.jpg",
+    "artist": "Edo de Roo",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "bánh mì": {
+   "say": "ổ bánh mì",
+   "type": "literal",
+   "enwiki": "Bread",
+   "img": "img/rebus/banh-mi.webp",
+   "credit": {
+    "file": "File:Korb mit Brötchen.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Korb_mit_Br%C3%B6tchen.JPG",
+    "artist": "3268zauber",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "gối": {
+   "say": "cái gối",
+   "type": "literal",
+   "enwiki": "Pillow",
+   "img": "img/rebus/goi.webp",
+   "credit": {
+    "file": "File:Pillows on a hotel bed.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pillows_on_a_hotel_bed.jpg",
+    "artist": "Amin",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "huế": {
+   "say": "Đại Nội Huế",
+   "type": "place",
+   "enwiki": "Complex of Huế Monuments",
+   "img": "img/rebus/hue.webp",
+   "credit": {
+    "file": "File:Huế (2024) - Meridian Gate - Ngọ Môn (Hoàng thành Huế) - img 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hu%E1%BA%BF_(2024)_-_Meridian_Gate_-_Ng%E1%BB%8D_M%C3%B4n_(Ho%C3%A0ng_th%C3%A0nh_Hu%E1%BA%BF)_-_img_02.jpg",
+    "artist": "Chainwit.",
+    "license": "CC BY 4.0"
+   }
+  },
+  "hội an": {
+   "say": "Chùa Cầu Hội An",
+   "type": "place",
+   "enwiki": "Japanese Covered Bridge",
+   "img": "img/rebus/hoi-an.webp",
+   "credit": {
+    "file": "File:2024 Hội An - Japanese Covered Bridge (Chùa Cầu) after renovation - img 11.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2024_H%E1%BB%99i_An_-_Japanese_Covered_Bridge_(Ch%C3%B9a_C%E1%BA%A7u)_after_renovation_-_img_11.jpg",
+    "artist": "Chainwit.",
+    "license": "CC BY 4.0"
+   }
+  },
+  "hạ long": {
+   "say": "Vịnh Hạ Long",
+   "type": "place",
+   "enwiki": "Hạ Long Bay",
+   "img": "img/rebus/ha-long.webp",
+   "credit": {
+    "file": "File:Ha Long Bay in 2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg",
+    "artist": "Taewangkorea",
+    "license": "CC BY-SA 4.0"
+   }
+  },
+  "sa pa": {
+   "say": "ruộng bậc thang Sa Pa",
+   "type": "place",
+   "enwiki": "Sa Pa",
+   "img": "img/rebus/sa-pa.webp",
+   "credit": {
+    "file": "File:Sa Pa.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sa_Pa.jpg",
+    "artist": "Bùi Thụy Đào Nguyên",
+    "license": "Public domain"
+   }
+  },
+  "sài gòn": {
+   "say": "Nhà thờ Đức Bà Sài Gòn",
+   "type": "place",
+   "enwiki": "Notre-Dame Cathedral Basilica of Saigon",
+   "img": "img/rebus/sai-gon.webp",
+   "credit": {
+    "file": "File:Basílica de Nuestra Señora, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 03.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_Nuestra_Se%C3%B1ora,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_03.JPG",
+    "artist": "Diego Delso",
+    "license": "CC BY-SA 3.0"
+   }
+  },
+  "đà lạt": {
+   "say": "hồ Xuân Hương Đà Lạt",
+   "type": "place",
+   "enwiki": "Da Lat",
+   "img": "img/rebus/da-lat.webp",
+   "credit": {
+    "file": "File:Xuan Huong Lake 11.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Xuan_Huong_Lake_11.jpg",
+    "artist": "Diane Selwyn",
+    "license": "CC BY-SA 3.0"
+   }
+  }
+ },
+ "dishes": [
+  {
+   "id": "bun-thang",
+   "units": [
+    "bùn",
+    "thang"
+   ]
+  },
+  {
+   "id": "bun-oc",
+   "units": [
+    "bùn",
+    "ốc"
+   ]
+  },
+  {
+   "id": "banh-goi",
+   "units": [
+    "bánh",
+    "gối"
+   ]
+  },
+  {
+   "id": "banh-chuoi",
+   "units": [
+    "bánh",
+    "chuối",
+    "nướng"
+   ]
+  },
+  {
+   "id": "banh-trung-nuong",
+   "units": [
+    "bánh",
+    "trứng",
+    "nướng"
+   ]
+  },
+  {
+   "id": "banh-ngo-mong",
+   "units": [
+    "bánh",
+    "ngô",
+    "nướng"
+   ]
+  },
+  {
+   "id": "ca-suoi-nuong",
+   "units": [
+    "cá",
+    "suối",
+    "nướng"
+   ]
+  },
+  {
+   "id": "lau-ca-hoi",
+   "units": [
+    "lẩu",
+    "cá hồi",
+    "sa pa"
+   ]
+  },
+  {
+   "id": "trung-nuong",
+   "units": [
+    "trứng",
+    "nướng",
+    "than"
+   ]
+  },
+  {
+   "id": "ngo-nuong",
+   "units": [
+    "ngô",
+    "nướng"
+   ]
+  },
+  {
+   "id": "khoai-lang-nuong",
+   "units": [
+    "khoai lang",
+    "nướng"
+   ]
+  },
+  {
+   "id": "lau-de",
+   "units": [
+    "lẩu",
+    "dê"
+   ]
+  },
+  {
+   "id": "lau-ech",
+   "units": [
+    "lẩu",
+    "ếch"
+   ]
+  },
+  {
+   "id": "lau-nam",
+   "units": [
+    "lẩu",
+    "nấm"
+   ]
+  },
+  {
+   "id": "ga-nuong-mat-ong",
+   "units": [
+    "gà",
+    "nướng",
+    "mật ong"
+   ]
+  },
+  {
+   "id": "canh-bun",
+   "units": [
+    "canh",
+    "bùn"
+   ]
+  },
+  {
+   "id": "oc-xao-chuoi",
+   "units": [
+    "ốc",
+    "xào",
+    "chuối"
+   ]
+  },
+  {
+   "id": "muc-nuong-ha-long",
+   "units": [
+    "mực",
+    "nướng",
+    "hạ long"
+   ]
+  },
+  {
+   "id": "chao-chim",
+   "units": [
+    "cháo",
+    "chim"
+   ]
+  },
+  {
+   "id": "chao-ga",
+   "units": [
+    "cháo",
+    "gà"
+   ]
+  },
+  {
+   "id": "chao-hau-ha-long",
+   "units": [
+    "cháo",
+    "hàu",
+    "hạ long"
+   ]
+  },
+  {
+   "id": "ca-phe-trung",
+   "units": [
+    "cà phê",
+    "trứng"
+   ]
+  },
+  {
+   "id": "ca-phe-muoi",
+   "units": [
+    "cà phê",
+    "muối"
+   ]
+  },
+  {
+   "id": "tra-da",
+   "units": [
+    "trà",
+    "đá"
+   ]
+  },
+  {
+   "id": "sua-chua-ca-phe",
+   "units": [
+    "sữa chua",
+    "cà phê"
+   ]
+  },
+  {
+   "id": "bun-bo-hue",
+   "units": [
+    "bùn",
+    "bò",
+    "huế"
+   ]
+  },
+  {
+   "id": "bun-thit-nuong-hue",
+   "units": [
+    "bùn",
+    "thịt",
+    "nướng",
+    "huế"
+   ]
+  },
+  {
+   "id": "banh-canh-cua-hue",
+   "units": [
+    "bánh",
+    "canh",
+    "cua",
+    "huế"
+   ]
+  },
+  {
+   "id": "chao-ca-hue",
+   "units": [
+    "cháo",
+    "cá",
+    "huế"
+   ]
+  },
+  {
+   "id": "com-ga-hoi-an",
+   "units": [
+    "cơm",
+    "gà",
+    "hội an"
+   ]
+  },
+  {
+   "id": "bun-sua-nha-trang",
+   "units": [
+    "bùn",
+    "sứa"
+   ]
+  },
+  {
+   "id": "kem-bo-da-lat",
+   "units": [
+    "kem",
+    "bơ",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "dau-tay-da-lat",
+   "units": [
+    "dâu tây",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "tra-atiso-da-lat",
+   "units": [
+    "trà",
+    "atiso",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "lau-rau-da-lat",
+   "units": [
+    "lẩu",
+    "rau",
+    "đà lạt"
+   ]
+  },
+  {
+   "id": "heo-rung-nuong",
+   "units": [
+    "heo",
+    "rừng",
+    "nướng"
+   ]
+  },
+  {
+   "id": "com-chien-hai-san",
+   "units": [
+    "cơm",
+    "chiên",
+    "hải sản"
+   ]
+  },
+  {
+   "id": "com-suon-nuong",
+   "units": [
+    "cơm",
+    "sườn",
+    "nướng"
+   ]
+  },
+  {
+   "id": "com-chien-trung-muoi",
+   "units": [
+    "cơm",
+    "chiên",
+    "trứng",
+    "muối"
+   ]
+  },
+  {
+   "id": "bun-suon",
+   "units": [
+    "bùn",
+    "sườn"
+   ]
+  },
+  {
+   "id": "bun-bo-xao",
+   "units": [
+    "bùn",
+    "bò",
+    "xào"
+   ]
+  },
+  {
+   "id": "banh-canh-cua",
+   "units": [
+    "bánh",
+    "canh",
+    "cua"
+   ]
+  },
+  {
+   "id": "banh-canh-tom",
+   "units": [
+    "bánh",
+    "canh",
+    "tôm"
+   ]
+  },
+  {
+   "id": "banh-mi-thit",
+   "units": [
+    "bánh mì",
+    "thịt",
+    "sài gòn"
+   ]
+  },
+  {
+   "id": "banh-mi-nuong-muoi-ot",
+   "units": [
+    "bánh mì",
+    "nướng",
+    "muối",
+    "ớt"
+   ]
+  },
+  {
+   "id": "banh-bo-nuong",
+   "units": [
+    "bánh",
+    "bò",
+    "nướng"
+   ]
+  },
+  {
+   "id": "banh-cam",
+   "units": [
+    "bánh",
+    "cam"
+   ]
+  },
+  {
+   "id": "tom-nuong-muoi-ot",
+   "units": [
+    "tôm",
+    "nướng",
+    "muối",
+    "ớt"
+   ]
+  },
+  {
+   "id": "ca-phe-sua-da",
+   "units": [
+    "cà phê",
+    "sữa",
+    "đá"
+   ]
+  },
+  {
+   "id": "kem-bo-dua",
+   "units": [
+    "kem",
+    "bơ",
+    "dừa"
+   ]
+  },
+  {
+   "id": "lau-hai-san",
+   "units": [
+    "lẩu",
+    "hải sản"
+   ]
+  },
+  {
+   "id": "khoai-lang-chien",
+   "units": [
+    "khoai lang",
+    "chiên"
+   ]
+  },
+  {
+   "id": "ga-nuong-muoi-ot",
+   "units": [
+    "gà",
+    "nướng",
+    "muối",
+    "ớt"
+   ]
+  },
+  {
+   "id": "ech-chien-bo",
+   "units": [
+    "ếch",
+    "chiên",
+    "bơ"
+   ]
+  },
+  {
+   "id": "canh-bi-do-tom",
+   "units": [
+    "canh",
+    "bí đỏ",
+    "tôm"
+   ]
+  },
+  {
+   "id": "chao-ech",
+   "units": [
+    "cháo",
+    "ếch"
+   ]
+  },
+  {
+   "id": "chao-dau-xanh",
+   "units": [
+    "cháo",
+    "đậu xanh"
+   ]
+  },
+  {
+   "id": "chao-vit",
+   "units": [
+    "cháo",
+    "vịt"
+   ]
+  }
+ ]
+}

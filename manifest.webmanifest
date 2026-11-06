@@ -1,0 +1,20 @@
+{
+  "name": "Hôm nay ăn gì? — để cái bát lo",
+  "short_name": "Ăn gì?",
+  "description": "Không biết ăn gì? Bấm một nút, cái bát chọn dùm trong hơn 700 món.",
+  "lang": "vi",
+  "start_url": "./?src=app",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eeefec",
+  "theme_color": "#cc2018",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Chọn món ngay", "short_name": "Chọn ngay", "url": "./?go=1", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Đố hôm nay", "url": "./?daily=1", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
