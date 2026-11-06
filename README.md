@@ -47,6 +47,8 @@ npm run dev
 
 ## Deploy
 
+Push lên nhánh `main` là Cloudflare Workers Builds tự chạy `npx wrangler deploy`. Deploy bằng tay:
+
 ```bash
 npx wrangler deploy
 ```
